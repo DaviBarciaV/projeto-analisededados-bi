@@ -1,0 +1,721 @@
+id_cliente,nome,cpf,data_nascimento,cidade,uf,telefone,email,categoria_cnh,data_cadastro
+C0506,Rodrigo Martins,090 437 614 54,14/12/1960,BAYEUX,PB,(83) 93344-5908,rodrigo.martins178@outlook.com,AB,03/02/2024
+C0664,Anderson Moreira Souza,329.339.514-27,17/02/1985, São Paulo  ,SP,11 97561 4065,,moto,25/01/2025
+C0713,LARISSA COSTA,04632178757,21/05/1977,JP,PB,(83) 97333-6826,nao informado,A,13/02/2026
+C0434,Larissa Carvalho Dias,409 815 752 92,27/08/1974,João Pessoa,SP,83 95500 7477,larissa.carvalho.dias371@yahoo.com.br,AB,03/12/2024
+C0710,Claudio Lopes,98137731164,06/07/1981,Osasco,SP,,claudio.lopes814@gmail.com,AB,11/06/24
+C0168,Leonardo Pereira Almeida,880.663.473-03,,João Pessoa,PB,,leonardo.pereira.almeida382@gmail.com,AB,03/09/2025
+C0369, Pedro Silva Machado  ,329.788.164-67,11/12/1981,Santa Rita,PB,(83) 96969-8969,pedro.silva.machado312@yahoo.com.br,A,21/01/2024
+C0042,Eduardo Freitas,076.605.904-48,22/05/1972,João Pessoa,PB,(83) 91542-8209,eduardo.freitas475@outlook.com,A,01/08/2026
+C0367,Ana Silva Medeiros,666.101.772-03,22/06/1995,João Pessoa,PB,83 95170 2272,ana.silva.medeiros144@yahoo.com.br,A,28/12/2025
+C0235,João Cavalcanti,376.752.025-45,01/03/1972,SÃO PAULO,SP,0,joao.cavalcanti936@hotmail.com,A,21/09/24
+C0512, Rodrigo Moreira Dias  ,843.895.124-76,04/12/1995,São Paulo,SP,(11) 97309-9884,RODRIGO.MOREIRA.DIAS30HOTMAIL.COM,AB,22/11/2023
+C0127,Fernando Barbosa Dias,641.990.998-26,30/07/1983,Guarulhos,SP,(11)96752-5626,fernando.barbosa.dias619@outlook.com,A,29/04/2024
+C0586,Diego Nascimento Rodrigues,659.292.188-05,19/06/1982,São Paulo,SP,(11) 97172-6167,diego.nascimento.rodrigues220@outlook.com,AB,2023-11-20
+C0393,Rodrigo Santos,378.039.891-41,1997-12-08,São Paulo,,(11) 91812-7638,rodrigo.santos518@gmail.com,AB,04/12/2025
+C0412,Josué Oliveira,89016517091,07/07/79,Cabedelo,PB,(83) 97694-7332,josue.oliveira822outlook.com,AB,25/01/2025
+C0019,Sérgio Rodrigues,753.837.405-09,08/05/1986,São Paulo,SP,(11) 96572-3341,sergio.rodrigues372@hotmail.com,A,12/01/2025
+C0052,Ângelo Teixeira Machado,252.049.462-77,,Osasco,SP,(11) 94404-7640,angelo.teixeira.machado771@outlook.com,moto,15/09/2023
+C0371,José Pereira Monteiro,741.650.473-31,13/12/1968,sao paulo,SP,(11) 92584-5344,jose.pereira.monteiro980@outlook.com,A,19/04/2025
+C0706,Italo Oliveira,000.000.000-00,18/11/1990,São Paulo,SP,(11) 93768-1036,italo.oliveira607@gmail.com,A,16/10/2025
+C0093,Luciana Freitas Ribeiro,185.714.630-09,05/07/1986,SAO PAULO,SP,11 91356 9502,,A,05-10-2026
+C0518,vinícius souza costa,314.763.351-88,10/02/1961,João Pessoa,PB,(83) 95127-7005,vinicius.souza.costa969@gmail.com,A,08/06/2024
+C0585, Camila Lopes  ,618.820.435-00,1979-02-24,Bayeux,PB,(83)93911-2476,camila.lopes769@hotmail.com,A,2025-10-18
+C0405,Carlos Teixeira,358.786.820-19,,João Pessoa,PB,+55 83 93784-6375,carlos.teixeira248@yahoo.com.br,A,2024-09-15
+C0655,Maria Rodrigues,131.891.817-30,1978-10-04,João Pessoa,PB,(83) 92090-8525,maria.rodrigues822@yahoo.com.br,A,10/06/2024
+C0236,Thiago Costa,674.004.808-60,21/01/1975,João Pessoa,PB,(83) 95993-3917,thiago.costa221@yahoo.com.br,A,05/02/2025
+C0637,Lucas Dias,609.129.564-70,08/08/1989,São Paulo,SP,(11) 95556-5035,lucas.dias67@gmail.com,AB,03/08/2025
+C0057,Felipe Cavalcanti,850 885 306 57,24/05/1986,João Pessoa,SP,(83) 98027-2431,,AB,07/10/2026
+C0513,Carlos Pereira,655.528.366-56,20/02/1962,São Paulo,SP,(11)94547-9172,carlos.pereira316@hotmail.com,AB,2026-03-11
+C0532, Ana Ribeiro  ,,15/01/1967,São Paulo,SP,(11) 92683-9523,ana.ribeiro127@gmail.com,AB,21/11/2023
+C0285,Camila Medeiros,236.165.307-87,09/06/1978,SP,SP,(11)94224-3944,,AB,08/09/2024
+C0690,Camila Machado,844.765.490-04,10/05/2015,São Paulo,SP,(11) 94646-2829, camila.machado341@outlook.com  ,moto,2023-11-17
+C0158,Fernando Almeida,166.295.049-35,02-11-1986,João Pessoa,PB,,fernando.almeida703@yahoo.com.br,A,15/08/2024
+C0429,Fernando Pereira Gomes,425.015.561-84,16/10/1966,João Pessoa,PB,(83) 95070-5224,fernando.pereira.gomes311@gmail.com,AB,2023-10-17
+C0408,Aline Fonseca Silva,13962207123,1987-03-13,São Paulo,SP,(11) 93675-4470,ALINE.FONSECA.SILVA606@YAHOO.COM.BR,moto,28/04/2026
+C0533,Thiago Rocha Silva,893 755 640 05,18/12/1984,Cabedelo,PB,(83) 92694-4301, thiago.rocha.silva731@outlook.com  ,A,19/10/2025
+C0031, Juliana Cardoso Cavalcanti  ,141.187.280-27,22/04/1973,João Pessoa,PB,(83) 91594-1215,juliana.cardoso.cavalcanti730@yahoo.com.br,A,29/09/2024
+C0040,Andre Araujo Costa,833.715.416-31,12/08/1988,Guarulhos,SP,(11) 92458-4912,andre.araujo.costa174@outlook.com,A,05/08/2026
+C0365,gustavo almeida,458.420.971-01,29/06/1976,João pessoa,PB,(83) 98368-1017,GUSTAVO.ALMEIDA811@GMAIL.COM,AB,25/12/2023
+C0642,Maria Machado Cardoso,965.505.583-30,31/10/1984,João Pessoa,PB,(83) 97580-9442,maria.machado.cardoso647@hotmail.com,A,27/11/2023
+C0182,Patrícia Ferreira Barbosa,,29/08/2000,João Pessoa,PB,(83) 91770-1032,PATRICIA.FERREIRA.BARBOSA847@HOTMAIL.COM,A,29/10/2023
+C0251,Anderson Fonseca Santos,857.616.974-52,11/12/1988,João Pessoa,PB,(83) 93385-4017,anderson.fonseca.santos242@hotmail.com,AB,18/04/2024
+C0538,Diego Medeiros,653.682.889-02,08/06/1965,João Pessoa,PB,(83) 94959-1785,diego.medeiros121@gmial.com,AB,11/01/2024
+C0605,Thiago Medeiros,184.434.641-52,29/09/1964,Cabedelo,pb,83963552547,thiago.medeiros839@hotmail.com,A,02/10/2025
+C0107,Gabriel Fonseca,018.377.326-04,25/11/1998,João Pessoa,PB,(83) 91749-2798,gabriel.fonseca710yahoo.com.br,A,05/08/2025
+C0264,Ângelo Ribeiro Oliveira,881.620.881-06,04/04/1961,João Pessoa,PB,(83) 97759-3076,angelo.ribeiro.oliveira745@yahoo.com.br,A,26/02/2024
+C0470,Fernando Carvalho Gomes,033.022.170-56,25-04-1995,João Pessoa,PB,0,fernando.carvalho.gomes545@outlook.com,AB,28/09/2026
+C0625,Fernando Albuquerque Monteiro,716.116.663-80,03/06/1997,guarulhos,SP,(11) 99150-3299,fernando.albuquerque.monteiro302@outlook.com,A/B,25-03-2024
+C0545,Juliana Moreira Oliveira,003.677.602-40,12/01/1975,Guarulhos,SP,(11) 93854-9742,juliana.moreira.oliveira385@yahoo.com.br,AB,27/01/2026
+C0224,Gustavo Cardoso,857 888 837 48,29/06/1995,Osasco,SP,(11) 95276-2489,gustavo.cardoso933@outlook.com,,05/10/2023
+C0184,André Barbosa,81178964126,28/02/1975,SÃO PAULO,SP,(11) 94954-3141,andre.barbosa483@gmail.com,A,23/04/25
+C0110,Rafael Lima Rodrigues,846.980.900-47,1963-07-08,Cabedelo,PB,(83) 94576-9874,RAFAEL.LIMA.RODRIGUES293@HOTMAIL.COM,A,2024-10-19
+C0693,Felipe Machado Cavalcanti,805.015.201-75,21/09/1976,São Paulo,SP,(11)98895-4104,felipe.machado.cavalcanti972@hotmail.com,A,18-08-2023
+C0600,Marcos Pereira Almeida,390.873.749-00,02/11/1983,São Paulo,SP,(11) 98001-9447,,AB,09/10/2024
+C0176,André Dias Martins,252.166.791-42,22/06/99,João Pessoa,PB,(83) 97229-1386,,AB,15/12/2024
+C0654,Jefferson Souza Rodrigues,197 726 758 53,24/12/1987,João Pessoa,pb,+55 83 95486-6371,,AB,05/08/2023
+C0036,Rafael Machado Albuquerque,858.196.839-61,05/06/2000,Cabedelo,PB,+55 83 95911-4492,rafael.machado.albuquerque795@hotmail.com,AB,2024-06-26
+C0205,Gabriel Lopes,370.895.561-72,18/08/1989, João Pessoa  ,PB,(83) 98119-2877,gabriel.lopes305@outlook.com,,31/07/2025
+C0607,Josué Freitas,616.558.699-82,11/04/1968,São Paulo,SP,(11) 98778-8921,josue.freitas299@outlook.com,A,10/07/2025
+C0079,Wesley Costa Cardoso,666.210.825-41,,sao paulo,SP,(11) 92257-8419,,AB,11/07/2024
+C0659,Ítalo Oliveira,283.209.121-73,18/11/1990,SÃO PAULO,sp,(11) 93768-1036,italo.oliveira607@gmail.com,A,2025-10-16
+C0356,Patrícia Nascimento Santos,962.974.135-72,12/07/1992,João Pessoa,PB,(83) 95023-2447,,A,01/12/2024
+C0174,Pedro Cavalcanti Ferreira,210.977.260-65,09/07/1974,Osasco,SP,(11) 94950-2680,pedro.cavalcanti.ferreira710@outlook.com,,06/12/2023
+C0521,Marcos Silva Nascimento,310.061.596-51,02/06/1981,Joao Pessoa,PB,N/A,marcos.silva.nascimento890@hotmail.com,A,14/01/2024
+C0514,Rodrigo Santos,952.075.109-33,20/07/1987,Bayeux,PB,(83) 97128-4220,rodrigo.santos364@yahoo.com.br,AB,09/09/2024
+C0132,Jefferson Cardoso Pereira,832.124.048-76,15/02/1999,JOAO PESSOA,PB,(83) 98767-2119,jefferson.cardoso.pereira779@outlook.com,A,08/06/2024
+C0150,Eduardo Martins Moreira,635.771.910-02,02/04/1998,João Pessoa,PB,(83) 94766-1359,eduardo.martins.moreira208@outlook.com,a,02/06/2024
+C0336,Camila Costa Araújo,197.814.544-30,20/07/1997,João Pessoa,PB,83947225660,camila.costa.araujo932@gmail.com,A,10/04/2026
+C0716,Anderson Dias,58950660828,19-02-1984,João Pessoa,PB,,ANDERSON.DIAS322@GMAIL.COM,AB,
+C0403,Lucas Martins Ribeiro,507.177.842-85,01/11/1987,Santa Rita,PB,(83) 96220-3630,LUCAS.MARTINS.RIBEIRO137@OUTLOOK.COM,A,25/03/2024
+C0077,João Cavalcanti Monteiro,593.561.828-61,02/10/1991,João Pessoa,PB,(83) 99637-9578, joao.cavalcanti.monteiro197@outlook.com  ,A,14/11/2023
+C0608,Luís Albuquerque,622.028.699-81,,SÃO PAULO,SP,(11) 93079-3521,luis.albuquerque58@gmail.com,AB,08/12/24
+C0349,Larissa Pereira Cardoso,421 921 392 94,02/10/1997,São Paulo,SP,(11) 95584-4752,larissa.pereira.cardoso652@gmail.com,A,2025-01-14
+C0112,Aline Oliveira Albuquerque,092.070.098-78,20/04/1963,Cabedelo,PB,(83) 91213-8994,aline.oliveira.albuquerque89@hotmail.com,,
+C0109,Felipe Araújo Monteiro,475.542.568-69,17/03/1996,João Pessoa,PB,(83) 94462-1027,,moto,
+C0081,Joao Fonseca,446.551.677-07,20/12/1991,São Paulo,SP,(11) 95714-5252,joao.fonseca184@yahoo.com.br,A,27/02/2025
+C0051,Larissa Santos,08066171289,06-08-1971, João Pessoa  ,PB,(83) 97924-2260,larissa.santos920@yahoo.com.br,A,04/11/2023
+C0473, Diego Gomes Freitas  ,059.966.386-08,03/10/1975,São Paulo,SP,(11) 98377-3411,diego.gomes.freitas475@hotmail.com,A,01/12/2023
+C0197,Luís Lima,852.569.599-54,02/04/1966,São Paulo,SP,11 92244 4573,luis.lima268@yahoo.com.br,AB,2026-07-06
+C0466,Eduardo Martins,349.860.145-61,20/11/1998,João Pessoa,PB,(83) 91353-8420,eduardo.martins493@outlook.com,A,22/02/2024
+C0149,Fernando Cardoso,088.055.683-56,29/12/92,Osasco,SP,11 99984 1086,fernando.cardoso769@hotmail.com,A,08/10/2025
+C0090,Thiago Cardoso Fonseca,48833599217,15/03/1973,joão pessoa,PB,(83)94628-4526,thiago.cardoso.fonseca200@gmail.com,A,03/09/2023
+C0347,Leonardo Lima,954.236.032-01,1981-09-17,João Pessoa,PB,(83) 96047-8864,leonardo.lima103@hotmail.com,A,03/05/2024
+C0320,Fernando Moreira,133.781.881-16,01/12/1996,SP,SP,(11) 99997-3905,fernando.moreira394@outlook.com,A,07/03/2025
+C0166,Ângelo Cavalcanti,827.003.765-51,14/07/1974,João Pessoa,PB,(83) 97757-3322,angelo.cavalcanti80@yahoo.com.br,AB,
+C0632,Felipe Nascimento Araújo,506.013.674-13,22/06/1994,João Pessoa,PB,(83) 94471-1035,felipe.nascimento.araujo91@outlook.com,A,22/10/2023
+C0463,Thiago Lopes,760.785.273-76,03-02-1964,João Pessoa,PB,(83) 91647-3696,thiago.lopes100@gmail.com,AB,01/10/2024
+C0447, Fernanda Albuquerque  ,982.012.654-06,1975-12-15,Bayeux,PB,(83) 93657-1492,fernanda.albuquerque760@gmail.com,A,02/06/2024
+C0067,Jefferson Machado,687.237.246-69,19/11/1964,João Pessoa,PB,(83) 96119-3238,jefferson.machado295@yahoo.com.br,A,11/10/2024
+C0209, Gustavo Lopes  ,140.900.401-67,22/01/1973,São Paulo,SP,(11) 93054-7411,gustavo.lopes794@outlook.com,A,08/08/24
+C0274,Anderson Dias,589.506.608-28,19/02/1984,João Pessoa,SP,(83) 91160-7673, anderson.dias322@gmail.com  ,,11/11/2025
+C0633,Rodrigo Pereira Oliveira,548.248.727-65,1979-04-29,João Pessoa,PB,(83) 99912-7078,rodrigo.pereira.oliveira924@yahoo.com.br,A,13/02/2024
+C0525,Larissa Machado Monteiro,691.795.321-37,29/07/1982,João Pessoa,PB,(83) 98281-1123,,,12/11/2024
+C0329,cláudio martins,043.653.291-94,30/08/2003,Cabedelo,PB,(83) 96537-4048,claudio.martins353outlook.com,A,13/08/2025
+C0265,Rafael Barbosa Martins,230.421.550-10,28/09/1989,São Paulo,SP,,rafael.barbosa.martins338@gmail.com,A,17/10/2024
+C0315,Cláudio Barbosa,463.794.248-19,18/02/1978,João Pessoa,PB,(83) 98052-9180,claudio.barbosa840@yahoo.com.br,A,20/12/2023
+C0421,Josué Costa Santos,139.023.529-09,05/06/1983,São Paulo,SP,+55 11 91927-3587,josue.costa.santos39@gmail.com,A,01/09/2024
+C0211,Josué Medeiros Barbosa,220.794.595-64,13/07/1982,São Paulo,SP,,josue.medeiros.barbosa521@outlook.com,AB,25/09/2023
+C0667,josé gomes,461 486 739 16,27/01/1979,João Pessoa,PB,83973203050,JOSE.GOMES32@YAHOO.COM.BR,A,22/03/2025
+C0493,Cláudio Pereira,588.102.055-50,22/03/00,São Paulo,SP,(11) 91049-4563,claudio.pereira975@outlook.com,A,23/09/2023
+C0306,JOÃO NASCIMENTO,26494501834,10/11/1985,João Pessoa,PB,,joao.nascimento58@outlook.com,A,2025-06-24
+C0627,Diego Costa Santos,936.612.440-63,,João Pessoa,PB,+55 83 98784-9817,diego.costa.santos602@yahoo.com.br,A,17/10/2024
+C0570,CARLOS GOMES MARTINS,966.280.068-86,,São Paulo,SP,11 93307 4772,carlos.gomes.martins360@hotmail.com,AB,19/11/2024
+C0685,Maria Albuquerque,77906567072,,João Pessoa,PB,(83) 96675-6086,maria.albuquerque447@gmail.com,AB,27/03/2024
+C0399,Beatriz Souza,881.092.406-88,20/06/1985,Osasco,SP,+55 11 95015-5990,beatriz.souza661@outlook.com,A,17/10/2023
+C0257,Marcos Almeida,653.732.853-89,05/12/1973,Bayeux,PB,(83) 97314-9559,marcos.almeida521@hotmail.com,AB,17/03/2024
+C0313,Maria Almeida Freitas,168.575.412-40,09/11/1973,São Paulo,SP,(11) 98332-9708,maria.almeida.freitas462@hotmail.com,A,02/07/2026
+C0152,Leonardo Teixeira,884.542.876-36,04/10/2001,João Pessoa,PB,(83) 93434-5705,leonardo.teixeira649@hotmail.com,A,10/10/2025
+C0026,Gustavo Carvalho,973.249.534-26,08/05/1975,João Pessoa,PB,(83) 93886-9732,gustavo.carvalho554@hotmail.com,A,11/09/2024
+C0241,Fernando Gomes,574.428.813-29,09/11/1962,São Paulo,sp,(11) 96040-3240,fernando.gomes207@hotmail.com,AB,06/10/2023
+C0065,Diego Costa Pereira,109.000.158-75,01/01/1890,João Pessoa,PB,(83) 96678-4683,diego.costa.pereira773@gmail.com,A,07/09/2025
+C0299,Sérgio Lopes Monteiro,288 341 123 21,04/08/1979,SÃO PAULO,SP,(11) 95801-3441,sergio.lopes.monteiro623@hotmail.com,A,09/01/2024
+C0499,Wesley Teixeira,229.782.837-82,2001-02-09,João Pessoa,PB,(83)97810-2516,wesley.teixeira632@outlook.com,A,25/01/2025
+C0631,Juliana Almeida Albuquerque,054.214.351-21,1978-08-05,Bayeux,PB,83 95945 5476,juliana.almeida.albuquerque276@gmail.com,A,08-01-2026
+C0601,Vinícius Costa,687.421.069-07,10/08/1985,São Paulo,SP,(11) 93560-7164,,AB,20/03/2024
+C0430,Gustavo Machado,443.006.486-08,24/09/1981,João Pessoa,PB,(83) 96760-1200,gustavo.machado565@yahoo.com.br,A,2023-11-16
+C0353,Rafael Pereira,756.736.458-36,06/04/2001,,pb,(83) 96251-3537,rafael.pereira761@yahoo.com.br,A,28/05/2024
+C0374,Gustavo Moreira,097.676.148-29,26/10/1962, João Pessoa  ,PB,(83) 96556-2584,gustavo.moreira331@hotmail.com,A,2025-03-09
+C0214,Lucas Araújo,480 328 402 04,14/09/2003,joão pessoa,PB,83 97683 8945,lucas.araujo567@yahoo.com.br,AB,28/10/2024
+C0254,Ricardo Oliveira Silva,450.194.133-22,1991-12-12,São Paulo,SP,(11) 95211-5861,ricardo.oliveira.silva107@hotmail.com,AB,16/06/2025
+C0343, Maria Souza Cavalcanti  ,653 272 183 67,21/09/1996,cabedelo,PB,,maria.souza.cavalcanti625@outlook.com,A,26/09/2025
+C0335,Gustavo Lima,,20/01/1975,São Paulo,SP,(11) 99480-5551,gustavo.lima229@hotmail.com,AB,27/01/2025
+C0054,Rodrigo Pereira Pereira,785.676.191-46,01/09/1977,SÃO PAULO,sp,(11) 91643-3212,rodrigo.pereira.pereira243@yahoo.com.br,AB,14/10/2025
+C0208,Luís Monteiro,705.875.568-81,04/02/1986,João Pessoa,PB,(83) 95553-9922,luis.monteiro381@yahoo.com.br,A,2024-03-25
+C0610,Josué Rocha,374.911.776-30,30/01/1974, João Pessoa  ,PB,(83) 99298-8773,josue.rocha466@hotmail.com,,26/11/2024
+C0288,Lucas Rocha,52971020394,17/01/1961,Santa Rita,pb,(83) 98705-1815,lucas.rocha493@gmail.com,A,13/10/2024
+C0033, Eduardo Nascimento Ribeiro  ,928.492.056-98,,João Pessoa,PB,,eduardo.nascimento.ribeiro633@hotmail.com,A,12/10/2023
+C0438,João Ferreira Oliveira,944.878.324-53,25/02/1980,Sao Paulo,SP,(11) 97424-5744,joao.ferreira.oliveira151@outlook.com,AB,07/04/2026
+C0220,felipe costa,263.224.323-19,23/08/76, Guarulhos  ,SP,(11) 98948-4239,felipe.costa108@outlook.com,A,05/05/2024
+C0186,Ítalo Barbosa Rodrigues,834.195.542-94,23/07/1989,Santa Rita,PB,(83) 98236-1790, italo.barbosa.rodrigues38@hotmail.com  ,a,09/05/2024
+C0580,Mateus Silva,434.790.470-82,10/05/2015,João Pessoa,PB,(83) 99901-6431,mateus.silva977@outlook.com,A,
+C0275,Bruno Lopes Medeiros,984.086.020-90,1994-11-11,JP,PB,(83) 98304-9054,bruno.lopes.medeiros511@outlook.com,A,15/12/2025
+C0616,Diego Moreira Ferreira,932.257.529-53,03/06/1960,Santa Rita,PB,(83) 99358-3076,,A,10-05-2025
+C0497,André Costa Freitas,403.388.195-34,03/05/1979,João Pessoa,PB,(83) 91111-1627,andre.costa.freitas171@yahoo.com.br,A,21-07-2025
+C0189,José Rodrigues Lima,106.140.014-43,02/03/1987,São Paulo,SP,,jose.rodrigues.lima720@outlook.com,A,14/10/2024
+C0439,Josué Oliveira Monteiro,869.947.547-69,03/11/1993,João Pessoa,PB,(83) 91921-7868,josue.oliveira.monteiro621@yahoo.com.br,moto,12/01/2024
+C0526,Larissa Moreira,872.770.156-63,08/08/1996,João Pessoa,PB,(83) 92036-8898,larissa.moreira445@gmail.com,A,21/09/23
+C0245,Sérgio Nascimento Gomes,414.016.951-95,27/05/1991,J. Pessoa,PB,(83) 91687-6631,sergio.nascimento.gomes197@outlook.com,A,2026-06-29
+C0507,Rafael Medeiros Lima,089.995.342-84,13/11/1976,JOÃO PESSOA,PB,(83) 94211-3045,RAFAEL.MEDEIROS.LIMA689@HOTMAIL.COM,A,2023-10-20
+C0454,rafael almeida silva,522.493.770-54,29/03/82, João Pessoa  ,PB,(83) 92106-9512,rafael.almeida.silva172@hotmail.com,A,22/11/2024
+C0034,Gustavo Costa,560.275.359-30,1973-08-15,Osasco,SP,(11) 98537-9204,gustavo.costa935@yahoo.com.br,A,14/06/2025
+C0508,João Freitas Ferreira,563.542.650-43,1994-11-13,João Pessoa,PB,(83) 96535-2176,joao.freitas.ferreira307@yahoo.com.br,AB,23/11/2024
+C0287,Aline Monteiro,244.868.772-38,26/12/1986,Osasco,SP,(11) 97982-2603,ALINE.MONTEIRO280@HOTMAIL.COM,A,25/08/2024
+C0146,JULIANA MONTEIRO,565.655.467-96,27/05/1964,Santa Rita,PB,(83) 91241-1652,juliana.monteiro587@hotmail.com,AB,08/01/2024
+C0117,Camila Moreira,483 822 557 28,12/06/1974,cabedelo,PB,(83)95854-7137,camila.moreira534@yahoo.com.br,AB,10/03/2024
+C0375,Diego Monteiro Barbosa,321.292.361-21,28/06/2000,São Paulo,SP,(11) 93224-6547,diego.monteiro.barbosa931@yahoo.com.br,A,10-10-2023
+C0001,João Martins Ribeiro,589.188.734-81,20/04/1996,João Pessoa,pb,(83) 94072-6032,joao.martins.ribeiro919@outlook.com,A,21/07/2025
+C0523,Eduardo Rodrigues,082.561.009-94,26/08/1978,São Paulo,SP,(11) 95894-4206,,A,29/05/2025
+C0488,Beatriz Ribeiro,577.879.797-88,29/01/2003,João Pessoa,PB,,beatriz.ribeiro595@outlook.com,A,01/08/2024
+C0059,Maria Fonseca,372.772.625-71,05/10/1974, Guarulhos  ,SP,-,maria.fonseca794@hotmail.com,AB,22/02/2025
+C0331,Vinícius Pereira Fonseca,546.945.938-58,29/06/1980,São Paulo,,(11) 96715-3936,vinicius.pereira.fonseca629hotmail.com,A,14/07/2023
+C0075,Ricardo Teixeira Nascimento,415.894.021-79,07/04/1984,João Pessoa,PB,83 99784 3847,ricardo.teixeira.nascimento177@gmail.com,moto,01/10/2023
+C0652, Gustavo Costa  ,219.647.326-76,23/10/1984,João Pessoa,PB,(83) 96566-4712,gustavo.costa3@outlook.com,,18/04/2025
+C0131,Ângelo Medeiros,535.162.688-91,1966-01-16,Bayeux,pb,(83) 91234-3582,angelo.medeiros925@hotmail.com,A,25/07/2025
+C0445,Ana Oliveira Martins,661.365.664-72,06/07/1963,Santa Rita,PB,(83) 93553-2030,ana.oliveira.martins912@gmail.com,A,2023-09-13
+C0359,Diego Teixeira,817.948.492-43,06/05/1994,João Pessoa,PB,N/A, diego.teixeira44@yahoo.com.br  ,A,
+C0519,André Cardoso Santos,875.319.341-26,04/09/1978,GUARULHOS,SP,(11) 91738-8970,andre.cardoso.santos585@gmial.com,A,10/05/2025
+C0354,Ângelo Almeida Ferreira,067.753.103-60,01/10/2003,São Paulo,SP,11996582655,angelo.almeida.ferreira585@hotmail.com,moto,16/09/2023
+C0028,Ângelo Santos,199.590.609-69,24/08/1984,João Pessoa,PB,(83) 94020-7691,,AB,23/02/2024
+C0017,Felipe Ribeiro,334.262.679-17,07/10/1963,São Paulo,SP,(11) 92460-2578,felipe.ribeiro337@gmail.com,AB,2024-12-07
+C0023,Thiago Gomes,260.710.146-41,21/09/1968,Guarulhos,SP,(11) 97788-1930,thiago.gomes851@yahoo.com.br,A,23/04/2026
+C0715,LARISSA PEREIRA CARDOSO,42192139294,02/10/1997,São Paulo,SP,(11) 95584-4752,larissa.pereira.cardoso652@gmail.com,A,2025-01-14
+C0201, Gustavo Teixeira  ,994.270.159-34,1974-02-13,São Paulo,SP,(11) 96352-6366,gustavo.teixeira440@gmail.com,A,21/08/2024
+C0247,Leonardo Freitas,708.302.206-08,1979-11-08,João Pessoa,PB,(83)92187-2623,,AB,29/02/2024
+C0293,Larissa Costa,046.321.787-57,1977-05-21,João Pessoa,PB,+55 83 97333-6826,nao informado,A,13/02/2026
+C0689,Patrícia Medeiros,773.674.713-78,18/04/1988,São Paulo,SP,,patricia.medeiros663@hotmail.com,A,03/11/2025
+C0181,Jefferson Pereira Freitas,018.115.221-60,26/09/1970,Cabedelo,PB,(83) 97299-2946,jefferson.pereira.freitas553@hotmail.com,A,09/05/2025
+C0164,maria pereira,668.168.270-76,1968-06-07, Cabedelo  ,PB,(83) 93171-5477,maria.pereira67@outlook.com,A,2025-03-05
+C0126,Sérgio Dias Medeiros,812.072.383-10,06/12/1969,João Pessoa,PB,(83) 99953-2936,sergio.dias.medeiros913@outlook.com,moto,2024-01-05
+C0339,Camila Nascimento Machado,168.790.456-65,10/06/1973,Guarulhos,SP,(11)93336-5988,,A,13/08/2024
+C0539,Diego Machado,049.161.960-23,24/07/60,Guarulhos,SP,(11) 99830-5825,diego.machado9@yahoo.com.br,A,09/02/2024
+C0630,Aline Albuquerque Albuquerque,673.842.714-77,28/03/1971,São Paulo,sp,(11) 91804-8426,,A,20/11/2024
+C0064,Eduardo Santos Medeiros,880.395.112-91,21/07/1999,Santa Rita,PB,(83) 98434-3989,eduardo.santos.medeiros677@yahoo.com.br,A,22/07/2024
+C0321,Bruno Araújo Martins,240.295.687-77,1981-11-07,São Paulo,SP,(11) 99013-2618,bruno.araujo.martins632@hotmail.com,AB,22/11/2025
+C0613,Marcos Martins,701.232.574-40,11/04/1972,JOÃO PESSOA,PB,(83) 91938-1172,marcos.martins806@yahoo.com.br,A,18/01/2025
+C0686,Maria Santos,297.072.890-06,11/04/1966,BAYEUX,PB,(83)96162-8742,maria.santos967@outlook.com,AB,25/01/2025
+C0515,fernanda lopes monteiro,227.033.656-47,05/01/1967,Cabedelo,PB,(83) 91772-7512,fernanda.lopes.monteiro718@gmail.com,A,20/08/2024
+C0468,EDUARDO SOUZA,922 649 013 48,24/08/1981,São Paulo,SP,(11) 94908-5784,eduardo.souza437@gmail.com,A,06/12/2024
+C0177,Maria Rocha,070.303.514-90,,João Pessoa,PB,(83) 94652-6755,maria.rocha271@yahoo.com.br,a+b,13/10/2023
+C0579,Fernanda Monteiro,712.156.749-31,07-08-1961,SAO PAULO,SP,(11) 94716-8688,fernanda.monteiro128@hotmail.com,AB,12/02/2025
+C0550,luís lima,960.475.116-45,10/05/2015,são paulo,SP,(11) 91069-4913,luis.lima339@outlook.com,AB,16/12/2025
+C0702,Larissa Santos,08066171289,06/08/1971,João Pessoa,PB,(83) 97924-2260,larissa.santos920@yahoo.com.br,A,04-11-2023
+C0524,Patrícia Machado Ribeiro,145.714.042-92,07/10/1968,Bayeux,PB,(83)92944-3052,,AB,27/02/2024
+C0522,Carlos Rodrigues,777.838.411-09,04/06/1967,São Paulo,SP,(11) 94953-9224, carlos.rodrigues834@yahoo.com.br  ,AB,22/09/2024
+C0108,Rafael Freitas,23626007608,18/03/1960,são paulo,SP,(11) 99893-9539,rafael.freitas954@outlook.com,A B,02/10/2026
+C0697,LUCAS GOMES,256.229.586-45,20/04/1990,São Paulo,SP,(11) 97507-1783,,A,02/09/2026
+C0509,Thiago Cardoso,338.059.869-46,27/10/83,João Pessoa,PB,83990712562,thiago.cardoso48@gmail.com,A,08/10/2024
+C0283,Juliana Lima Rodrigues,089.881.375-05,30-03-1995,João Pessoa,PB,(83) 93126-3785,juliana.lima.rodrigues828@hotmail.com,A,05/05/2025
+C0622,Camila Martins Moreira,305.853.412-45,18/04/81,São Paulo,SP,(11) 91206-5721,camila.martins.moreira961@outlook.com,A,28/08/2023
+C0307,Rafael Barbosa Machado,673.782.206-74,,João Pessoa,PB,(83) 99245-2116,rafael.barbosa.machado316@hotmail.com,A,19/09/2023
+C0006,Leonardo Martins Teixeira,016.763.083-81,1967-02-11,São Paulo,,(11) 98745-7761,leonardo.martins.teixeira777@yahoo.com.br,A,27/07/2024
+C0391,Luís Rocha,310.362.174-42,10/10/1960, Cabedelo  ,PB,+55 83 91720-3222,luis.rocha54@outlook.com,AB,03/08/2024
+C0309,João Ribeiro,491.912.503-14,08/09/1995,Santa Rita,PB,(83) 95904-5269,joao.ribeiro923@gmail.com,AB,16/02/2024
+C0160,Thiago Albuquerque,365.552.957-89,18/03/1989, João Pessoa  ,PB,(83) 97640-3894,,A,08/03/2024
+C0266, Leonardo Pereira Rocha  ,382.587.681-95,14/12/1977,João Pessoa,PB,(83) 99785-7211,leonardo.pereira.rocha256@outlook.com,AB,07/01/2025
+C0692,Diego Rodrigues Ribeiro,195.732.473-21,10-10-1983,São Paulo,SP,(11) 93294-3226,diego.rodrigues.ribeiro679@outlook.com,A,23/03/2025
+C0225,Patrícia Albuquerque Fonseca,77896257175,05/01/2001,BAYEUX,PB,,patricia.albuquerque.fonseca212@yahoo.com.br,A,13/10/2023
+C0396,Maria Medeiros,667.234.233-34,10/02/1982,São Paulo,SP,(11) 98609-5314,maria.medeiros695@hotmail.com,A,06/06/2026
+C0437,Maria Nascimento Cardoso,92237821653,,São Paulo,SP,(11) 97727-6211,maria.nascimento.cardoso849@yahoo.com.br,A,12/12/2024
+C0384,LUCIANA MOREIRA,89658636525,26/04/1987,Santa Rita,PB,(83) 92484-9888,luciana.moreira902@outlook.com,AB,23/03/2025
+C0479,eduardo souza,,26/10/91,JOAO PESSOA,PB,(83) 99915-1858,eduardo.souza701@outlook.com,A,2024-02-04
+C0013,Rafael Ribeiro,576.090.905-10,,São Paulo,SP,(11) 99789-3884,RAFAEL.RIBEIRO727@GMAIL.COM,A,31/03/2026
+C0385,Fernanda Carvalho,381.758.480-70,,João Pessoa,PB,83979231941,fernanda.carvalho195@yahoo.com.br,A,03/04/2025
+C0623,fernando monteiro costa,096.866.404-85,18/05/1993,Bayeux,PB,(83) 93690-4234,fernando.monteiro.costa51@gmail.com,A,22/02/2025
+C0009,Josué Fonseca Barbosa,83824999389,07/11/2002,São Paulo,sp,+55 11 99970-7882,sem email,,05/08/2026
+C0163, Larissa Moreira Lopes  ,,1971-02-09,João Pessoa,PB,(83) 99375-9414,larissa.moreira.lopes128@hotmail.com,AB,2023-10-29
+C0546,Beatriz Fonseca,242.272.797-11,24/02/1979,João Pessoa,,83948042503,beatriz.fonseca550@yahoo.com.br,A,03/03/2026
+C0085,diego lima pereira,652.412.464-55,1971-10-11,João Pessoa,PB,83 91288 7168, diego.lima.pereira280@hotmail.com  ,a,17/12/24
+C0121,Josué Moreira,671.627.769-50,22/07/86,SÃO PAULO,SP,(11) 91941-3458,josue.moreira777@gmail.com,A,17/06/2024
+C0237,Carlos Ferreira,138.211.815-96,22/01/1978,São Paulo,SP,(11) 92400-9576,carlos.ferreira207@gmial.com,A,15/07/2023
+C0159,Ana Souza Martins,288.027.795-08,20/01/1967,João Pessoa,PB,(83)96434-1539,,A,31/12/2023
+C0645,Carlos Oliveira Carvalho,,16/09/1961,João Pessoa,PB,(83) 91203-8302,carlos.oliveira.carvalho773@hotmail.com,AB,29/08/2024
+C0565,Aline Nascimento Nascimento,246.054.941-61,28/10/1999,Cabedelo,PB,83969025183,,A,10/12/2025
+C0681,Jefferson Moreira Dias,459.539.672-65,10/08/1964,Santa Rita,PB,(83) 96142-7968,jefferson.moreira.dias254@yahoo.com.br,AB,14/01/26
+C0234,Camila Gomes Cavalcanti,220.476.907-74,24/05/1972,São Paulo,SP,(11) 98759-6784,camila.gomes.cavalcanti357@outlook.com,A,05/09/2023
+C0284,Diego Martins Santos,695.194.634-42,19-04-1984,Santa Rita,PB,(83) 92178-8580,diego.martins.santos733@gmail.com,AB,13/05/2024
+C0233,Diego Teixeira,815 505 735 22,,S. Paulo,SP,(11) 99420-6720,,A,2023-08-06
+C0663,Rodrigo Monteiro Costa,525.805.749-60,21/09/1983,João Pessoa,PB,(83)99553-3003,rodrigo.monteiro.costa384@gmail.com,A,17/12/2023
+C0314,Larissa Cardoso Moreira,152.685.396-40,11/09/1960,SAO PAULO,SP,(11) 97492-5505,larissa.cardoso.moreira222@gmail.com,A,27/08/2024
+C0273,Felipe Souza,790.605.872-27,28/11/1995,Joao Pessoa,PB,(83) 95000-6577,felipe.souza281@gmail.com,AB,
+C0229,Patrícia Carvalho,947.344.760-87,30/07/1964,Bayeux,PB,(83) 91764-5422,PATRICIA.CARVALHO960@OUTLOOK.COM,AB,21/02/2024
+C0658,Camila Lopes Teixeira,727.089.060-33,07/10/1982,São Paulo,SP,(11) 94584-1835,camila.lopes.teixeira916@hotmail.com,A,30/12/2023
+C0183,Felipe Souza Cavalcanti,397.956.187-23,05/10/1986,Cabedelo,PB,(83) 93525-1674,felipe.souza.cavalcanti13@yahoo.com.br,A,29/10/2023
+C0669,Larissa Martins Rodrigues,203.880.695-34,1969-05-04,João Pessoa,PB,(83) 96509-4877,larissa.martins.rodrigues397@yahoo.com.br,A,
+C0590,Anderson Freitas Fonseca,891 576 724 49,1968-11-17,GUARULHOS,SP,(11) 92365-9828,anderson.freitas.fonseca326@gmail.com,A,02/08/2024
+C0147,Maria Martins,892.127.281-02,12/01/1993,Santa Rita,PB,(83) 96904-6837,maria.martins602@hotmail.com,A,18/05/2024
+C0462,Gustavo Costa,932.366.660-68,04-06-1988,São Paulo,SP,(11) 98132-5064,gustavo.costa579@gmail.com,A,24/09/2024
+C0544,Gabriel Machado,384.557.986-53,04/02/1965,João Pessoa,PB,(83) 97283-5472,gabriel.machado708@gmail.com,AB,11/04/2025
+C0308, André Monteiro  ,910.312.652-02,03/12/1979,São Paulo,sp,11 93573 5962,,A,2024-09-03
+C0674,Ângelo Cardoso,103.063.098-99,14-08-1960,João Pessoa,PB,(83) 98035-3385,angelo.cardoso774@yahoo.com.br,A,24/01/2024
+C0123,José Cardoso,307.131.139-93,16/02/1982,João Pessoa,PB,(83)99502-1951,jose.cardoso984@gmail.com,A,22/01/2024
+C0422,Marcos Cardoso Rodrigues,329.618.114-61,31/12/1992,João Pessoa,PB,(83) 91862-5179,marcos.cardoso.rodrigues157@yahoo.com.br,A,01/08/2024
+C0671,Camila Oliveira Rocha,91947763746,12/11/1986,Cabedelo,PB,(83) 93632-9440,,A,2023-10-30
+C0548,João Ribeiro Barbosa,959.396.654-58,16/09/1994,Guarulhos,SP,(11) 98509-7697,joao.ribeiro.barbosa24@outlook.com,A,22/05/2024
+C0666,Camila Cavalcanti,931.849.623-63,05/05/1972,Santa Rita,PB,,camila.cavalcanti210@outlook.com,AB,14/08/2024
+C0246,Felipe Medeiros Lima,305.405.220-32,23/02/1963,São Paulo,SP,(11) 92207-5200,felipe.medeiros.lima434@gmail.com,AB,27/05/2025
+C0414,Diego Silva,491.272.844-47,30/03/1960,Santa Rita,PB,(83) 98390-9970,diego.silva750@yahoo.com.br,A,2025-01-30
+C0282,Sérgio Dias,206 523 615 62,02/01/1970,João Pessoa,PB,(83) 93289-4413,sergio.dias354@outlook.com,A,2026-04-08
+C0629,Aline Araújo,600 036 941 31,,Santa Rita,PB,(83) 97996-3057,aline.araujo728@gmail.com,AB,23/10/2025
+C0084,João Rocha Rocha,087.538.048-92,,João Pessoa,PB,(83)94177-8965,joao.rocha.rocha190@gmail.com,A,2023-10-31
+C0092,Felipe Gomes Nascimento,519.267.312-89,15/01/2001,São Paulo,SP,(11) 92359-7393,felipe.gomes.nascimento226@outlook.com,AB,21/12/2023
+C0346,Felipe Barbosa Albuquerque,124.316.090-39,17/10/1966,João Pessoa,PB,(83) 91658-9096,felipe.barbosa.albuquerque73@outlook.com,A,08/06/2024
+C0472,Rodrigo Cavalcanti,,15/03/1979,são paulo,SP,(11) 94255-8188,rodrigo.cavalcanti841@gmail.com,AB,
+C0303, Ângelo Santos Santos  ,601.417.078-79,2001-02-21,João Pessoa,PB,(83) 97840-4056,angelo.santos.santos47@hotmail.com,AB,17/09/2026
+C0428,Mateus Carvalho Carvalho,18504733659,06/11/1970,João Pessoa,PB,83969845800,mateus.carvalho.carvalho276@gmail.com,A,01/02/2024
+C0505,Marcos Cavalcanti,098.598.173-88,24/10/2001,Cabedelo,PB,(83) 92125-2489,marcos.cavalcanti451@gmail.com,A,2024-08-26
+C0504,Eduardo Costa,643 727 407 85,18/09/1991,JOAO PESSOA,PB,(83) 94149-7874,eduardo.costa148@hotmail.com,AB,25/06/2024
+C0709,JEFFERSON MOREIRA DIAS,45953967265,10/08/1964,santa rita,PB,(83) 96142-7968,jefferson.moreira.dias254@yahoo.com.br,A/B,14/01/2026
+C0444,PEDRO RIBEIRO SOUZA,712.461.240-37,26/01/1983,Osasco,SP,,pedro.ribeiro.souza434@hotmail.com,A,2024-05-13
+C0510,Fernanda Ribeiro,965.880.968-79,20/01/1972,São Paulo,SP,(11)93269-2924,fernanda.ribeiro188@gmail.com,A,
+C0614,juliana teixeira,685.970.271-73,,Bayeux,PB,(83) 99078-4637,juliana.teixeira539@yahoo.com.br,AB,04/10/2026
+C0392,Cláudio Nascimento Lopes,938.663.878-81,10/05/2014,João Pessoa,PB,(83) 99834-5743,claudio.nascimento.lopes841@gmail.com,A,14/11/2024
+C0443,FELIPE BARBOSA CAVALCANTI,360.747.410-55,23/08/1995,João Pessoa,SP,(83) 93832-2869,felipe.barbosa.cavalcanti876@gmail.com,A,18/12/2025
+C0432,FERNANDA LOPES,947.208.416-04,09/11/1990,João Pessoa,PB,(83) 94329-8545,fernanda.lopes719@hotmail.com,A,20/09/2023
+C0471,Leonardo Oliveira,952.733.251-33,27/08/62,João Pessoa,PB,(83) 99637-1853,leonardo.oliveira762@gmail.com,A,08-08-2023
+C0597,Thiago Fonseca,473.540.543-15,13/05/1985,Guarulhos,SP,(11)92509-2305,thiago.fonseca106@outlook.com,AB,09/03/2024
+C0195,Eduardo Barbosa Barbosa,168.313.258-51,14/10/1973,São Paulo,SP,(11) 96277-7246,eduardo.barbosa.barbosa688@hotmail.com,A,2024-08-24
+C0312,Cláudio Lopes,981.377.311-64,06/07/1981,Osasco,SP,(11) 97790-3468, claudio.lopes814@gmail.com  ,AB,11/06/2024
+C0606,Mateus Freitas,550.614.340-74,31/08/1962,João Pessoa,pb,(83) 96996-5925,mateus.freitas4@outlook.com,AB,01/08/2026
+C0104,Diego Araújo Carvalho,116.236.332-36,22/05/83,João Pessoa,PB,(83) 91151-4409,,A,01/05/2024
+C0676,Eduardo Rocha Ferreira,449.336.182-20,08/01/1975,São Paulo,SP,(11) 99086-8001,eduardo.rocha.ferreira582@outlook.com,AB,29/05/2025
+C0368,Aline Oliveira,,03/10/1979,João Pessoa,PB,(83)96929-9989,aline.oliveira525@outlook.com,A,09/06/2024
+C0541,José Carvalho,082.698.625-75,19/09/1977,Bayeux,PB,(83) 91322-9983,jose.carvalho403@outlook.com,AB,16/07/2026
+C0261,Bruno Costa,5833160270,14/09/1977,João Pessoa,PB,+55 83 96752-5135,bruno.costa398@outlook.com,AB,25/09/2023
+C0128,Luciana Santos,913.308.535-04,05/10/1982,Bayeux,PB,(83) 93248-2240,luciana.santos340@yahoo.com.br,A,05/04/2024
+C0301,Claudio Rocha Almeida,584.161.647-84,22/08/98,Santa Rita,PB,(83) 99941-6168,claudio.rocha.almeida111@gmail.com,A,29/07/2025
+C0351,André Moreira Monteiro,820.738.819-14,04/10/1980,João Pessoa,PB,+55 83 98877-6362,,AB,13-12-2023
+C0372,Rafael Cavalcanti Moreira,244.602.899-31,05/09/1968,João Pessoa,PB,+55 83 98950-8295,,A,22/08/2024
+C0603,CARLOS CARDOSO,971.556.716-81,1978-03-06,Bayeux,PB,83 92446 8235,carlos.cardoso894@gmail.com,AB,09/09/2025
+C0584,Fernanda Ferreira,395.978.199-03,07/02/1978,João Pessoa,PB,,fernanda.ferreira419@yahoo.com.br,A,2026-01-19
+C0187,Lucas Rodrigues Barbosa,162.004.830-24,08/04/1968,João Pessoa,PB,83 94101 9563,lucas.rodrigues.barbosa977@yahoo.com.br,A,04/10/2024
+C0333,Rafael Machado Rocha,135.342.195-28,,João Pessoa,PB,(83)96759-9822,rafael.machado.rocha965@gmail.com,A,21/02/2024
+C0196,FERNANDO LIMA SILVA,888.013.574-60,05/11/1988,João Pessoa,PB,(83) 95094-3674,fernando.lima.silva914@outlook.com,A,2026-07-30
+C0588,Wesley Albuquerque,138.976.251-51,23/04/1963,João Pessoa,PB,(83) 97167-6629,wesley.albuquerque966@yahoo.com.br,A,03/10/2023
+C0410,Camila Albuquerque Moreira,0599461466,1980-06-03,Joao Pessoa,PB,(83) 96147-1823,camila.albuquerque.moreira907@yahoo.com.br,A,19/08/2026
+C0402,Fernando Santos Araújo,190.198.535-58,11/03/1983,Santa Rita,PB,(83) 97994-3682,fernando.santos.araujo28outlook.com,AB,01/07/2025
+C0120,João Moreira,673.941.026-53,01/02/1981,João Pessoa,PB,,joao.moreira837@outlook.com,,12/10/2025
+C0698,João Ferreira Martins,415.988.433-39,08/01/1966, Bayeux  ,PB,(83) 98596-6647,joao.ferreira.martins850@yahoo.com.br,A,23/08/24
+C0572,Eduardo Ribeiro Ferreira,7885949346,11/06/1966,Guarulhos,sp,(11) 99342-4592,EDUARDO.RIBEIRO.FERREIRA895@HOTMAIL.COM,AB,14/10/2023
+C0672,Maria Cardoso Araujo,222.274.415-97,31/07/1979,São Paulo,sp,11 91241 1262,nao informado,AB,2024-08-21
+C0370,Bruno Martins Fonseca,332.052.816-56,08/12/1964,Osasco,SP,(11) 94068-8874,bruno.martins.fonseca466@outlook.com,A,17/05/2026
+C0191,José Costa,019.895.576-42,08/04/1981,JOAO PESSOA,PB,(83) 97637-8812,,A,10/06/2025
+C0373,Eduardo Fonseca,483.742.264-37,17/01/1960,João Pessoa,PB,(83) 96971-5946,,a,18-06-2024
+C0072,Fernando Medeiros Rodrigues,729.951.748-39,09/05/1995,João Pessoa,PB,(83) 93582-4148,fernando.medeiros.rodrigues224@outlook.com,moto,22/07/2024
+C0097,André Oliveira Freitas,464.429.384-08,09/02/1968,João Pessoa,PB,(83) 99043-9250,andre.oliveira.freitas270@yahoo.com.br,moto,16/07/2025
+C0516,Gabriel Lima,991.358.113-22,08/09/1965,Bayeux,PB,(83)92300-5830,gabriel.lima828@yahoo.com.br,AB,04/03/2025
+C0582,Thiago Martins,085.342.971-71,1979-11-09,João pessoa,PB,83975313033,thiago.martins748@gmail.com,A,14/01/2025
+C0366,Larissa Araújo,275.640.005-57,11/03/1999,joão pessoa,PB,(83) 99384-6543,,A,07/09/2026
+C0048,Rodrigo Barbosa,766.086.946-48,1996-06-18,S. Paulo,SP,(11) 98123-4229,rodrigo.barbosa907@outlook.com,A,05/04/2026
+C0592,Bruno Cardoso,878.939.733-19,26/11/1968,JP,PB,(83) 92237-8253,bruno.cardoso268@hotmail.com,A,13/09/2025
+C0511,Gabriel Ribeiro Ribeiro,67023817993,11/03/1964,João Pessoa,PB,(83)92770-6810,gabriel.ribeiro.ribeiro222@yahoo.com.br,A,18/09/2024
+C0569,Gabriel Santos Almeida,020.691.730-62,02/07/1982,João Pessoa,PB,(83) 92214-3258,gabriel.santos.almeida507@outlook.com,,2024-04-28
+C0295,Gabriel Martins Fonseca,908.450.666-79,24/03/1997,Bayeux,PB,(83) 97070-7048,GABRIEL.MARTINS.FONSECA744@YAHOO.COM.BR,AB,29/09/2023
+C0280,Fernanda Souza,703.546.147-31,18/02/1997,São Paulo,SP,(11) 98182-8009,fernanda.souza777@outlook.com,A,05/05/2025
+C0004,Camila Machado Barbosa,198.509.428-77,02/03/1972,São Paulo,SP,(11) 95782-7758,CAMILA.MACHADO.BARBOSA990@HOTMAIL.COM,A,29/04/2025
+C0620,Wesley Nascimento,698.834.298-12,07/03/1984,João Pessoa,PB,(83) 94311-7065,wesley.nascimento415@hotmail.com,A,18/11/2023
+C0135,Rodrigo Monteiro,599.514.753-30,21/08/72,JP,PB,-,rodrigo.monteiro669@gmail.com,A,21/08/2025
+C0016,José Rocha Teixeira,082.855.480-04,1977-04-12,João Pessoa,PB,(83) 96287-3317,jose.rocha.teixeira545@outlook.com,AB,24/03/2024
+C0069,Pedro Almeida,,15/08/1963,João Pessoa,SP,(83) 99351-9368,,A,31/08/2025
+C0074,Marcos Ferreira,957.920.365-05,22/08/67,Guarulhos,SP,(11) 96730-4712,marcos.ferreira505@outlook.com,,08/06/24
+C0045,Pedro Machado Rodrigues,135 187 717 81,28/11/1992,joao pessoa,,,pedro.machado.rodrigues357@yahoo.com.br,A,18/02/2024
+C0290,Maria Freitas Souza,648.267.927-05,15/02/78,JP,PB,(83) 99345-8655,maria.freitas.souza957@yahoo.com.br,AB,13/08/2024
+C0527,Felipe Oliveira Ribeiro,16417416951,24/07/1973,João Pessoa,PB,(83) 99360-9398,felipe.oliveira.ribeiro599@yahoo.com.br,A,28/12/2025
+C0304,Larissa Almeida Nascimento,487.704.724-77,,São Paulo,SP,(11) 94444-7017,larissa.almeida.nascimento429@hotmail.com,A,16/08/2025
+C0098,Gustavo Rocha Ribeiro,350.173.655-44,03/02/1996,João Pessoa,PB,(83) 97025-9727,gustavo.rocha.ribeiro964@hotmail.com,AB,2025-07-11
+C0683,MARIA SANTOS,409.306.361-84,06/06/1978,São Paulo,sp,(11) 91012-6207,maria.santos803@outlook.com,A,20/03/2024
+C0558,Pedro Rodrigues Medeiros,864.127.657-63,16/11/1972,João Pessoa,PB,(83) 91275-8116,pedro.rodrigues.medeiros944@yahoo.com.br,A,06/03/2024
+C0056,Thiago Rodrigues,192.486.320-01,1994-06-16,João Pessoa,PB,(83) 98046-2447,thiago.rodrigues638@hotmail.com,AB,15/12/2023
+C0705,FERNANDO MEDEIROS,77123332617,1988-11-07,Guarulhos,SP,(11)93658-9085,fernando.medeiros960@gmail.com,A,21/03/2025
+C0720,Fernanda Freitas,75930707784,1999-03-25,Sao Paulo,SP,(11) 92096-7901,FERNANDA.FREITAS170@HOTMAIL.COM,AB,15/12/2024
+C0401,DIEGO ARAÚJO LIMA,56410792232,15/10/1969,São Paulo,SP,(11) 97410-9638,diego.araujo.lima494@yahoo.com.br,A,2024-12-01
+C0060,Beatriz Lima Freitas,640.920.546-80,10/06/1972,São Paulo,SP,(11) 96405-4445,,AB,17/05/2024
+C0648,RICARDO LOPES,397.294.088-47,12-04-1970,João pessoa,PB,(83) 93405-5506,ricardo.lopes849@hotmail.com,A,2024-05-03
+C0639,Anderson Ferreira Fonseca,,28/11/1977, Cabedelo  ,PB,(83) 99558-3520,anderson.ferreira.fonseca161@gmail.com,A,25/07/2024
+C0380,Pedro Fonseca,642.356.169-08,15/08/1986,João Pessoa,PB,(83) 96560-7918,,A,05/03/2025
+C0231,Gabriel Souza,664.021.022-03,11-03-1982,Bayeux,PB,83 91181 1453,gabriel.souza178@hotmail.com,A,26/08/2026
+C0557,Cláudio Fonseca,370.581.848-61,18-03-1992,João Pessoa,PB,(83) 98995-8883,claudio.fonseca57@gmail.com,A,02/10/2026
+C0496,Felipe Lopes,404.209.991-33,09/04/1974,João Pessoa,PB,(83) 95366-3625,felipe.lopes416@outlook.com,AB,24/07/2025
+C0005,Aline Nascimento Machado,348.517.557-93,14/05/1978,Cabedelo,PB,83946244081,xxx,,10/09/2024
+C0634,Rodrigo Machado Nascimento,537.497.027-57,06/09/1974,São Paulo,SP,(11) 98065-6755,rodrigo.machado.nascimento39@yahoo.com.br,A,10/03/2024
+C0101,Lucas Moreira,417.179.743-82,,João Pessoa,PB,(83) 99288-1789,lucas.moreira770@yahoo.com.br,A,2024-08-13
+C0228,carlos lopes lima,940.328.047-85,30/09/1969,João Pessoa,PB,(83) 96958-3633,carlos.lopes.lima337@gmail.com,A B,09/05/2024
+C0038,Gustavo Fonseca Cavalcanti,822.982.356-98,22/10/2002,João Pessoa,PB,(83) 96067-1442,gustavo.fonseca.cavalcanti41@gmail.com,A,2024-12-29
+C0073,Thiago Medeiros,515.367.849-32,1976-08-10,Osasco,SP,11984953023,thiago.medeiros528@outlook.com,A,04/04/2025
+C0694,José Pereira,192.869.552-56,25/03/2003,João Pessoa,PB,(83) 91174-8114,jose.pereira97@gmail.com,A,23/10/2023
+C0476,Rafael Barbosa,159.144.362-48,17/08/76,João Pessoa,PB,(83) 93470-7955,rafael.barbosa22@yahoo.com.br,A,29/02/2024
+C0044,Rodrigo Ribeiro,525.731.313-61,25/09/1992,São Paulo,SP,(11) 97591-3453,rodrigo.ribeiro225@yahoo.com.br,A,23/04/2024
+C0130,thiago martins teixeira,617.256.633-40,21/10/1991,São Paulo,sp,(11) 96894-1723,thiago.martins.teixeira100@hotmail.com,A,14/01/2026
+C0155,Lucas Fonseca Souza,292 076 840 04,1970-12-06,São Paulo,SP,11 98927 2951,lucas.fonseca.souza921@gmail.com,A,19/06/2024
+C0277,Eduardo Monteiro,536 467 727 59,20/11/1988,Osasco,SP,(11) 99950-7702,,A,08/02/2024
+C0577,Anderson Almeida Cardoso,804.902.851-04,22/01/1986,JOÃO PESSOA,,(83) 95120-4802,anderson.almeida.cardoso839@yahoo.com.br,A,22/05/2024
+C0717,FERNANDA SANTOS,55346822673,04/03/1988,Guarulhos,SP,(11) 99599-6188,fernanda.santos7@hotmail.com,A,30/12/2024
+C0517, Patrícia Medeiros Albuquerque  ,362.476.189-43,11/04/1983,Guarulhos,SP,(11) 91271-1653,patricia.medeiros.albuquerque800@hotmail.com,AB,29/03/2025
+C0252,Rodrigo Martins,94468381239,12/03/1965,São Paulo,SP,,rodrigo.martins395@hotmail.com,AB,28/12/2023
+C0239,Jefferson Medeiros,899.673.048-15,04/06/1968,S. Paulo,SP,(11) 97612-8292,jefferson.medeiros429@gmail.com,,15/04/2024
+C0255,Diego Barbosa,614.177.584-11,1969-08-09,João Pessoa,PB,83 92929 6319,diego.barbosa200@hotmail.com,A,30/01/2025
+C0695,Pedro Rodrigues,,1965-05-05,CABEDELO,PB,(83) 97737-9778,pedro.rodrigues638@outlook.com,A,04/02/2025
+C0319,Diego Costa,452.562.575-25,30/09/94,João Pessoa,PB,(83) 97123-3893,diego.costa222@outlook.com,A,02/02/2024
+C0267,José Carvalho Dias,438.845.666-79,10/04/1996,joao pessoa,PB,(83) 95151-5579,,AB,27/02/2025
+C0594,Aline Monteiro,,13/11/1981,Osasco,SP,(11) 91470-5667,aline.monteiro391@gmail.com,A,30/08/2023
+C0096,Vinicius Almeida,,26/09/1993,João Pessoa,SP,(83)98225-6421,vinicius.almeida738@yahoo.com.br,AB,28/04/2025
+C0460,Pedro Barbosa Silva,318.701.681-25,03/10/1964,João Pessoa,pb,,pedro.barbosa.silva304@gmail.com,A,21/12/2025
+C0537,Sérgio Costa,693.452.021-60,11/11/1973,São Paulo,SP,(11) 97041-7016,sergio.costa883@outlook.com,A,2026-01-02
+C0068,Diego Rodrigues,691.366.656-60,28/11/1992,São Paulo,SP,(11) 94681-4916, diego.rodrigues446@gmail.com  ,moto,13/06/2025
+C0279,Larissa Monteiro Machado,522.241.859-53,1982-07-22,João Pessoa,PB,(83) 97481-2324,larissa.monteiro.machado154@yahoo.com.br,A,03/08/2023
+C0310,Ricardo Gomes,085.498.514-62,15/07/1983,São Paulo,SP,(11) 96126-7638,ricardo.gomes658@gmail.com,AB,2023-08-13
+C0442,Ítalo Teixeira,436.476.118-52,11/04/1966,Santa Rita,PB,(83) 99786-4541,italo.teixeira129@yahoo.com.br,A,16/09/2025
+C0345,Larissa Ribeiro,762.671.161-81,04/09/02,São Paulo,SP,(11) 93415-4100,larissa.ribeiro671@hotmail.com,AB,05/03/2024
+C0102,Fernanda Lopes,33647431588,04/02/1971,João Pessoa,pb,(83) 96511-1604,FERNANDA.LOPES477@OUTLOOK.COM,A,02/06/2024
+C0154,Marcos Teixeira Barbosa,746 941 704 94,1989-12-19,guarulhos,SP,(11) 93859-5711,marcos.teixeira.barbosa525@gmail.com,A,01/07/2024
+C0012, Ricardo Monteiro  ,991.572.248-26,29/10/1979,João Pessoa,PB,(83)98492-6180,ricardo.monteiro112@outlook.com,A,08/08/2025
+C0398,Cláudio Monteiro,012.393.626-51,01-04-1980,São Paulo,SP,(11) 97337-9472,claudio.monteiro106@yahoo.com.br,A,26/07/24
+C0503,Josué Freitas Freitas,884.394.469-19,02/07/1978,São Paulo,SP,(11) 95162-7090,josue.freitas.freitas26@hotmail.com,A,20/02/2024
+C0240,Bruno Ribeiro Ribeiro,648.556.815-04,21/08/1995,BAYEUX,PB,83 94477 5964,,A,26/08/2024
+C0291,José Barbosa,,02/02/1981,São Paulo,SP,(11) 92029-1810,jose.barbosa501@outlook.com,A,16-03-2024
+C0167,Diego Araújo,787.792.053-42,,João Pessoa,PB,(83) 97680-6333,diego.araujo393@hotmail.com,A,23/06/2023
+C0540,Cláudio Cardoso Silva,685.197.459-30,20/05/1966,João Pessoa,PB,(83) 97659-6561,claudio.cardoso.silva600@yahoo.com.br,A,14/03/2024
+C0489,Lucas Gomes Cardoso,951.329.233-17,01/04/1985,João Pessoa,pb,(83) 97000-1863,lucas.gomes.cardoso437@hotmail.com,A,19/05/2025
+C0296,João Ribeiro,18828497024,04/04/1969,São Paulo,SP,11988214911,joao.ribeiro133@yahoo.com.br,A,14/01/2025
+C0646,Marcos Santos Albuquerque,172.986.101-47,13/09/1966,São Paulo,SP,(11) 93390-6386,marcos.santos.albuquerque706@gmail.com,a+b,17/11/2023
+C0088, Sérgio Rocha Santos  ,517.309.100-41,29/11/1996,São Paulo,SP,(11) 91028-5318,sergio.rocha.santos512@hotmail.com,AB,17/11/2024
+C0050,Aline Monteiro,147.286.694-39,26/05/1984,João Pessoa,,(83)92938-2528,,A,22/12/2025
+C0502,Fernanda Santos,553.468.226-73,,Guarulhos,SP,(11)99599-6188,fernanda.santos7@hotmail.com,A,30/12/2024
+C0626,Ricardo Ferreira,596.410.462-73,,João Pessoa,pb,(83) 91130-2171,ricardo.ferreira537@gmail.com,,10/03/2024
+C0554,Diego Martins Fonseca,589.409.515-02,28/03/1975, Guarulhos  ,SP,(11) 98554-4162,diego.martins.fonseca454@outlook.com,AB,2025-04-01
+C0212,Ítalo Pereira,780.458.231-79,1966-02-25,Bayeux,PB,(83) 99001-5011,,A,19/02/2025
+C0678,Larissa Fonseca,207.799.167-60,21/12/1961, Santa Rita  ,PB,,,,10/05/2026
+C0390,Aline Pereira,387.383.650-01,,São Paulo,SP,(11) 99717-1445,ALINE.PEREIRA953@HOTMAIL.COM,A,13/05/2024
+C0415,leonardo carvalho moreira,045.741.508-72,1971-07-13,joão pessoa,PB,83 91344 9427,leonardo.carvalho.moreira28hotmail.com,A,27/08/2023
+C0602,Rodrigo Souza Gomes,725 369 358 25,01/01/1900,João Pessoa,PB,(83) 92267-2687,rodrigo.souza.gomes626@outlook.com,A,06/10/2023
+C0388,Luciana Gomes,,12/06/1989,Osasco,SP,(11) 98204-7971,luciana.gomes888@yahoo.com.br,A,29/05/2024
+C0682,Gabriel Gomes Monteiro,101.712.413-69,30/07/1980,Bayeux,PB,(83) 95196-5684,gabriel.gomes.monteiro746@outlook.com,A,18/02/2024
+C0670,Lucas Cardoso Almeida,402.149.991-40,12/09/1981,SÃO PAULO,SP,+55 11 94027-1325,lucas.cardoso.almeida576@yahoo.com.br,A,19/06/2024
+C0014,Marcos Pereira Gomes,733.768.989-43,31/01/1974,São Paulo,SP,(11) 97430-8212,marcos.pereira.gomes235@outlook.com,a,29/02/2024
+C0431,Rafael Pereira Dias,296.936.231-81,19-12-1968,João Pessoa,PB,83 93824 4213,RAFAEL.PEREIRA.DIAS463@HOTMAIL.COM,AB,23/04/2024
+C0501,Jefferson Nascimento Teixeira,572.309.695-13,09/04/1979,João Pessoa,PB,(83) 99621-6071,jefferson.nascimento.teixeira148@yahoo.com.br,A,06/09/2025
+C0198,Luciana Medeiros,080.710.646-80,,GUARULHOS,SP,(11) 95710-5480,luciana.medeiros833@hotmail.com,AB,02/02/2025
+C0324,Marcos Cardoso Ribeiro,767.224.661-73,,São Paulo,SP,(11) 96685-5747,marcos.cardoso.ribeiro723@yahoo.com.br,AB,07/11/2025
+C0653,Bruno Rodrigues,711.954.379-75,,João Pessoa,PB,(83) 94511-9678,BRUNO.RODRIGUES865@YAHOO.COM.BR,A,29/08/2025
+C0018,João Carvalho,961.493.189-99,27/03/1998,J. Pessoa,PB,(83) 96554-2987,joao.carvalho454@gmail.com,A,23/06/24
+C0719,MARIA MACHADO CARDOSO,96550558330,31/10/1984,João Pessoa,PB,(83) 97580-9442,maria.machado.cardoso647@hotmail.com,A,2023-11-27
+C0165,João Lopes,198.139.585-04,15/02/1996,Bayeux,PB,(83) 92890-8689,joao.lopes654@gmail.com,A,29/10/2026
+C0591,BEATRIZ MOREIRA FREITAS,363.862.974-19,26/01/1993,João Pessoa,PB,(83) 96464-3088,beatriz.moreira.freitas667@yahoo.com.br,A,03/05/26
+C0583,Luciana Rocha,236.526.299-17,2000-09-17,São Paulo,SP,(11) 99439-3025,luciana.rocha127@outlook.com,A,2025-07-12
+C0553,Carlos Martins Santos,474.586.927-65,29/02/1960,São Paulo,SP,,carlos.martins.santos541yahoo.com.br,AB,2023-07-14
+C0142,Carlos Araújo,31568902328,09/02/1966,João Pessoa,PB,(83) 99653-3037,carlos.araujo30yahoo.com.br,A,07/10/2026
+C0500,LARISSA SOUZA PEREIRA,,23/12/1980,São Paulo,SP,+55 11 91705-3114,LARISSA.SOUZA.PEREIRA285@HOTMAIL.COM,A,27/08/23
+C0244,Patrícia Machado,052.919.610-33,27/10/1973,João Pessoa,PB,,,A,05/10/2023
+C0226,Cláudio Pereira,479.774.624-10,08/07/97,João Pessoa,PB,83911301811,claudio.pereira804@outlook.com,AB,2024-04-09
+C0486,André Oliveira,217.544.553-21,04-12-1974,CABEDELO,PB,(83) 99209-1972,andre.oliveira260@outlook.com,AB,21/01/2024
+C0660, João Oliveira  ,440.350.957-28,26/01/1976,JP,PB,(83) 96728-2834,joao.oliveira927@outlook.com,A,18/06/2024
+C0409,Larissa Barbosa,626.733.810-69,09/12/1981,osasco,SP,11 93266 8446,LARISSA.BARBOSA135@OUTLOOK.COM,A,
+C0643,Gabriel Silva Pereira,853.705.682-57,05/12/1994,João Pessoa,PB,(83) 93465-4518,gabriel.silva.pereira176@yahoo.com.br,A,05/04/2025
+C0037,Ana Costa,944.832.313-10,16-09-1991,São Paulo,SP,+55 11 98018-7520,,AB,09/02/2024
+C0080,Gustavo Costa,395.950.877-91,07/09/1999,João Pessoa,PB,83927225952,gustavo.costa233@yahoo.com.br,a,21/07/2024
+C0025,Luís Carvalho Dias,563.219.178-05,17/04/1985,João Pessoa,PB,,luis.carvalho.dias358@outlook.com,A,12/02/2026
+C0066,Ítalo Martins,573.140.147-72,25/06/1978,joão pessoa,PB,(83) 93217-8195,italo.martins154@yahoo.com.br,A,22/12/2024
+C0115,Rodrigo Teixeira,846.980.241-50,21/12/1964,João pessoa,PB,83978602595,,A,09/12/2023
+C0332,Camila Gomes,310.880.075-36,11/05/1970,João pessoa,PB,(83) 99061-7904,camila.gomes198@hotmail.com,a+b,2024-07-01
+C0440,wesley rodrigues nascimento,315.845.316-95,04/12/1978,Guarulhos,SP,11 98822 9117,WESLEY.RODRIGUES.NASCIMENTO129@YAHOO.COM.BR,A,18/10/2025
+C0223,Fernanda Santos Santos,40245965001,11/12/1988,santa rita,PB,(83) 97030-8338,fernanda.santos.santos331@gmail.com,AB,14/06/2026
+C0617,Gabriel Silva,17944310808,31/10/1970,João Pessoa,PB,(83) 97739-7565,gabriel.silva694@yahoo.com.br,A,29/09/2023
+C0259,Maria Nascimento,07717630570,22/04/1962,Santa Rita,PB,(83) 95269-4835,maria.nascimento383@outlook.com,A,29/01/2025
+C0178,Joao Cardoso,301.533.813-14,13/07/1974,João Pessoa,PB,(83) 98671-1512,joao.cardoso47@gmail.com,AB,09/05/2025
+C0547,Ângelo Albuquerque Machado,774.346.655-92,13/08/1967,São Paulo,SP,(11)96478-4614,angelo.albuquerque.machado798yahoo.com.br,,13/01/2026
+C0687,Felipe Silva Pereira,843.494.490-47,18/07/1982,João Pessoa,PB,(83) 94026-8359,felipe.silva.pereira867@yahoo.com.br,A,16/12/2024
+C0491,Rafael Silva,752.379.396-15,14/02/1995,Osasco,SP,(11) 91046-6133, rafael.silva55@gmail.com  ,A,21/01/2025
+C0581,Felipe Almeida,058.892.154-21,17/04/66,João Pessoa,PB,(83) 91585-1946,,AB,07/09/2025
+C0378,Diego Moreira Lopes,569.041.554-95,02/01/1978,São Paulo,,11 99075 5065,,A,2024-02-19
+C0232,Gabriel Dias,695.818.520-74,31/07/1973, Bayeux  ,PB,(83) 94850-1708,gabriel.dias390@yahoo.com.br,A,
+C0593,Luciana Silva,952.693.698-01,15/03/2003,joão pessoa,PB,(83) 95680-6155,luciana.silva924@hotmail.com,A,13/09/2023
+C0469,Gustavo Lima Cavalcanti,806.063.867-48,02/01/1983,João Pessoa,PB,(83) 95045-8561,,A,22/08/2023
+C0326,Larissa Monteiro Freitas,485.203.672-17,20/12/1966,João Pessoa,PB,,,A,26/01/2025
+C0628,Felipe Nascimento Lima,105.843.232-99,14/01/1975,,SP,(11) 91683-5417,felipe.nascimento.lima922@yahoo.com.br,A,2024-03-05
+C0568,Fernando Machado,521.742.026-72,17/03/1963,João Pessoa,PB,,fernando.machado557@yahoo.com.br,A,05/10/2024
+C0575, Mateus Moreira  ,061.320.525-71,1991-02-04,Cabedelo,PB,(83)96192-6630,mateus.moreira297@hotmail.com,A,08/10/2024
+C0297,Cláudio Almeida Martins,669.363.673-98,08/03/1999,Guarulhos,sp,(11) 91957-1949,CLAUDIO.ALMEIDA.MARTINS218@OUTLOOK.COM,AB,23/05/2024
+C0456,Diego Nascimento,281.134.861-58,01/01/1989,João Pessoa,PB,(83) 95072-5249,diego.nascimento230@gmail.com,A,13/05/2024
+C0105,Thiago Machado,973.074.965-98,30/01/1980,Guarulhos,SP,(11) 94993-6058,thiago.machado19@gmail.com,A,2025-06-26
+C0696,Thiago Oliveira,,1966-07-06,Guarulhos,SP,(11) 91691-6498,thiago.oliveira161@yahoo.com.br,AB,23/02/2025
+C0180,Aline Albuquerque,463.018.736-00,21/03/82,Osasco,SP,(11) 97836-3315,aline.albuquerque624@yahoo.com.br,,30/05/2024
+C0046,mateus ferreira almeida,871.044.275-71,15/09/1995,São Paulo,SP,(11) 94954-8385,mateus.ferreira.almeida206@hotmail.com,A,29/05/2024
+C0192,Lucas Dias Almeida,771.856.289-40,07/03/1997,João Pessoa,PB,(83) 96212-3007,lucas.dias.almeida886@outlook.com,AB,08/01/2024
+C0136,Jefferson Monteiro,142.462.283-17,1991-05-23,São Paulo,SP,(11) 99927-6173,jefferson.monteiro825@yahoo.com.br,AB,16/04/2024
+C0203,Carlos Lima,91900072447,,Guarulhos,SP,(11) 93593-7577,carlos.lima7@hotmail.com,AB,02/11/2023
+C0624,Ângelo Medeiros Gomes,628.121.177-68,,CABEDELO,pb,(83) 99600-6704,angelo.medeiros.gomes620@gmail.com,A,06/08/2023
+C0450, Thiago Gomes Gomes  ,304.987.709-78,25/10/1999,Cabedelo,,,,AB,07/02/25
+C0334,Ítalo Gomes,585.205.759-65,1962-06-06,João Pessoa,PB,(83) 97522-2450,italo.gomes558@gmail.com,A,02/02/2024
+C0157,Beatriz Souza Monteiro,966.597.039-42,16/01/1998,São Paulo,SP,(11) 94780-2119,,AB,28/09/24
+C0258,Fernanda Monteiro Gomes,905.845.759-67,26/03/1994,João Pessoa,PB,(83) 94846-2273,fernanda.monteiro.gomes626@gmail.com,A,15/08/2023
+C0595,Fernando Teixeira,772.576.267-05,07-02-1982,São Paulo,SP,(11)91751-7751,fernando.teixeira366@gmail.com,a+b,2024-04-01
+C0256,André Albuquerque,564.543.396-09,11/03/1991,João Pessoa,PB,(83) 96306-9237,ANDRE.ALBUQUERQUE51@OUTLOOK.COM,A,06/11/2023
+C0330,Felipe Ferreira Dias,646 766 878 42,17/04/1970,João Pessoa,pb,0, felipe.ferreira.dias611@outlook.com  ,AB,05/10/25
+C0041,Vinícius Cardoso Cardoso,981 545 505 94,17/02/1972,João Pessoa,pb,+55 83 95376-5613,,A,18/02/24
+C0446,Mateus Araújo Lopes,431.595.563-15,23/01/1998,João Pessoa,PB,(83) 98688-3203,mateus.araujo.lopes314@yahoo.com.br,A,14/01/2024
+C0425,Carlos Albuquerque,537.474.295-75,25/09/1975,João Pessoa,PB,(83) 99937-4877,carlos.albuquerque971@hotmail.com,A,13/07/2026
+C0650,Gustavo Ferreira,773.868.201-59,20/06/1987,João Pessoa,PB,(83) 99626-9468,gustavo.ferreira808@hotmail.com,A,26/10/2024
+C0156,mateus gomes,111.035.334-53,19/09/1969,João Pessoa,PB,(83) 95433-9472,mateus.gomes409@gmail.com,A,08/04/2024
+C0712, Camila Cardoso Carvalho  ,06315571582,1996-08-01,São Paulo,SP,(11) 98948-9700,camila.cardoso.carvalho722@hotmail.com,AB,04/05/2026
+C0318,Pedro Ribeiro,,26/08/1997,João Pessoa,PB,83920376399,,A,21/01/2024
+C0465,Ricardo Cardoso Monteiro,927.778.940-18,02/01/1997,Santa Rita,PB,(83) 93206-3886,ricardo.cardoso.monteiro12@hotmail.com,A,31/10/2024
+C0100,Thiago Santos,005.522.063-13,17/01/2001,BAYEUX,PB,(83) 93328-2673,thiago.santos261@yahoo.com.br,a,03/02/2025
+C0070,Eduardo Medeiros,645.645.934-54,29/05/2002,,PB,,eduardo.medeiros961@outlook.com,A,11/02/2025
+C0684,Rafael Santos Moreira,876.050.338-96,03/03/92,João Pessoa,PB,(83) 97990-4854,rafael.santos.moreira23@gmail.com,A,08/06/2025
+C0718,Luciana Santos,91330853504,,Bayeux,PB,(83) 93248-2240,luciana.santos340@yahoo.com.br,A,2024-04-05
+C0289,Vinícius Albuquerque,401.437.481-37,08/06/1965,São Paulo,SP,,nao informado,AB,21/09/2024
+C0260,Thiago Oliveira Albuquerque,924.534.447-50,11/04/1960,João Pessoa,PB,(83) 91332-1639,thiago.oliveira.albuquerque410@yahoo.com.br,A,29/07/2026
+C0169,Beatriz Cavalcanti Almeida,183.296.744-37,23/03/69,São Paulo,sp,(11) 95148-3831,beatriz.cavalcanti.almeida974@gmail.com,AB,20/02/2025
+C0248,Thiago Nascimento,355.104.714-12,26/10/1986,João Pessoa,PB,(83) 99960-2551,thiago.nascimento286@hotmail.com,A B,10/03/2025
+C0707,EDUARDO MARTINS,34986014561,20/11/1998,João Pessoa,PB,(83) 91353-8420,eduardo.martins493@outlook.com,A,22/02/2024
+C0250,Thiago Machado,646.935.137-62,04/12/1983,São Paulo,SP,11915574534,thiago.machado811@gmail.com,A,20/05/2024
+C0478,Lucas Carvalho,640.753.570-68,27/10/1991,,SP,(11) 97702-7756,lucas.carvalho619@gmail.com,A,01/07/2024
+C0071,Rafael Lima Oliveira,375.770.259-11,23/03/2001,João Pessoa,PB,(83) 94615-6639,rafael.lima.oliveira965@gmail.com,A,25/10/2025
+C0543,Diego Gomes,561.798.533-74,30/08/1964,João Pessoa,SP,(83) 99882-4756,diego.gomes677@gmail.com,A,10/05/2025
+C0407,Ana Albuquerque Dias,624.548.054-26,07/02/95,João Pessoa,PB,(83) 91677-4794,ana.albuquerque.dias545@gmail.com,A,04/03/2024
+C0563,Larissa Monteiro Santos,077.430.918-56,30/05/1990,São Paulo,SP,(11) 99920-1389,larissa.monteiro.santos857@gmail.com,A,25/10/2024
+C0711,LARISSA FERREIRA ARAÚJO,68713299640,25/10/1970,João Pessoa,PB,(83) 91793-7097,larissa.ferreira.araujo93@yahoo.com.br,A,15/12/2024
+C0566,Fernanda Rocha Machado,767 936 593 13,08/02/1987,João Pessoa,,83 91165 5581,fernanda.rocha.machado952@yahoo.com.br,A,20/01/2024
+C0338,BRUNO BARBOSA ALBUQUERQUE,078.248.182-55,26/01/1990,São Paulo,SP,11925454805,bruno.barbosa.albuquerque836@hotmail.com,AB,07/04/2024
+C0317,Luciana Gomes Silva,316.417.702-37,30/03/1963,João Pessoa,PB,(83) 92127-8770,luciana.gomes.silva804@hotmail.com,a+b,22/09/2023
+C0644,Thiago Lima,612.809.923-25,15/05/1969,São Paulo,SP,(11) 99706-8679,thiago.lima790@hotmail.com,A,19/10/2023
+C0699,Anderson Ribeiro Lopes,,22/10/1981,São Paulo,SP,(11) 95444-1734,anderson.ribeiro.lopes961@hotmail.com,A,01/03/2026
+C0555,Larissa Ferreira Araújo,687.132.996-40,25/10/1970,João Pessoa,PB,83 91793 7097,LARISSA.FERREIRA.ARAUJO93@YAHOO.COM.BR,A,15/12/2024
+C0125,Maria Medeiros,210.667.948-72,07/01/1997,SP,SP,(11) 99463-6930,MARIA.MEDEIROS54@OUTLOOK.COM,A,20/11/2023
+C0091,Beatriz Albuquerque Ribeiro,653.433.744-63,04/06/1964,João Pessoa,PB,+55 83 96147-3392,beatriz.albuquerque.ribeiro851@gmail.com,AB,12/09/2023
+C0598,Ricardo Oliveira Nascimento,991.470.467-48,1989-07-05,Cabedelo,PB,(83) 99441-1021,ricardo.oliveira.nascimento46@hotmail.com,a,11/08/2026
+C0111,Lucas Pereira,851.338.317-40,20/03/90,São Paulo,SP,(11) 98492-4326,lucas.pereira211@yahoo.com.br,A,10/06/2025
+C0530,Maria Cardoso,365.415.705-95,26/09/2001,JOÃO PESSOA,PB,83 97138 2915,maria.cardoso352@gmail.com,A,28/09/2023
+C0638,Marcos Fonseca Rodrigues,559 124 712 26,11/08/63,J. Pessoa,PB,(83) 93955-8759,marcos.fonseca.rodrigues658@hotmail.com,AB,26/01/2026
+C0139,Larissa Moreira Almeida,623.443.525-14,05/05/94,João Pessoa,SP,(83) 97710-1593,larissa.moreira.almeida817@outlook.com,AB,31/10/23
+C0701, LEONARDO DIAS  ,87263712313,25/05/1986,Guarulhos,sp,(11) 92706-2821,leonardo.dias632@outlook.com,A,2025-05-30
+C0589,larissa barbosa fonseca,285.205.319-93,1989-04-06,Cabedelo,PB,,larissa.barbosa.fonseca413@hotmail.com,A,02/09/2023
+C0058,Sérgio Freitas,497.081.762-41,24/03/2003,São Paulo,SP,(11) 95525-7051,sergio.freitas238@hotmail.com,A,26/08/2023
+C0194,GABRIEL ALBUQUERQUE,515.873.380-51,10/03/1999, Bayeux  ,PB,(83) 93960-2801,gabriel.albuquerque39@gmail.com,A,06/04/2026
+C0482,José Albuquerque,,1999-05-12,São Paulo,SP,(11) 97100-9737,jose.albuquerque328@outlook.com,A,21/10/2023
+C0138,Felipe Carvalho,7238639352,14/07/1981,João Pessoa,PB,(83) 94518-9056,felipe.carvalho562@yahoo.com.br,A,25/10/2024
+C0559,Mateus Albuquerque Cardoso,530.536.396-47,24/05/1988,São Paulo,SP,+55 11 99386-3857,mateus.albuquerque.cardoso620@outlook.com,A,29/11/2024
+C0611,Mateus Martins,379.950.912-95,31/08/1968,João Pessoa,PB,(83) 93841-9569,mateus.martins502gmail.com,AB,30/01/2026
+C0357,Diego Dias,282.283.606-87,06/07/1985,São Paulo,SP,11 94391 1624,diego.dias848@hotmail.com,AB,2024-10-14
+C0619,Luís Freitas Ribeiro,595.977.636-36,28/02/71,Cabedelo,PB,+55 83 97391-2996,,A,01/06/2025
+C0053,Jefferson Albuquerque,080.228.578-70,23/02/1966,Osasco,SP,,jefferson.albuquerque395@hotmail.com,A,25/09/2025
+C0574,André Araújo Araújo,9508924087,08/10/1990,Osasco,SP,(11) 92965-8338,,AB,2024-03-28
+C0089, Diego Araújo Costa  ,092.750.054-09,29/12/1991,Guarulhos,SP,(11) 99740-9765,diego.araujo.costa502@yahoo.com.br,moto,17/12/2024
+C0657,Luciana Martins,022.918.260-36,24/02/1991,Santa Rita,PB,(83) 95667-3729,,AB,12/01/2024
+C0190,Eduardo Silva,984.101.943-42,18/02/1998,São Paulo,SP,,eduardo.silva998@gmail.com,A,07/03/2024
+C0485,Eduardo Rodrigues,763 472 656 47,16/02/1963,Osasco,SP,(11) 98971-9305,eduardo.rodrigues749@yahoo.com.br,,08/06/2024
+C0035,Lucas Silva Fonseca,098.573.749-01,09/06/2002,São Paulo,SP,(11) 98121-2704,lucas.silva.fonseca289@hotmail.com,,31/10/2024
+C0061,Eduardo Monteiro Ferreira,726.269.890-42,16/03/2000,João Pessoa,pb,(83) 96071-6448,eduardo.monteiro.ferreira711@hotmail.com,A,11/08/2024
+C0302,Diego Albuquerque,104.514.689-33,29/04/1998,São Paulo,SP,(11) 97166-2417,diego.albuquerque692@hotmail.com,A,03/11/2025
+C0292,Ricardo Fonseca Souza,310.496.413-52,19/11/1990,João Pessoa,pb,(83) 93270-2136,ricardo.fonseca.souza979@gmail.com,a,30/07/2024
+C0222,Eduardo Rocha Oliveira,663.360.266-07,07/10/1983,Osasco,SP,11 99917 4812,eduardo.rocha.oliveira238@yahoo.com.br,A,13/04/2025
+C0202,Vinícius Pereira Monteiro,313.066.723-98,17/08/1961,Santa Rita,PB,(83) 96033-6759,vinicius.pereira.monteiro691@yahoo.com.br,moto,24/01/2025
+C0095,FERNANDA FREITAS,759.307.077-84,25/03/1999, São Paulo  ,SP,(11) 92096-7901,,ab,15/12/2024
+C0387,Pedro Machado,789.487.066-57,,João Pessoa,PB,(83) 99847-9672,pedro.machado550@hotmail.com,A,30/06/2024
+C0188,Sergio Machado,675.758.144-51,09/03/1974, São Paulo  ,SP,(11) 96717-6981,sergio.machado953@gmail.com,A,06/12/2023
+C0030,Eduardo Ferreira,981.959.853-11,26/01/1977,santa rita,pb,,eduardo.ferreira810@outlook.com,AB,04/12/2023
+C0133,Larissa Lopes Carvalho,459.448.654-77,28/06/1981,GUARULHOS,SP,,larissa.lopes.carvalho32@gmail.com,A,2025-09-22
+C0002,joão santos,,,Cabedelo,PB,(83)99940-3525, joao.santos3@outlook.com  ,A,13/05/2024
+C0416, Mateus Ferreira  ,884.219.483-98,29/06/1973,São Paulo,SP,(11) 93035-1213,mateus.ferreira486@yahoo.com.br,A,07/02/2024
+C0708,Thiago Rodrigues,19248632001,16/06/1994,J. Pessoa,PB,,thiago.rodrigues638@hotmail.com,AB,2023-12-15
+C0094,Lucas Nascimento Rodrigues,000.000.000-00,06/12/1963,João Pessoa,SP,(83) 93033-2819,lucas.nascimento.rodrigues604@gmail.com,AB,18/01/2024
+C0651, Felipe Moreira  ,411.302.787-46,07/05/2001,João Pessoa,PB,(83) 97509-4477,felipe.moreira54@yahoo.com.br,A,18/01/25
+C0567,Sérgio Freitas Albuquerque,499.797.850-89,06/09/1973,Santa Rita,PB,-,sergio.freitas.albuquerque428outlook.com,AB,02/03/2026
+C0480,Beatriz Ferreira Cavalcanti,045.239.398-35,25/01/91,João Pessoa,PB,(83) 93967-2255,beatriz.ferreira.cavalcanti464@hotmail.com,A,08/01/2024
+C0640,Luís Costa,700.729.989-83,19/06/2003,São Paulo,SP,(11) 91051-9663,luis.costa346@outlook.com,AB,09/08/2025
+C0114,Eduardo Souza,684.033.524-43,01/07/1990,joão pessoa,PB,(83)93257-8783,eduardo.souza305@yahoo.com.br,A,13/06/2024
+C0243,Eduardo Nascimento Oliveira,368.128.327-08,12/05/1998,João Pessoa,PB,(83) 92027-4828,eduardo.nascimento.oliveira855@hotmail.com,AB,26/06/2024
+C0328,Leonardo Dias,872.637.123-13,25/05/1986,guarulhos,SP,(11) 92706-2821,LEONARDO.DIAS632@OUTLOOK.COM,A,30/05/25
+C0536,Cláudio Pereira Rocha,060.237.965-38,11/09/1964,João Pessoa,pb,(83) 93412-5154,sem email,A,17/04/2025
+C0487,Marcos Cardoso,226.660.709-85,20/04/1988,São Paulo,sp,(11) 93437-3358,marcos.cardoso68@yahoo.com.br,A,17/11/2025
+C0242,Ana Oliveira,175.257.064-02,25/08/1979,São Paulo,SP,(11) 96841-4639,ana.oliveira343@hotmail.com,moto,2024-02-18
+C0204,Vinícius Oliveira Cavalcanti,798.454.754-43,17/03/1984,joao pessoa,PB,(83) 98259-8440,vinicius.oliveira.cavalcanti688@hotmail.com,AB,15/09/24
+C0219,Thiago Ferreira,,1966-12-11,João Pessoa,pb,(83) 97070-8915,thiago.ferreira888@hotmail.com,A,22/12/2024
+C0269,Juliana Martins,597.842.589-67,03/06/1982,João Pessoa,PB,(83) 95479-8339,juliana.martins319@hotmail.com,AB,27/01/2024
+C0406,Bruno Costa Barbosa,669.826.657-13,01/10/1995,João Pessoa,PB,(83) 95243-3377,bruno.costa.barbosa891@gmail.com,A,06/12/25
+C0535,Maria Araújo Albuquerque,805.304.912-11,31/01/70,João Pessoa,PB,,maria.araujo.albuquerque571@yahoo.com.br,A,31/07/25
+C0490,Bruno Barbosa Ribeiro,577.837.289-25,09/01/1996,,SP,(11) 98386-8841,bruno.barbosa.ribeiro28@outlook.com,AB,10/10/2023
+C0022,José Costa Gomes,251.016.813-33,13/09/1970,João Pessoa,PB,(83) 94216-4080,jose.costa.gomes56@outlook.com,A,15/05/2024
+C0238,Anderson Gomes,478.429.205-90,17/03/1997,Guarulhos,SP,(11) 94794-3292,anderson.gomes829@yahoo.com.br,A,2024-05-26
+C0063,Ítalo Barbosa,572.403.947-16,11/04/1976,João Pessoa,PB,+55 83 95784-1925,,A,11/01/2024
+C0027,Andre Ribeiro Oliveira,938.275.775-25,20/03/1996,Cabedelo,pb,(83) 92633-6376,sem email,A,21/05/2024
+C0389,Ítalo Freitas,312.581.678-71,01/06/1981,João Pessoa,,,italo.freitas951@yahoo.com.br,AB,25/07/2025
+C0078,Juliana Almeida Dias,370.134.730-34,26/10/1983,João Pessoa,PB,(83) 96493-6684,juliana.almeida.dias643@gmail.com,AB,30/05/2024
+C0140,André Moreira Fonseca,627.732.761-24,23/05/1982,S. Paulo,SP,(11) 94497-4431,andre.moreira.fonseca166@yahoo.com.br,A/B,2024-02-24
+C0230,Jefferson Gomes,21951936602,26/01/1990,Guarulhos,SP,(11) 91209-8438,jefferson.gomes325@gmail.com,A,05/10/2023
+C0386,Ítalo Oliveira,117.021.159-68,28/11/85,Santa Rita,PB,(83) 98413-1397,,A,23/10/2023
+C0665,Felipe Almeida Teixeira,037.474.044-81,20/10/1966,Osasco,SP,(11) 99960-6567,felipe.almeida.teixeira142@outlook.com,,20/08/2023
+C0618,Thiago Gomes Santos,076.281.297-11,1971-04-06,Guarulhos,SP,(11)96145-1067,thiago.gomes.santos71@gmail.com,A,19/01/2025
+C0024,Anderson Lima Freitas,034.905.989-18,14/11/2002,João Pessoa,PB,(83) 95777-5443,anderson.lima.freitas326@hotmial.com,AB,10/11/2023
+C0426,Luís Ribeiro,610.707.127-67,06/10/1986,São Paulo,SP,(11) 92941-2224,luis.ribeiro48@yahoo.com.br,,11/04/2024
+C0172,Ana Cardoso,630.606.722-22,27/12/64,Guarulhos,SP,(11) 93722-8028,ana.cardoso250@outlook.com,AB,2024-02-28
+C0263,André Araújo,61911094204,13-09-1991,Bayeux,PB,(83) 96464-8522,andre.araujo993@outlook.com,a,01/05/2025
+C0649,Larissa Gomes Freitas,292.189.744-67,1972-02-02,São Paulo,SP,(11) 94100-7135,larissa.gomes.freitas7@gmail.com,A,2025-04-16
+C0344,José Monteiro Santos,059.546.535-02,09/07/1989,,PB,(83) 92119-8795,jose.monteiro.santos341@gmail.com,A,15/09/2023
+C0337,wesley rocha machado,078.343.190-50,14/03/1990,João Pessoa,PB,83 96455 8451,wesley.rocha.machado900@outlook.com,AB,25/04/2024
+C0043,Anderson Rocha Dias,187 633 467 69,29/01/2002,São Paulo,SP,(11) 96391-4825,anderson.rocha.dias704@hotmail.com,AB,11/01/2024
+C0213,Fernanda Carvalho,771.007.676-45,25/08/1991,João pessoa,PB,(83) 99096-8206,fernanda.carvalho399@yahoo.com.br,A,27/07/2026
+C0578,Sérgio Albuquerque,746.933.799-77,03-09-1993,SAO PAULO,SP,+55 11 96297-1306, sergio.albuquerque935@gmail.com  ,A,11/11/2023
+C0300,Luis Santos Santos,692.521.004-40,25/04/75,JOÃO PESSOA,PB,(83) 99953-7224,luis.santos.santos273@outlook.com,A,20/11/2023
+C0143,Ana Freitas Gomes,598.236.441-27,03/12/1996,sao paulo,SP,(11) 92229-2437,ana.freitas.gomes784@hotmail.com,AB,2024-05-02
+C0400,Leonardo Cavalcanti Rodrigues,696.533.847-11,09/06/1969, Cabedelo  ,PB,83967336021,leonardo.cavalcanti.rodrigues195@outlook.com,A,13/01/2025
+C0039,Sérgio Santos Lima,52566725886,1988-07-22,Guarulhos,SP,(11) 99539-2148,sergio.santos.lima863@outlook.com,A,02/11/24
+C0340,fernanda santos souza,259.129.162-34,08/10/1975,Guarulhos,SP,(11) 95500-5726,fernanda.santos.souza873@yahoo.com.br,A,17/12/2023
+C0083,Rafael Fonseca Moreira,612.066.951-40,22/05/1989,Guarulhos,SP,,,A,2026-03-10
+C0700,Cláudio Martins Fonseca,201.989.244-50,09/03/1986, Cabedelo  ,PB,(83) 93631-7070,claudio.martins.fonseca39@hotmail.com,A,09/03/2024
+C0360,Eduardo Freitas Moreira,556.227.712-58,02/11/1968,São Paulo,SP,(11) 97270-9120,eduardo.freitas.moreira219@yahoo.com.br,A,18/12/2024
+C0262, Felipe Cardoso  ,771.536.599-66,17/05/1999,João Pessoa,,(83) 97948-2146,felipe.cardoso184@outlook.com,A,27/02/2024
+C0498,Thiago Carvalho,359.340.706-72,23/10/1986,cabedelo,,,,A,09/08/2026
+C0129,Ana Santos Freitas,925.524.167-93,29/06/1972,JOAO PESSOA,PB,(83) 99932-1225,ana.santos.freitas548@outlook.com,A,14/02/2024
+C0087,Vinícius Nascimento Rocha,189.309.627-92,18/09/1993,Bayeux,PB,(83) 96691-3425,xxx,ab,09/10/2025
+C0278,Fernando Araújo,740.281.450-19,13/11/1985,João Pessoa,PB,83 94831 7512,fernando.araujo210@gmail.com,A,01/04/2024
+C0417,Diego Nascimento Lopes,,03/01/1963,joão pessoa,PB,(83) 91615-2727,diego.nascimento.lopes108@yahoo.com.br,A,16/03/25
+C0217,Leonardo Gomes,626.961.121-79,23-08-1982, Santa Rita  ,pb,83947415252,leonardo.gomes598@yahoo.com.br,A,21/09/24
+C0199,Cláudio Teixeira,885.717.691-55,02/08/1983,João Pessoa,PB,(83) 93695-6556,claudio.teixeira55@hotmail.com,A,28/06/2025
+C0322, Mateus Cardoso  ,512.642.712-40,20/12/1976,Santa Rita,PB,83 98847 3915,mateus.cardoso909@yahoo.com.br,,12/05/2024
+C0418,Lucas Moreira Machado,054.128.307-60,1962-03-28,Bayeux,PB,83 96546 2193,sem email,AB,23/08/2025
+C0552,Fernando Machado Carvalho,963.176.841-36,21/07/1970,João Pessoa,PB,83 95774 4570,fernando.machado.carvalho71@yahoo.com.br,A B,10/02/2024
+C0483, Lucas Monteiro Medeiros  ,797.984.727-64,09/07/1987,Bayeux,PB,(83)95273-3896,lucas.monteiro.medeiros277@outlook.com,A,2023-09-11
+C0436,andré cardoso oliveira,603.078.138-09,08/11/98,Santa Rita,PB,(83) 97226-1090,andre.cardoso.oliveira153@gmail.com,A,08/03/2025
+C0210,Fernanda Costa,358.421.364-44,14/09/2002,SP,SP,(11) 92030-3198,fernanda.costa996@gmail.com,AB,19/04/2026
+C0449,Thiago Gomes Fonseca,697.874.067-96,24/11/1984,Cabedelo,PB,(83) 91066-1408,thiago.gomes.fonseca575@gmail.com,ab,2025-07-27
+C0481,Wesley Ferreira Moreira,2328930034,28/04/1973,João Pessoa,PB,(83) 95658-7272,wesley.ferreira.moreira354@hotmail.com,A,2024-05-07
+C0661,Ângelo Martins,844.173.136-23,1974-06-17,GUARULHOS,SP,(11) 97080-2270,angelo.martins595@outlook.com,A,24/12/2024
+C0679,Ângelo Lopes,440.114.116-80,1984-07-21,Osasco,SP,(11) 92646-1715,angelo.lopes959@hotmail.com,moto,27/02/2024
+C0276,Mateus Albuquerque Moreira,399 748 754 85,05/01/1968,Cabedelo,PB,+55 83 97255-6903,mateus.albuquerque.moreira998@gmail.com,A,05/06/2024
+C0458,Bruno Cavalcanti Machado,70938966721,10/05/2015,Osasco,SP,(11) 93315-6083,bruno.cavalcanti.machado479@outlook.com,AB,24/02/2024
+C0397,Beatriz Martins Nascimento,723.557.368-28,31/07/1974,São Paulo,SP,(11) 96596-5945,beatriz.martins.nascimento334@outlook.com,A,08/09/23
+C0179,Leonardo Almeida,910.706.062-00,04/04/1968,Osasco,SP,,leonardo.almeida540@gmail.com,AB,17/04/2025
+C0461,Ricardo Ribeiro Pereira,934.189.202-58,15/11/1974,João Pessoa,PB,(83) 91025-1126,ricardo.ribeiro.pereira273@gmail.com,A,
+C0475,Diego Santos,046.777.283-37,29/04/1974,São Paulo,SP,(11) 96958-6236,diego.santos75@outlook.com,A,04/06/2025
+C0641,Rodrigo Almeida,277.803.047-67,26/04/1992,Bayeux,PB,(83) 96276-8882,rodrigo.almeida991@yahoo.com.br,AB,03/06/2024
+C0636,Wesley Almeida Lima,411.321.950-18,28/10/1971,João Pessoa,PB,(83) 98542-4586,wesley.almeida.lima153@outlook.com,A,2024-06-26
+C0286,Aline Pereira Moreira,199.820.992-06,02/05/1963, São Paulo  ,SP,,aline.pereira.moreira41@yahoo.com.br,A,10/05/2024
+C0379,Cláudio Gomes Barbosa,542 760 477 29,19/07/1988,,SP,11988433041,,A,05/12/23
+C0363,Vinícius Costa,176.351.772-43,15/05/1961,João Pessoa,PB,(83) 95104-2329,vinicius.costa128@yahoo.com.br,A,14/01/2025
+C0596,Jefferson Lopes,691 678 384 31,26/01/1974,Guarulhos,SP,(11) 97535-9060,jefferson.lopes973@outlook.com,A,19/06/2023
+C0609,Ana Medeiros,355.752.595-51,06/05/1960,João Pessoa,PB,(83) 95070-8939,ana.medeiros210@gmail.com,A,17-03-2024
+C0173,Ana Almeida Martins,479.381.918-39,29-08-1965,São Paulo,SP,(11) 91427-3385,ana.almeida.martins465@yahoo.com.br,A,15/09/2024
+C0673, Luís Cavalcanti Ferreira  ,209.737.141-10,10/11/1994,cabedelo,PB,(83) 99832-9683,luis.cavalcanti.ferreira743@yahoo.com.br,AB,09/09/2026
+C0118,Eduardo Gomes,313.295.108-97,,São Paulo,SP,(11) 97760-7887,eduardo.gomes99@gmail.com,A,2024-10-27
+C0122,Ângelo Monteiro,351.207.883-59,26/11/1985,João Pessoa,PB,(83) 97544-5016,angelo.monteiro296@hotmail.com,AB,03/10/2023
+C0215,Bruno Martins Ferreira,192.497.051-22,30/10/1986,São Paulo,SP,,bruno.martins.ferreira199@hotmail.com,A,08/05/2025
+C0453,rafael costa lima,967.233.092-43,12/12/1961,Cabedelo,PB,(83) 91903-4081,rafael.costa.lima902@gmail.com,AB,22/02/2024
+C0448,Diego Martins,274.078.507-92,26/12/1966,Cabedelo,PB,(83) 97436-7328,diego.martins738@hotmail.com,A,09/01/24
+C0325,Rafael Carvalho,095.580.547-86,1988-10-16,Osasco,SP,(11) 93050-3560,rafael.carvalho690@outlook.com,a,01/12/2023
+C0253,Luís Rocha,117.627.689-81,12/09/1993,João Pessoa,PB,(83) 96824-6419,sem email,A,14/12/24
+C0433,Gabriel Teixeira Pereira,002.658.000-37,16/01/89,São Paulo,sp,11 96907 2722,gabriel.teixeira.pereira210@outlook.com,A,2024-09-24
+C0404,beatriz machado barbosa,562.556.787-78,,João Pessoa,PB,(83) 95191-7319,beatriz.machado.barbosa293@outlook.com,a+b,10-09-2024
+C0327,André Silva Silva,366.568.013-68,29/03/2000,João Pessoa,PB,(83) 94707-1538,andre.silva.silva582@hotmail.com,A,30/06/2023
+C0358,Vinícius Rocha,494.756.667-92,30/08/2000,João Pessoa,PB,(83)93949-4750,vinicius.rocha627@outlook.com,A,29/01/24
+C0272, Vinícius Moreira  ,241.595.268-42,09/04/1991,,PB,(83) 93860-4152,vinicius.moreira187@yahoo.com.br,A,24/10/2023
+C0435,Josué Lopes,173.896.724-98,14/12/1968,João Pessoa,PB,(83) 98594-5693,josue.lopes935hotmail.com,A,18/07/2024
+C0011,Gabriel Santos,321.676.113-49,1972-07-19,Santa Rita,PB,(83) 92385-1237,gabriel.santos193@yahoo.com.br,A,31-01-2026
+C0055,Pedro Rocha Gomes,411.442.217-29,09/08/1983,João Pessoa,PB,(83) 93394-6412,,A,13-06-2023
+C0675,Fernando Medeiros,771.233.326-17,07/11/1988,Guarulhos,SP,(11) 93658-9085,sem email,A,21-03-2025
+C0656,Lucas Freitas,120.440.607-78,07/03/1965,Santa Rita,,(83) 98770-7264,lucas.freitas869@outlook.com,A,26/02/2024
+C0703,LUCAS FONSECA SOUZA,29207684004,06/12/1970,São Paulo,SP,(11) 98927-2951,lucas.fonseca.souza921@gmail.com,A,19/06/24
+C0141,Bruno Freitas,885.093.988-66,03/05/1983,João Pessoa,PB,(83) 97574-8310,bruno.freitas25@hotmail.com,AB,2024-09-23
+C0677,Rafael Costa,236.449.417-72,29/03/1997,Guarulhos,SP,(11) 92552-7430,,A,01/03/25
+C0542,José Ribeiro,096.710.337-84,28/08/1993,guarulhos,SP,(11) 91894-7011,jose.ribeiro60@outlook.com,A,11/03/2025
+C0573,Luís Rocha,286.481.589-20,08/08/1974,Guarulhos,SP,(11) 91499-2074,luis.rocha863@outlook.com,A,14/06/2023
+C0206,Diego Moreira Machado,831.582.777-33,26/03/1978,S. Paulo,SP,(11)94726-9729,diego.moreira.machado853@yahoo.com.br,A,12/06/2024
+C0015,Felipe Monteiro Moreira,831.352.050-20,21/10/1963,João Pessoa,PB,(83) 97971-1889,felipe.monteiro.moreira436@yahoo.com.br,A,16/12/2024
+C0298,Luís Gomes,383.525.145-54,11/03/1988,São Paulo,SP,(11) 92938-6829,luis.gomes512hotmail.com,A,03/10/2024
+C0464,José Pereira,366.552.593-15,25/05/1994,Osasco,SP,(11) 98092-3254,jose.pereira957@outlook.com,A,23/02/2024
+C0153,Rodrigo Pereira Dias,72723582500,15/08/1993,João Pessoa,PB,(83) 96606-4422,rodrigo.pereira.dias718@hotmail.com,moto,24/03/2025
+C0281,larissa moreira rodrigues,594.338.714-36,16/04/1962,São Paulo,SP,(11) 93039-2355,larissa.moreira.rodrigues713@outlook.com,A,05/11/2025
+C0662,Andre Oliveira,317.513.846-70,20/10/2000,São Paulo,,-,andre.oliveira335@yahoo.com.br,A,06/01/2024
+C0185,Lucas Nascimento Oliveira,49222373689,29/08/1984,João Pessoa,PB,(83) 98080-3699,lucas.nascimento.oliveira712@yahoo.com.br,a,2024-11-05
+C0561,André Ferreira,798.427.045-61,,João Pessoa,PB,(83) 95564-9275,xxx,A,31/05/25
+C0193,Eduardo Rodrigues Oliveira,,1968-03-21,João Pessoa,PB,(83) 98395-4367,eduardo.rodrigues.oliveira340@outlook.com,A,2025-02-04
+C0420,Carlos Souza Machado,653.422.954-07,13/09/1980,,PB,(83) 92186-5798,,A,06-04-2025
+C0562,Diego Santos,715 940 277 31,12/10/1972,Santa Rita,PB,(83) 98574-1419,diego.santos242@outlook.com,A,19/03/2024
+C0342,Ítalo Santos Medeiros,6210304355,1979-12-10,São Paulo,SP,(11) 99803-9920,italo.santos.medeiros78@hotmail.com,AB,22/04/2025
+C0688,Ângelo Silva,251.217.263-58,26/10/1997,Santa Rita,PB,(83) 99600-7011,angelo.silva12@yahoo.com.br,A,09/07/2025
+C0151, Eduardo Barbosa Rocha  ,519.726.660-89,03/09/2002,João Pessoa,PB,(83) 97651-1511,eduardo.barbosa.rocha979@yahoo.com.br,moto,23/03/2026
+C0419,Camila Cardoso Carvalho,063 155 715 82,01/08/1996,SP,SP,+55 11 98948-9700,camila.cardoso.carvalho722@hotmail.com,AB,04/05/2026
+C0520,Diego Medeiros Lopes,994.016.915-42,1987-09-02,São Paulo,SP,(11) 91489-4231,diego.medeiros.lopes877@gmail.com,A,30-04-2024
+C0455,Fernanda Lopes,719.756.208-90,06/04/1962,joão pessoa,PB,(83) 97494-9508,fernanda.lopes559@gmail.com,AB,03/02/2024
+C0494,Beatriz Teixeira Freitas,500 559 598 39,22/02/1981,João Pessoa,PB,(83) 92913-5699,beatriz.teixeira.freitas594@gmail.com,A,2024-03-13
+C0162,Ítalo Oliveira Dias,751.361.503-26,15/01/2000,Guarulhos,SP,(11) 96903-9728,italo.oliveira.dias147@yahoo.com.br,A,24/04/2024
+C0587,Bruno Cavalcanti,627.223.635-51,09/03/1970,SANTA RITA,PB,(83) 99268-4432,,A,2023-09-09
+C0145,Ana Pereira,471.271.749-09,13/11/1969,João Pessoa,SP,(83) 95792-8536,ana.pereira36@outlook.com,A,21/05/2024
+C0170,Patrícia Dias,286.076.684-46,30/08/1968,João Pessoa,PB,(83) 92940-5539,patricia.dias152@yahoo.com.br,A,2025-09-29
+C0612,Ana Medeiros,,26/01/1977,GUARULHOS,SP,(11) 97189-5702,,moto,07/09/2023
+C0680,Lucas Fonseca,215.371.791-65,1964-02-26,João Pessoa,PB,(83) 98821-4315,lucas.fonseca293@yahoo.com.br,A,16/02/2024
+C0528,Jefferson Rocha Cardoso,449.043.024-93,20/07/1998,João Pessoa,PB,(83) 98683-7425,jefferson.rocha.cardoso733@yahoo.com.br,A,05/10/2026
+C0556,Luís Monteiro Gomes,625 707 224 59,07/10/1969,SANTA RITA,,(83) 98715-9686,luis.monteiro.gomes256@hotmail.com,A,22/06/2024
+C0381,Patricia Almeida Cardoso,110 814 652 17,23/06/81,JOÃO PESSOA,PB,(83) 96064-2515,patricia.almeida.cardoso49@gmail.com,AB,09-12-2025
+C0376, Aline Rocha  ,180.653.883-01,,João Pessoa,PB,(83) 97090-3078,ALINE.ROCHA981@OUTLOOK.COM,AB,18/01/2024
+C0691,Luís Dias Ferreira,438.247.275-64,17/12/2000,São Paulo,SP,(11)96000-9129,luis.dias.ferreira771@gmail.com,AB,07-12-2024
+C0571,Lucas Cardoso Lima,874.118.655-88,28/10/1963,São Paulo,SP,(11) 94463-6732,lucas.cardoso.lima395@gmail.com,A,2026-10-08
+C0148,Lucas Ferreira Araújo,10623327626,03/04/1991,João Pessoa,PB,(83) 99414-5084,,AB,02/02/2025
+C0474,Fernando Oliveira Moreira,055.383.052-35,1991-09-01,Osasco,sp,(11) 91611-4457,fernando.oliveira.moreira278@hotmail.com,A,02/08/2024
+C0457,Rodrigo Ribeiro Machado,757.566.782-60,,São Paulo,SP,(11) 93409-6457,rodrigo.ribeiro.machado897@outlook.com,A,09/01/24
+C0221,Larissa Rodrigues Lopes,733.952.280-07,1960-01-22,Santa Rita,pb,(83) 94831-7548,larissa.rodrigues.lopes171@yahoo.com.br,A,18/05/2024
+C0175,DIEGO ALMEIDA CARVALHO,704.461.176-82,13/09/2003,São Paulo,SP,(11) 92459-9266,diego.almeida.carvalho273@outlook.com,A,03/07/2024
+C0268,Ricardo Ferreira,916.823.211-14,02/04/1983,João Pessoa,PB,(83) 97083-1635,ricardo.ferreira16@yahoo.com.br,A,27/11/2024
+C0076,Thiago Medeiros Albuquerque,095.800.811-56,10/01/70,João Pessoa,PB,(83) 94985-4443,thiago.medeiros.albuquerque444@outlook.com,AB,02/07/2026
+C0484,VINÍCIUS COSTA SOUZA,15086594375,1991-05-28,Guarulhos,SP,(11) 93854-1648,,,29/07/2024
+C0413,Sérgio Ribeiro Monteiro,181.871.715-92,13/08/67,Santa Rita,PB,N/A,sergio.ribeiro.monteiro423@hotmail.com,A,10/11/2023
+C0007,Bruno Pereira Souza,222.699.729-55,22/09/1990,João Pessoa,PB,(83) 96241-6490,bruno.pereira.souza768@yahoo.com.br,A,11/01/2025
+C0227,Felipe Ferreira,528.075.741-76,08/05/1980,João Pessoa,,(83) 95330-3354,felipe.ferreira372@hotmail.com,A,22/04/2024
+C0216, Aline Ribeiro  ,656.433.183-29,13/03/1982,São Paulo,SP,(11) 93497-7555,ALINE.RIBEIRO621@GMAIL.COM,AB,29/12/2024
+C0099,eduardo freitas,955.128.353-21,20/09/2000,João Pessoa,PB,(83) 94179-6074,eduardo.freitas939@gmail.com,AB,16/09/2024
+C0249,Juliana Santos,628.490.378-29,21/06/1968,São Paulo,SP,,,AB,29/01/2024
+C0106,Beatriz Rocha,885.696.475-85,25-01-1998, Cabedelo  ,PB,(83) 91891-6005,BEATRIZ.ROCHA45@GMAIL.COM,A,03/06/2026
+C0119,gabriel lopes,068 627 088 78,04/09/1985,João Pessoa,PB,83 99295 7275,gabriel.lopes468@hotmail.com,AB,
+C0207,Juliana Cavalcanti,674.486.642-59,26/05/1986,São Paulo,SP,(11) 99891-3202,,AB,16/06/2024
+C0113,João Rocha,227.840.589-41,23/01/1985,JOÃO PESSOA,PB,(83) 91465-3614,joao.rocha830@yahoo.com.br,a+b,10/12/24
+C0529,Beatriz Santos,335.434.526-32,30/04/1978,São Paulo,SP,,,A,09/11/2023
+C0305,gabriel araújo,000.000.000-00,03/01/1973,Bayeux,PB,(83) 95507-4851,,a,17/05/2024
+C0020,Thiago Rocha,137.215.134-56,,São Paulo,SP,(11) 94260-1009,thiago.rocha843@gmial.com,A,09/06/2024
+C0427,Ana Araújo Souza,461.949.905-44,30/07/1973,Bayeux,PB,(83) 92674-3596,ana.araujo.souza558@hotmail.com,A,04/02/26
+C0394,luís teixeira,781.631.118-71,26/05/1987,,SP,(11) 96454-9165,luis.teixeira660@outlook.com,A,09/02/2026
+C0383,Rodrigo Rodrigues Cardoso,000.000.000-00,04/07/1965,BAYEUX,PB,999999999,rodrigo.rodrigues.cardoso130@gmail.com,A,20/12/2023
+C0008,Marcos Cavalcanti Cardoso,946.505.478-96,18/11/1975,J. Pessoa,PB,(83) 99423-8625,marcos.cavalcanti.cardoso444@gmail.com,A,24/02/2025
+C0161,Cláudio Ferreira Lima,,05/08/1983,João Pessoa,PB,(83) 99619-6846,claudio.ferreira.lima797@gmail.com,A,28/04/2025
+C0352,jefferson gomes,397.715.779-33,2002-06-20,São Paulo,SP,11944059532,jefferson.gomes985@gmail.com,moto,25/07/2024
+C0647,Ana Santos,772.213.515-25,06/04/1973,Cabedelo,PB,(83) 98841-2575,ana.santos953@hotmail.com,A,30/03/2026
+C0047,André Nascimento Costa,472.971.312-31,18/08/1960,João Pessoa,PB,(83) 93726-8744,andre.nascimento.costa438@outlook.com,A,26/08/2025
+C0635,Larissa Medeiros Cardoso,774.667.807-75,06/10/1982,São Paulo,SP,11947258230,larissa.medeiros.cardoso722@hotmail.com,AB,25/06/2025
+C0424,Pedro Ribeiro Santos,160.593.152-88,30/07/1988,Guarulhos,SP,(11) 97617-5141,,A,2025-09-27
+C0311,Felipe Santos Medeiros,049.070.444-07,28/01/1972,João Pessoa,pb,(83) 95961-3777,felipe.santos.medeiros770@outlook.com,AB,27/09/2024
+C0551,larissa gomes costa,,07/11/1984,João Pessoa,PB,(83) 91511-6082,larissa.gomes.costa862@hotmail.com,AB,30/12/2023
+C0467,Marcos Nascimento,354.454.701-88,03/11/95,Santa Rita,PB,(83) 91227-3514, marcos.nascimento369@hotmail.com  ,A,18/02/2026
+C0451,Carlos Nascimento,251.380.064-24,16-01-1968,Santa Rita,PB,(83) 96277-7062,carlos.nascimento374@gmail.com,A,08/12/2024
+C0364,Ângelo Carvalho Rocha,799 169 928 69,05/06/1966,João Pessoa,PB,(83) 94215-1102,,A,06/09/2024
+C0294,Ângelo Silva,256.972.065-95,15/12/1981,João Pessoa,PB,(83) 98887-8434,ANGELO.SILVA303@GMAIL.COM,A,10/04/2024
+C0604,Gabriel Araújo Araújo,89813753313,1978-06-25,São Paulo,SP,(11) 93456-2853,gabriel.araujo.araujo416@outlook.com,A,25/12/2023
+C0615,Ítalo Cavalcanti,190.530.908-77,03/02/1967,João Pessoa,PB,(83) 94617-7129,,A,04/12/2023
+C0218,Fernanda Moreira Teixeira,556.270.186-14,08/04/1962,Bayeux,PB,(83) 93505-4150,fernanda.moreira.teixeira671@yahoo.com.br,A,29/04/25
+C0377,Josué Araújo Albuquerque,977.749.250-25,11/06/81,João Pessoa,PB,(83) 94703-4840,josue.araujo.albuquerque940@outlook.com,AB,18/05/2026
+C0124,José Teixeira Fonseca,751.969.914-10,2002-05-02,Bayeux,PB,(83) 98952-6838,,moto,25/03/2025
+C0549,Eduardo Medeiros Carvalho,045.492.322-53,02/12/73,João Pessoa,PB,83929132002,eduardo.medeiros.carvalho670@yahoo.com.br,A,14/09/2023
+C0200,Bruno Santos Dias,284.326.143-13,1983-02-27,Santa Rita,PB,83988518906,bruno.santos.dias677@gmail.com,AB,01/11/2023
+C0423,Patrícia Albuquerque,679.877.827-13,2000-12-08,João Pessoa,PB,(83) 94802-2888,patricia.albuquerque283@yahoo.com.br,A,06/01/2024
+C0003,Diego Carvalho Martins,764.319.634-77,13/03/1980,João Pessoa,PB,(83) 96924-6397,diego.carvalho.martins303@outlook.com,A,25/01/2025
+C0395,JULIANA CARVALHO DIAS,675.653.787-78,1976-02-03,Cabedelo,PB,(83) 97794-8341,juliana.carvalho.dias63@hotmail.com,A,02/12/2025
+C0560,Juliana Freitas Lopes,,1978-01-16,João Pessoa,PB,(83) 96432-4942,,A,07/09/2024
+C0029,Bruno Araújo Martins,093.889.385-02,09/06/1989,Bayeux,PB,+55 83 97974-2347,BRUNO.ARAUJO.MARTINS161@HOTMAIL.COM,a,29/09/2023
+C0534,Gustavo Medeiros,776.051.675-30,24/05/1989,Santa Rita,PB,(83) 97447-8012,gustavo.medeiros697@hotmail.com,AB,17/10/2026
+C0021,Fernanda Monteiro,880.484.894-03,04/06/1969,João Pessoa,PB,(83) 95175-2759,fernanda.monteiro474@outlook.com,A,26/06/2025
+C0032,Maria Martins,661.376.105-49,17/11/1982,João Pessoa,PB,(83) 95026-2256,maria.martins930@gmail.com,A,2025-02-25
+C0599,Ângelo Cardoso Machado,277.814.646-63,21/05/1964,S. Paulo,SP,+55 11 99052-3698,angelo.cardoso.machado969@yahoo.com.br,A,06/12/2024
+C0576,Fernanda Ferreira,427.473.873-98,02-12-1985,João Pessoa,,(83) 97217-4283,fernanda.ferreira17@outlook.com,A,23/02/2024
+C0492,João Oliveira,277.188.753-88,13/09/1982,Sao Paulo,SP,(11) 97688-1803,joao.oliveira741@hotmail.com,A,05/07/2024
+C0348,Pedro Gomes Araújo,003.102.980-92,13/10/1977,João Pessoa,PB,(83) 97846-7412,pedro.gomes.araujo327@hotmail.com,A,31/10/2023
+C0477,Pedro Machado Fonseca,762.031.175-31,09/10/1993,João Pessoa,PB,(83) 92710-2111,pedro.machado.fonseca633@outlook.com,AB,11/11/2024
+C0082,Ana Almeida,039.132.745-95,28/02/1992,Cabedelo,PB,(83) 99521-8736,,A,17/08/2026
+C0495,Pedro Ferreira,80622241515,02/06/1987,Guarulhos,SP,(11) 98256-7646,pedro.ferreira180@gmail.com,AB,05/09/2023
+C0382,Fernando Cavalcanti Dias,827 580 942 19,1998-09-12,são paulo,SP,(11) 97601-6316,fernando.cavalcanti.dias131@hotmail.com,A,17/12/2023
+C0010,lucas araújo albuquerque,262.324.534-22,19/10/1988,São Paulo,,(11) 98745-6138,lucas.araujo.albuquerque815@hotmail.com,A,2026-03-22
+C0323,Rodrigo Rocha,149.361.725-86,12/10/80,Guarulhos,,(11) 98643-2945,rodrigo.rocha190@hotmail.com,A,16/10/2023
+C0411,Fernando Machado,854.015.551-50,25/04/66,bayeux,PB,(83) 96898-9837, fernando.machado498@outlook.com  ,AB,20/06/2024
+C0171,Thiago Teixeira Martins,,24/08/1979,Santa Rita,PB,(83) 95780-9676,thiago.teixeira.martins317@gmail.com,AB,18/12/2023
+C0564,Jefferson Oliveira,060.709.591-24,15/04/1961, João Pessoa  ,PB,(83) 97633-7376,jefferson.oliveira103@hotmail.com,A,20/05/2024
+C0441,Rodrigo Ferreira,248.203.937-82,24/02/1988,CABEDELO,PB,(83) 93664-7051,rodrigo.ferreira205@hotmail.com,moto,19/07/2023
+C0714,Juliana Almeida Dias,37013473034,26/10/1983,João Pessoa,PB,(83)96493-6684,juliana.almeida.dias643@gmail.com,A B,30/05/2024
+C0103,Lucas Medeiros Moreira,679.874.841-83,13/02/2001,João pessoa,PB,+55 83 95834-5206,lucas.medeiros.moreira368@yahoo.com.br,moto,26/12/2023
+C0271,Ângelo Nascimento,08919992599,28/06/1986,João Pessoa,PB,(83) 93332-1587,angelo.nascimento197@gmail.com,A,01/05/2024
+C0531,Sérgio Dias,983.384.334-50,12-01-1981,João Pessoa,PB,(83) 94198-4821,sergio.dias440@hotmail.com,AB,2024-12-25
+C0316,Pedro Rodrigues,,01/11/66,,PB,(83)94949-4824, pedro.rodrigues16@yahoo.com.br  ,A,26/05/2024
+C0355,Fernando Gomes Freitas,363.135.009-04,18/06/1993,São Paulo,SP,11 91778 8149,fernando.gomes.freitas328@hotmail.com,AB,11/12/2025
+C0350,Felipe Albuquerque Teixeira,320.847.589-63,11/07/78,João Pessoa,PB,(83) 95677-2746,felipe.albuquerque.teixeira824@hotmail.com,A,2023-10-15
+C0144,Fernando Monteiro Silva,035.254.710-52,16/12/1990,sao paulo,SP,(11) 99908-1837,,AB,18/03/2026
+C0062,Eduardo Martins,383.498.037-52,27/12/1982,João Pessoa,PB,(83) 97714-7612,eduardo.martins865@gmail.com,A,08/12/2024
+C0270,José Rocha,187.802.805-49,12/07/1997,São Paulo,SP,(11) 96287-7300,jose.rocha895@hotmail.com,A,12/04/2024
+C0621,Ítalo Teixeira,679.985.449-25,07/10/1989,São Paulo,SP,(11) 93340-3525,italo.teixeira23@outlook.com,a,15/01/2024
+C0668,Ana Santos,240.321.133-36,14/11/1982,João Pessoa,PB,+55 83 97570-5230,ana.santos193@yahoo.com.br,AB,29/06/2024
+C0459,CARLOS FONSECA,876.443.899-73,20/03/1994,João Pessoa,PB,(83) 93406-4625,carlos.fonseca244@yahoo.com.br,A,06/12/2025
+C0116,Ângelo Nascimento Rocha,378.350.351-99,14/04/1971,SÃO PAULO,SP,,,A,09/02/2025
+C0086,Camila Almeida Medeiros,423.433.780-38,28/03/1983,João Pessoa,PB,(83) 92304-1196,camila.almeida.medeiros205@outlook.com,A,2025-02-06
+C0049,LEONARDO CARDOSO SILVA,444.575.689-17,11/11/1969,Sao Paulo,SP,(11) 91618-8630,leonardo.cardoso.silva197@yahoo.com.br,AB,08/02/2024
+C0704,Rodrigo Rodrigues Cardoso,91177745025,1965-07-04,bayeux,PB,(83) 92889-9935,rodrigo.rodrigues.cardoso130@gmail.com,,20/12/2023
+C0361,Wesley Rodrigues,211.442.925-43,,João Pessoa,PB,(83) 95173-2072,wesley.rodrigues977@gmail.com,A,30/01/25
+C0137,Thiago Rodrigues,970.618.091-42,27/08/1995,Cabedelo,PB,(83) 91604-5075,thiago.rodrigues393@outlook.com,AB,
+C0134,Camila Dias Medeiros,985.437.021-42,25/08/1968, Santa Rita  ,PB,(83) 96022-8407,camila.dias.medeiros376@yahoo.com.br,AB,24/02/2026
+C0362,Gustavo Almeida Almeida,00562263711,19/03/1984,,SP,-,gustavo.almeida.almeida392@outlook.com,A,13/08/2024
+C0341,Joao Fonseca,205.537.923-38,29/05/1963,São Paulo,SP,(11) 95350-6251,joao.fonseca895@yahoo.com.br,A,2024-01-29
+C0452,Cláudio Ferreira,510.892.065-85,22/04/1993,Bayeux,PB,(83) 92335-8020,claudio.ferreira785@gmail.com,AB,06/04/2026

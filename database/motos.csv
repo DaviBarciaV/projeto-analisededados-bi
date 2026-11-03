@@ -1,0 +1,124 @@
+id_moto,placa,marca,modelo,ano_fabricacao,cor,filial,data_aquisicao,valor_aquisicao,km_atual,status
+M042,RCR7F08,HONDA,Honda CG 160 Titan,2023,Prata,João Pessoa,08/12/2023,1756001.0,,Disponível
+M100,GAY-0165,Honda,Honda Biz 125,2023/2024,Prata,João Pessoa,14/10/2023,12794.86,85860,Alugada
+M075,UBC-5071,Shineray,Shineray Jet 125,2025,Cinza,João Pessoa,,10420.06,56176,Alugada
+M115,PUG-8479,Yamaha,Yamaha Factor 150,2023,PRATA,São Paulo,18/05/2024,15779.57,76494,Alugada
+M106,RXR-3790,Honda,Honda Biz 125,2024/2025,Azul,São Paulo,,13936.85,41031,alugada
+M023,XCM-4695,Honda,Honda PCX 160,2024,preto,são paulo,03/08/2025,19449.78,39075,Alugada
+M041,VUR0C17,Honda,Honda NXR 160 Bros,2023,Preto,São Paulo,08/12/2023,20484.76,84318,Alugada
+M095,ATR4C08,honda,Honda CG 160 Titan,2025,Vermelha,São Paulo,07/07/2025,15355.95,46824,Alugada
+M006,CHU-8322,Yamaha,Yamaha Factor 150,2022,Cinza,João Pessoa,,14749.56,93940,Alugada
+M116,KCF-8961,Honda,Honda CG 160 Titan,2024,Preta,,15/06/2024,,74930,Alugada
+M097,ZTV1C54,Honda,Honda Pop 110i,2025,Preta,João Pessoa,02/10/2025,11361.58,-44681,Alugada
+M052,WUV1A91,Honda,Honda CG 160 Fan,2022,Azul,João Pessoa,2023-08-25,14706.01,100189,
+M063,WAC0A86,Honda,Honda CG 160 Fan,2024,Cizna,joao pessoa,01/10/2024,15433.1,63034,Alugada
+M109,PAP 5J50,Honda,honda pop 110i,2023,PRETA,João Pessoa,19/11/2024,"11329,51",65433,Alugada
+M044,CNA5E46,Honda,Honda Pop 110i,2024,Azul,São Paulo,25/01/2024,11981.78,N/D,Alugada
+M110,HSB3A95,honda,Honda CG 160 Titan,2023,Vermelha,João Pessoa,02/12/2023,17085.6,85540,Alugada
+M067,NVZ-6509,Shineray,SHINERAY JET 125,2024,Azul,JP,17/11/2025,9600.31,35047,ALUGADA
+M014,CLT -2023,HONDA,Honda CG 160 Titan,2025, Vermelha  ,João Pessoa,04/04/2025,15753.35,48887,Alugada
+M096,LDX 7J85, Yamaha  , Yamaha Factor 150  ,2099,Vermelha,São Paulo,06/12/2024,15103.09,59201,Alugada
+M027,EAT-0843,Honda,Honda Pop 110i,,Cizna,João Pessoa,27/06/2024,1218838.0,55181,Alugada
+M107,PUX6H86,Yamaha,Yamaha Factor 150,2025,Azul,João Pessoa,09/11/2025,15718.38,45704,Alugada
+M059,DCH6D78,Honda,Honda CG 160 Titan,2025,Branca,João Pessoa,02/12/2025,,29875,Disponível
+M051,CAS1365,Yamaha,Yamaha Factor 150,2023, Azul  ,São Paulo,11/07/2023,14197.71,99188,Alugada
+M114,URK-5423,honda,Honda CG 160 Titan,2023,Preta,João Pessoa,08/10/2023,15715.32,999999,Disponível
+M060,PHY0C41,Honda,Honda CG 160 Titan,2024,Branca,João Pessoa,17/01/2025,"R$ 16.667,38",59748,disponivel
+M016,EME3F14,Honda,Honda CG 160 Fan,2024,preta,João Pessoa,01/12/2024,"R$ 15.071,35",56287,Alugada
+M081,SKW5D77,Yamaha,Yamaha Fazer 250,2024,Prateada,João Pessoa,25/12/2024,23160.93,50180,Disponível
+M021,JLV-9632,Honda,Honda Biz 125,1900,Vermelho,João Pessoa,26/10/2024,13528.46,60944,Alugada
+M099,HDP-2362,Honda,Honda PCX 160,2024,Cinza,São Paulo,16/07/2025,18893.4,,Disponível
+M113,ZJY-5886,Yamaha,Yamaha Fazer 250,2022,branca,João Pessoa,07/09/2023,"R$ 23.674,04",105086,Alugada
+M047,,Honda,Honda CG 160 Titan,,Preta,João Pessoa,2025-11-20,17507.48,32182,Disponível
+M085,HXZ9G50,Honda,honda pop 110i,2025,Prata,São Paulo,05/09/2025,11073.51,38724,Alugada
+M046,THT8H76,Yamaha,Yamaha Factor 150,2023,Vermelha,João Pessoa,22/08/2023,14805.13,92489,Alugada
+M071,UJM-4308,Honda,Honda Biz 125,2099,Vermelha,SP,12/10/2024,"13198,72",62321,Alugada
+M013,XLG7J26,Shineray,Shineray Jet 125,2024,Vermelha,João Pessoa,10/05/2024,"R$ 9.874,76",74770,Alugada
+M077,UXZ8E32,Honda,Honda CG 160 Titan,2024,VERMELHA,São Paulo,20/09/2024,15540.93,73722,Disponível
+M012,DJF3G63,Honda,Honda NXR 160 Bros,2023,Branca,João Pessoa,30/10/2023,18457.16,100346,Disponível
+M066,HAS2G52,Honda,Honda CG 160 Fan,2023,Preta,João Pessoa,19/03/2024,-16543.91,N/D,alugada
+M060,PHY0C41,Honda,Honda CG 160 Titan,2024,Branca,João Pessoa,17/01/2025,"R$ 16.667,38",59748,disponivel
+M019,LBT-2014,Honda,Biz 125,2023,vermelho,João Pessoa,23/02/24,13825.53,85198,ALUGADA
+M050,MYT7E11,Honda,Biz 125,2024,Prata,São Paulo,15/07/2025,13091.59,39048,Alugada
+M003,BGR-1652,Honda,Honda Biz 125,2025,Cinza,São Paulo,12/09/2025,14243.0,31741,Disponível
+M072,MCA3J91,Honda,Honda Biz 125,2024,Azul,João Pessoa,2024-12-03,13195.44,53155,Alugada
+M018,LYD5E47,HONDA,honda biz 125,2024,Vermelha,João Pessoa,27/08/2024,"R$ 13.539,07",69527, Alugada  
+M030,WAS-1091,Honda,Honda Biz 125,2023,Cinza,São Paulo,12/12/2024,12994.69,56279,Alugada
+M082,WES-0848,Honda,Honda CG 160 Fan,2024,Branca,São Paulo,08/03/2024,"16480,04",74739,
+M038,VNH5J85,Yamaha,Yamaha Factor 150,2025,Branca,João Pessoa,23/06/2025,15496.99,42283,Alugada
+M031,PUP-2898,Honda,Honda Biz125,2024,Preta,João Pessoa,20-05-2025,13787.15,47475,Em manutenção
+M088,PSF-8146,Honda,honda biz 125,2025,Prateada,São Paulo,14/06/2025,"12904,99",31612, Alugada  
+M053,pzf-2877,Honda,Honda CG 160 Titan,2025,Vermelha,São Paulo,10/07/2025,17488.21,42359,Alugada
+M080,FWL0J51,Honda,Honda CG 160 Titan,2024,Cinza,João Pessoa,26/04/2025,16272.13,47367,disponivel
+M055,WVT0B01,Honda,HONDA POP 110I,2022,Preta,São Paulo,20/08/23,11679.59,105859,Alugada
+M096,LDX 7J85, Yamaha  , Yamaha Factor 150  ,2099,Vermelha,São Paulo,06/12/2024,15103.09,59201,Alugada
+M118,GDA9A88,HONDA,Honda CG 160 Fan,2024,Cinza,João Pessoa,31/08/2025,15779.22,43794,disponível
+M028,DMM6C95,Honda,Honda CG 160 Fan,2023,vermelho,São Paulo,02/10/2023,14748.99,,ALUGADA
+M004,JLM0E15,Yamaha,Yamaha Factor 150,2024,Cinza,São Paulo,29/04/2024,16194.86,79755,Disponível
+M034,NAT0B17,Honda,Honda CG 160 Titan,,preta,João Pessoa,13/10/2025,16917.45,34492,Disponível
+M078,GYL-8225,Honda,Honda Biz 125,2023,Preta,João Pessoa,21/06/2024,12647.04,63284,Alugada
+M037,CVX2398,Yamaha,Yamaha NMAX 160,2025,vermelho,São Paulo,10/03/2025,20296.96,N/D,Alugada
+M022,EDN0449,Honda,Honda CG160 Fan,2024, Branca  ,São Paulo,12/11/2025,16666.39,34720,ALUGADA
+M033,DHH -9233,Honda,honda pop 110i,2023,Prateada,João Pessoa,02/05/2024,"R$ 11.153,40",80067,DISPONÍVEL
+M089,CHY7E93,honda,Honda Pop 110i,2023,PRETA,São Paulo,27/03/2024,10860.83,83405,Alugada
+M029,RTD7D00,Honda,Honda Biz 125,2023,Preta,são paulo,18/10/2023,14075.24,87609,Disponível
+M092,CMG4A33,Yamaha,Yamaha Factor 150,2023,Branca,São Paulo,26-06-2024,-15926.08,75100,alugada
+M102,BPD2H87,Yamaha,Yamaha Factor 150,,Vermelha,SAO PAULO,10/12/2024,15313.93,50071,Alugada
+M087,HHX0C06,Honda,Honda CG 160 Fan,2024,Vermelha,São Paulo,08/03/2024,15663.71,72509,Alugada
+M083,GND1F18,Shineray,Shineray Jet 125,2025,Prata,João Pessoa,20/01/2025,"R$ 10.046,30",55708,Alugada
+M036,MJE9H64,Honda,Honda Pop 110i,2023,Preta,São Paulo,18/11/2023,10778.66,89832,Em manutenção
+M011,DCC7G69,Yamaha,Yamaha Factor 150,2023,Cinza,João Pessoa,28/03/2024,14460.12,86542,Alugada
+M112,SMX1C25,Shineray,Shineray Jet 125,2023,Vermelha,São Paulo,30-01-2024,,999999,Alugada
+M094,EDP-0473,Honda,Honda Biz 125,2023,Preta,Sao Paulo,06/04/2024,12572.5,78986,alugada
+M032,NFG2J74,Yamaha,YAMAHA FACTOR 150,2024,Cinza,,17/05/2024,14277.64,81008,Alugada
+M017,PRP2A15,Yamaha,Yamaha NMAX 160,2025/2026,Branca,sao paulo,17/12/2025,"R$ 18.737,49",21178,Alugada
+M086,HNZ7423,honda,Honda CG 160 Fan,2023,azul,S. Paulo,23/02/2024,15356.24,84913,Disponível
+M002,MJE9H64,Honda, Honda CG 160 Titan  ,2024,CINZA,João Pessoa,2025-12-04,"15869,92",27352,Alugada
+M105,DGE-6819,Honda,Honda NXR 160 Bros,2023,Prata,São Paulo,14-08-2024,"18714,16",63896,Alugada
+M111,GZE4E05, Yamaha  ,Yamaha Fazer 250,2023,Branca,João Pessoa,19/04/2024,"23439,11",68942,Alugada
+M120,DFX0D11,Honda,Honda Biz 125,2023,Prata,João Pessoa,2024-08-27,13704.36,-73416,Disponível
+M010,YGK6B55,HONDA,HONDA CG 160 TITAN,2024,cinza escuro,São Paulo,19/06/2024,16283.75,70171,Alugada
+M005,JVE4B68,Honda,CG 160 Fan,2024,Vermelha,São Paulo,29/09/2025,15660.98,31882,Alugada
+M039,DDK6C33,Honda,Honda CG 160 Fan,2022,Azul,João Pessoa,28/07/2023,"R$ 15.533,37",102792,Alugada
+M079,ssu-0081,Honda,Honda CG 160 Titan,2025,Cinza,sao paulo,23/10/2025,15458.11,-36362,Alugada
+M074,tzv6h47,Honda,Honda NXR 160 Bros,2024,Cizna,São Paulo,14/12/2024,20102.5,52865,Alugada
+M108,ZJV-7193,Honda,Honda CG 160 Titan,2023,prata,João Pessoa,02/09/2023,16082.2,96289,Alugada
+M035,htx7h53,Honda,Honda CG 160 Fan,2024,Branca,João Pessoa,18/07/2025,15245.65,45579,Alugada
+M065,CMZ0J44,Honda,Honda Pop 110i,2025,Branca,SP,18/02/2025,11830.7,55647,Alugada
+M062,VTN8B92, Honda  ,Honda CG160 Fan,2024,Azul,João Pessoa,29/10/2024,16463.31,57249,Alugada
+M054,VWL0E20,Yamaha,Yamaha Factor 150,2022,Preta,João Pessoa,,15721.76,99720,Alugada
+M098,WAT3D01,Honda,Honda CG 160 Fan,2024,Preta, São Paulo  ,16/12/2024,16260.3,70433,Disponível
+M025,ETX0B28,Honda,honda cg 160 titan,2024,Prata,SP,02/05/2025,16501.71,37668,Disponível
+M057,LFR-8726,Shineray,SHINERAY JET 125,2024,Branca,São Paulo,08/12/2024,9916.32,55520,Alugada
+M070,RBT-3666,honda,NXR 160 Bros,,Azul,João Pessoa,01/08/2025,20440.43,38972,Alugada
+M064,bux0d82,Honda,Honda CG 160 Titan,2023,Prata,João Pessoa,2023-07-23,15699.85,,Alugada
+M101,XDR1C72,Yamaha,Yamaha Fazer 250,2022,Branca,João Pessoa,2023-08-25,24038.31,98257,Disponível
+M061,TPS 6C24,Honda,honda pop 110i,2024,Branca,João Pessoa,06/12/2024,11702.88,62761,Alugada
+M020,TTY7C10, Honda  ,Honda CG 160 Fan,2024,Prata,João Pessoa,02/11/2024,14776.76,N/D,ALUGADA
+M007,DVA7H78,Honda,honda nxr 160 bros,2025,Branca,São Paulo,2025-01-19,19387.84,56651,Alugada
+M056,AAF8E70,Honda,Honda CG 160 Titan,2024,Vermelha,João Pessoa,29/03/2025,15768.96,58778,Alugada
+M076,DGV-7337,Shineray,Shineray Jet 125,2024,Cinza,João Pessoa,18/07/2024,"9662,89",65931,Alugada
+M001,LBT -2014,Yamaha,yamaha factor 150,2024,Azul,São Paulo,05-02-2025,15808.74,58272,Disponível
+M045,PWC-7859,Honda,Honda Biz 125,2023,Cinza,SP,08/01/2024,13346.17,87838, Alugada  
+M008,FCL6F47,HONDA,Honda Pop 110i,2025,Azul,S. Paulo,24/03/2025,11716.9,38978,Alugada
+M049,CAS5A09, Honda  ,Honda Pop 110i,2022,cinza escuro,João Pessoa,24/09/2023,,80261,Alugada
+M055,WVT0B01,Honda,HONDA POP 110I,2022,Preta,São Paulo,20/08/23,11679.59,105859,Alugada
+M103,sup-2676,Honda,Honda CG 160 Fan,2025,Cinza,João Pessoa,07/05/2025,15832.26,44774,Alugada
+M040,VYS9H48,Honda,Honda NXR 160 Bros,2024,Vermelha,João Pessoa,10-05-2024,20451.57,80749,ALUGADA
+M009,NPA3D98,Honda, Honda Biz 125  ,2022,vermelho,Sao Paulo,25/08/2023,12997.15,93855,Alugada
+M091,BLE9C49,Honda,Honda CG160 Fan,2024,Vermelha,João Pessoa,31/05/2025,14941.9,,Alugada
+M043,PZV -9313,Yamaha, Yamaha Factor 150  ,2024,Preta,JOÃO PESSOA,17/06/2024,14338.26,74210,Disponível
+M090,PBZ4C51,Honda,HONDA CG 160 TITAN,2023,Vermelha,joão pessoa,04/07/2023,"R$ 15.602,80",106771,Alugada
+M073,ASL-4202,Honda,Honda CG 160 Titan,1900,Preta,João Pessoa,30/01/2024,15987.23,95074,Alugada
+M117,,Honda,Honda CG160 Titan,2025,Azul,JOAO PESSOA,01/02/25,16571.26,50004,Alugada
+M015,usk-3086,yamaha, Yamaha Factor 150  ,2023,Preta,Sao Paulo,19/06/2023,,109067,Em manutenção
+M058,FRL9B14,Honda,Pop 110i,2022,Azul,João Pessoa,15/10/2023,11458.41,104795,Em manutenção
+M093,HYM8G33,Honda, Honda CG 160 Fan  ,2023,cinza escuro,São Paulo,02/01/2024,"14801,44",94002,Alugada
+M104,JMK-4079,HONDA,Honda CG 160 Titan,2025,Preta,,11/12/2025,"R$ 16.257,47",31863,Alugada
+M024,JGA-9368,Honda,Honda CG 160 Titan,2025/2026,Vermelha,João Pessoa,26/05/2025,,41849,alugada
+M084,HDC3A06,Yamaha,Yamaha NMAX 160,2024,Vermelha,JP,20/03/2025,19769.84,999999,Alugada
+M068,MLY1C18,Honda,Honda PCX 160,2023,Prata,JP,26/07/2024,19059.47,59176,Alugada
+M119,,Honda,Honda Biz 125,2024,Preta,S. Paulo,2024-06-04,"12864,16",,Alugada
+M026,EFG1A67,HONDA,Honda CG 160 Titan,2025,PRETA,João Pessoa,31/05/2025,16948.75,48976,disponivel
+M069,MTM 0A26,Honda,Honda CG 160 Fan,2022/2023,Prata,Sao Paulo,30/11/2023,16129.92,90318,Alugada
+M048,DJR9A71,Yamaha,Yamaha Factor 150,2025,Prata,João Pessoa,16-04-2025,15945.94,44243,
