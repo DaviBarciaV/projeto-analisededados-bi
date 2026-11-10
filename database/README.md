@@ -1,15 +1,13 @@
 # Bases de dados
 
-| Pasta | Conteúdo | Gerado por |
-|---|---|---|
-| `./` (raiz) | Base sintética **tratada** | `scripts/01_limpeza_dados.py` |
-| `m2/` | Base **real** da M2 Locadora de Motos, anonimizada | `scripts/02_gerar_base_m2.py` |
-
-`relatorio_limpeza.txt` lista cada correção feita pela limpeza e quantas linhas foram afetadas.
+| Pasta | Conteúdo |
+|---|---|
+| `./` (raiz) | Base sintética **tratada** |
+| `m2/` | Base **real** da M2 Locadora de Motos, anonimizada |
 
 ## Base sintética tratada
 
-As colunas são as mesmas dos arquivos originais (versão com erros no commit inicial). Datas ficam em `dd/mm/aaaa`, números usam ponto decimal e as categorias foram padronizadas.
+As colunas são as mesmas dos arquivos originais (a versão com erros está no commit inicial). Datas ficam em `dd/mm/aaaa`, números usam ponto decimal e as categorias foram padronizadas.
 
 Principais decisões:
 - **Removidos:** linhas duplicadas e locações/manutenções cuja moto ou cliente não existe no cadastro.
@@ -17,7 +15,7 @@ Principais decisões:
 - **Erros de digitação:** valores negativos voltaram a ser positivos. Valores multiplicados por 100 foram divididos por 100. `999999`, `N/D`, CPF `000.000.000-00` e telefone `99999-9999` viraram nulos.
 - **Regra de negócio** confirmada nos próprios dados: `valor_total = valor_diaria × dias locados`. Ela foi usada para recalcular totais vazios ou incoerentes.
 - **Custos de manutenção extremos** (acima de Q3 + 3·IQR do mesmo tipo de serviço) foram trocados pela mediana daquele tipo.
-- **Outros nulos** foram preenchidos só quando havia uma regra defensável (cada uma está comentada no script). Os demais continuam nulos.
+- **Outros nulos** foram preenchidos só quando havia uma regra defensável. Os demais continuam nulos.
 
 ## Base M2 (dados reais)
 
