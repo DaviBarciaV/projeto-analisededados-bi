@@ -1,0 +1,11 @@
+id_moto,placa,marca,modelo,ano_fabricacao,cor,filial,data_aquisicao,valor_aquisicao,km_atual,status
+M001,TIV2B74,Honda,Honda CG 160 Start,2025,Preta,São Paulo,16/04/2025,,,Furtada
+M002,TJZ2F13,Honda,Honda CG 160 Start,2025,Preta,São Paulo,16/04/2025,,,Alugada
+M003,TKE3F41,Honda,Honda CG 160 Start,2025,Preta,São Paulo,16/04/2025,,,Alugada
+M004,TKY7F35,Honda,Honda CG 160 Start,2025,Preta,São Paulo,16/04/2025,,,Furtada
+M005,TLH9F32,Honda,Honda CG 160 Start,2025,Preta,São Paulo,16/04/2025,,,Furtada
+M006,GDL9I51,Honda,Honda CG 160 Fan,2025,Preta,São Paulo,15/05/2025,,,Alugada
+M007,TJH9I44,Honda,Honda CG 160 Fan,2025,Preta,São Paulo,15/05/2025,,,Furtada/Roubada
+M008,TKP9B15,Honda,Honda CG 160 Fan,2025,Vermelha,São Paulo,15/05/2025,,,Roubada
+M009,TLC2F42,Honda,Honda CG 160 Fan,2025,Vermelha,São Paulo,15/05/2025,,,Furtada (indenizada)
+M010,TLS1I73,Honda,Honda CG 160 Fan,2025,Preta,São Paulo,15/05/2025,,,Alugada

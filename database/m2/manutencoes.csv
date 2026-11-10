@@ -1,0 +1,10 @@
+id_manutencao,id_moto,data_manutencao,tipo,custo,km_moto,oficina,dias_parada
+MT0001,,25/06/2025,Não informado,76.0,,Brunale Veículos,
+MT0002,,19/07/2025,Não informado,1098.0,,R 3 Moto Center,
+MT0003,,25/08/2025,Não informado,1098.0,,Brunale Veículos,
+MT0004,,25/08/2025,Não informado,642.0,,Brunale Veículos,
+MT0005,,13/09/2025,Não informado,671.0,,Brunale Veículos,
+MT0006,,10/10/2025,Não informado,369.0,,Não informado,
+MT0007,,13/11/2025,Não informado,600.0,,Mais Car Peças e Serviços,
+MT0008,,02/02/2026,Não informado,814.0,,Mais Car Peças e Serviços,
+MT0009,,10/03/2026,Não informado,40.0,,Brunale Veículos,

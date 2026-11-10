@@ -1,1378 +1,1362 @@
 id_manutencao,id_moto,data_manutencao,tipo,custo,km_moto,oficina,dias_parada
-MT1084,M108,19/05/2026,Revisão geral,417.1,82462,MotoFix,2
-MT0447,M046,21/04/2025,Troca de óleo,100.26,48186,Speed Motos SP,1
-MT0998,M058,2026-04-02,Revisão geral,596.84,84739,Oficina Própria,1
-MT0790,M112,01/12/2025,Troca de óleo,81.22,57501,Oficina Central JP,0
-MT0989,M025,24/03/2026,Troca de óleo,99.45,22408,Garagem do Zé,1
-MT0793,M061,02/12/2025,Troca de óleo,112.55,32599,Speed Motos SP,
-MT1299,M105,19/09/2026,Freios,185.83,60499,Garagem do Zé,2
-MT0444,M056,18/04/2025,Kit relação,"R$ 221,15",2019,Moto Center,1
-MT1046,M031,02/05/2026,TROCA DE ÓLEO,"129,63",31082,Speed Motos SP,1
-MT1073,M034,15/05/2026,Troca de óleo,"R$ 128,23",19222,MotoFix,0
-MT1024,M103,19/04/26,Freios,150.53,28612,Oficina Própria,3
-MT0661,M044,15/09/2025,Bateria,297.7,48350,Speed Motos SP,0
-MT1297,M099,2026-09-18,Reparo de acidente,1736.76,39570,Oficina Própria,6
-MT0432,M084,09/04/2025,Revisão geral,563.41,1525,Oficina Própria,3
-MT0773,M052,20/11/2025,Revisão geral,579.15,70407,Garagem do Zé,2
-MT0685,M008,29/09/2025,Freios,"R$ 304,81",12549,oficina própria,1
-MT1242,M035,21/08/2026,Troca de pneus,"R$ 370,33",38611,Speed Motos SP,1
-MT0698,M045,07/10/2025,Troca de óleo,85.29,54514,Moto Center,1
-MT0118,M112,2024-05-28,Troca oleo,"117,88",10197,Garagem do Zé,0
-MT1071,M022,14/05/2026,Troca de pneus,341.61,17948,Speed Motos SP,2
-MT0860,M052,10/01/2026,troca de oleo,135.43,74797, Speed Motos SP  ,0
-MT0035,M101,2023-12-19,Troca de óleo,110.64,9791,MotoFix,0
-MT0724,M006,21/10/2025,Revisão geral,"496,92",59845,Oficina Central JP,2
-MT0754,M028,06/11/2025,,339.48,67415,Oficina Central JP,1
-MT0470,M071,07/05/2025,Elétrica,470.94,17200,Garagem do Zé,1
-MT0489,M087,21/05/2025,Troca de óleo,134.41,32883,Oficina Central JP,0
-MT0218,M051,22/09/24,Elétrica,"R$ 149,93",36016,Speed Motos SP,2
-MT0223,M111,2024-10-03,Freios,259.76,12433,Garagem do Zé,2
-MT0964,M009,2026-03-10,kit relação,236.07,74825,Oficina Central JP,2
-MT1240,M008,21/08/2026,Revisão geral,378.18,34197,MotoFix,1
-MT0237,M009,17/10/2024,Troca de pneus,301.08,33784,Moto Center,2
-MT0887,M105,25/01/2026,Revisão geral,-298.89,41781,Moto Center,1
-MT0584,M004,27/07/25,Troca de pneus,325.7,39529,Moto Center,1
-MT0287,M052,05/12/2024,Elétrica,359.0,40282,Speed Motos SP,4
-MT0758,M031,10/11/2025,Kit relação,373.55,15586,Speed Motos SP,1
-MT0445,M109,20/04/2025,Troca de pneus,"307,35",13968,Moto Center,2
-MT0353,M051,03/02/2025,Revisão geral,424.37,47009,Oficina Própria,3
-MT0991,M102,26/03/2026,Troca de óleo,82.91,34129,Garagem do Zé,1
-MT1148,M109,26/06/2026,freio,253.64,,Moto Center,3
-MT0367,M033,13-02-2025,Troca de óleo,104.03,25168,Moto Center,0
-MT0579,M008,24/07/2025,revisão geral,545.32,8101,Oficina Central JP,3
-MT0658,M116,14/09/2025,troca de óleo,"R$ 118,11",39318,Oficina Própria,1
-MT0737,M038,30/10/2025,Reparo de acidente,1195.86,10996,Garagem do Zé,11
-MT0934,M057,24/02/2026,Bateria,,35491,Moto Center,1
-MT0576,M006,23/07/2025,Troca de óleo,124.57,51685,Garagem do Zé,1
-MT0433,M105,09/04/2025,troca de óleo,146.36,,Oficina Própria,0
-MT0052,M006,20/01/2024,Kit relação,357.46,1813, Oficina Própria  ,2
-MT0496,M074,25/05/2025,REVISÃO,571.0,12465,Oficina Própria,2
-MT0213,M018,16/09/2024, Bateria  ,245.59,1746,Garagem do Zé,0
-MT1190,M021,24/07/2026,Freios,"R$ 326,67",52663,Garagem do Zé,1
-MT1213,M062,02/08/2026,Troca de pneus,"R$ 432,33",50141,Moto Center,2
-MT0872,M026,14/01/2026,Bateria,"R$ 258,70",21515,Oficina Própria,0
-MT0535,M076,24-06-2025,Troca de pneus,"R$ 301,14",26892,Oficina Central JP,2
-MT0653,M010,06/09/2025,Revisão geral,530.5,36018,,1
-MT1344,M072,2026-10-20,Reparo de acidente,2514.23,52241,Moto Center,11
-MT0209,M112,2024-09-11,Troca de óleo,131.0,19281,Speed Motos SP,0
-MT0719,M005,19/10/2025,Troca de óleo,104.44,1602,Moto Center,0
-MT1286,M077,13/09/2026,Troca de pneus,513.32,69042,Oficina Própria,1
-MT0848, M063,31/12/2025,Reparo de acidente,1336.31,37770,Garagem do Zé,9
-MT0852,M028,02/01/2026, Elétrica  ,361.42,72432,,4
-MT1233,M091,15/08/2026,revisao geral,536.61,45132,Oficina Própria,3
-MT0738,M089,30/10/2025,Troca de óleo,123.51,,Moto Center,1
-MT1186,M023,2026-07-21,Troca de óleo,130.41,30229,,0
-MT1290,M089,15/09/2026,Revisão geral,385.43,79274,speed motos sp,1
-MT0943,M118,01/03/26,Revisão geral,"R$ 267,21",18666,MotoFix,3
-MT0289,M086,08/12/2024,Freios,160.01,24989,Moto Center,3
-MT1128,M048,15/06/2026,Elétrica,144.47,33339,Oficina Própria,
-MT0541,M080,27/06/2025,Troca de pneus,596.37,5301,Oficina Central JP,1
-MT0420,M036,2025-03-30,Troca de óleo,"R$ 95,98",41460,MotoFix,0
-MT1048,M001,03/05/2026,Troca de óleo,107.37,41544,Oficina Central JP,1
-MT0317,M073,31/12/2024, Kit relação  ,277.78,31754,Moto Center,2
-MT0203,M042,2024-09-03,Óleo,81.79,26617,MotoFix,0
-MT0822,M102,15/12/2025,Troca de óleo,140.54,26810,Oficina Central JP,1
-MT0696,M077,2025-10-06,Troca de óleo,"129,71",36383,Oficina Central JP,1
-MT1074,M018,15/05/2026,Kit relação,356.42,54678,Moto Center,1
-MT0590,M015,31/07/2025,Revisão geral,271.76,68488,Speed Motos SP,2
-MT0792,M008,01/12/2025,troca de pneus,397.89,16733,Oficina Própria,1
-MT0894,M066,28/01/26,TROCA DE ÓLEO,"R$ 132,95",50116,Moto Center,1
-MT0617,M052,14/08/2025,Revisão geral,421.68,61972,Oficina Própria,1
-MT1080,M002,2026-05-17,Bateria,195.54,13511,Speed Motos SP,1
-MT0794,M022,02/12/2025,Pneu,308.1,1961,Garagem do Zé,1
-MT0634,M054,23/08/25,Reparo de acidente,2337.02,63450,Oficina Central JP,6
-MT1340,M114,14/10/2026,Revisão geral,454.35,92377,MotoFix,1
-MT0109,M004,19/05/2024,Freios,196.8,1741,Moto Center,3
-MT1107,M098,03/06/2026,Revisão geral,267.06,54906,Garagem do Zé,3
-MT0644,M073,28/08/2025,Bateria,157.62,54436,Garagem do Zé,1
-MT1303,M083,20/09/26,revisao geral,480.68,52108,Oficina Central JP,2
-MT0689,M055,2025-10-02,Troca de pneus,515.86,70089,Oficina Central JP,1
-MT0806,M003,07/12/2025,Kit relação,"R$ 264,03",6577,Oficina Central JP,2
-MT0951,M059,04/03/2026,Troca de pneus,539.0,8229,Garagem do Zé,1
-MT0041,M042,28/12/2023,Kit relação,"327,61",1971,Oficina Própria,2
-MT0889,M009,26/01/2026,Troca de óleo,129.24,71358,Speed Motos SP,0
-MT1295,M110,16/09/2026,Revisão geral,450.21,81845,Oficina Central JP,1
-MT1165,M119,07/07/2026,Revisão geral,"R$ 353,46",,Moto Center,2
-MT0255,M089,04/11/2024,Troca de óleo,149.75,19510,Moto Center,1
-MT0140,M042,29/06/2024,Troca de óleo,112.66,20111,Moto Center,0
-MT1254,M024,03/02/2027,Kit relação,"R$ 267,01",36577,Garagem do Zé,1
-MT0918,M004,15/02/2026,Troca de óleo,"97,33",57204,Speed Motos SP,0
-MT0815,M047,10/12/2025,Troca de óleo,85.24,1860, Garagem do Zé  ,0
-MT1346,M001,20/10/2026,Freios,267.51,57169,Oficina Central JP,3
-MT1281,M067,2026-09-09,Freios,278.49,29724,Moto Center,1
-MT0016,M049,14/10/23,Kit relação,"R$ 268,83",1415,MotoFix,2
-MT0480,M080,16/05/25,Troca de óleo,100.81,1710,Moto Center,1
-MT0046,M012,06/01/24,Freios,181.08,6214,MotoFix,-2
-MT0709,M114,13/10/2025,Troca de óleo,85.82,61696,Garagem do Zé,0
-MT0200,M043,02/09/2024,Reparo de acidente,1234.33,6590,Speed Motos SP,
-MT1301,M010,19/09/2026,TROCA DE ÓLEO,118.58,66682,Speed Motos SP,1
-MT0712,M001,15/10/2025,Revisão geral,322.54,23161,Moto Center,3
-MT0932,M084,22/02/2026,Troca oleo,"131,33",25863,Garagem do Zé,1
-MT0767,M045,18/11/2025, Troca de óleo  ,90.55,58102,oficina central jp,0
-MT1354,M033,2026-10-24,Troca de pneus,346.25,79365,Oficina Central JP,2
-MT0157,M013,15/07/24,Reparo de acidente,1687.07,5452,MotoFix,10
-MT0582,M062,25/07/2025,TROCA DE ÓLEO,130.97,21009,Speed Motos SP,1
-MT0385,M114,26-02-2025,Revisão geral,"R$ 445,25",42500,Oficina Central JP,3
-MT0363,M007,08/02/2025,Troca de óleo,117.27,1740,,0
-MT0507,M069,02/06/25,Revisão geral,528.76,46555,Garagem do Zé,2
-MT0825,M055,16/12/2025,bateria,211.68,76881,Oficina Central JP,
-MT0798,M086,04/12/2025,Revisão geral,387.35,56205,MotoFix,1
-MT1037,M095,28/04/26,Troca de pneus,668.67,28657,Moto Center,1
-MT0856,M116,2026-01-05,Troca de óleo,81.7,49062,Oficina Própria,0
-MT1359,M099,28/10/2026,Revisão geral,377.27,43260,Moto Center,3
-MT0553,M020,03/07/2025,Elétrica,"393,65",20111,Speed Motos SP,3
-MT0268,M019,14/11/2024,Troca de óleo,,22991,Garagem do Zé,0
-MT0024,M100,2023-11-03,Revisão geral,410.41,1541,Speed Motos SP,1
-MT0008,M055,09/09/2023,Troca de óleo,105.7,1811,Speed Motos SP,1
-MT0903,M081,05/02/2026,Revisão geral,577.42,30211,MotoFix,2
-MT0546,M060,01-07-2025,Troca de óleo,"114,62",15097,Speed Motos SP,0
-MT0236,M039,16/10/24,Revisão geral,405.39,38460,Speed Motos SP,1
-MT0284,M011,04/12/2024,Revisão geral,"R$ 262,68",22913,MotoFix,2
-MT0221,M110,30/09/2024,Troca de óleo,"R$ 115,89",24336,Speed Motos SP,1
-MT0453,M093,24/04/2025,Troca de pneus,334.08,43455,SPEED MOTOS SP,2
-MT1261,M065,30/08/2026,Bateria,291.83,50001,Moto Center,0
-MT1246,M011,23/08/2026,Troca de óleo,98.64,80151,Oficina Central JP,1
-MT0387,M100,28/02/2025,Bateria,207.52,38768,Speed Motos SP,0
-MT0462,M111,02/05/2025,Troca de óleo,83.59,28142,Speed Motos SP,0
-MT1364,M017,30/10/2026,Troca de óleo,101.07,21045,Moto Center,0
-MT0425,M090,01/04/2025,Reparo de acidente,1576.53,55931,MotoFix,3
-MT1248,M020,25/08/2026,Elétrica,279.44,54707,Garagem do Zé,4
-MT0863,M012,11-01-2026,Revisão geral,444.24,73477,Speed Motos SP,3
-MT0819,M089,12/12/2025,Revisão geral,356.08,54929,Garagem do Zé,1
-MT0134,M051,15/06/2024,Troca de pneus,375.87,27894,MotoFix,1
-MT1193,M120,2026-07-24,REVISÃO,"R$ 408,33",64192,Oficina Central JP,1
-MT0096,M039,23/04/2024,TROCA DE ÓLEO,101.92,23283,Speed Motos SP,1
-MT1007,M069,09/04/2026,Troca de óleo,96.25,72880,Oficina Própria,1
-MT0389,M009,01/03/2025,Troca de óleo,,44669,Garagem do Zé,0
-MT0966,M108,13/03/2026,Troca de óleo,"R$ 130,97",76881,Moto Center,0
-MT0058,M039,29/01/2024,Troca de óleo,103.36,15953,MotoFix,1
-MT1180,M088,15-07-2026,Pneu,"406,33",24788,MotoFix,2
-MT0004,M064,12/08/2023,Kit relação,346.31,1440, Oficina Própria  ,1
-MT0127,M115,07/06/2024,Troca de óleo,101.94,1705,Oficina Própria,0
-MT0204,M105,03/09/24,Kit relação,"R$ 238,78",1579,Speed Motos SP,2
-MT0293,M082,11/12/2024,revisão geral,272.7,21464,Garagem do Zé,1
-MT1274,M041,08/09/2026,Troca de óleo,80.42,80018,Oficina Central JP,1
-MT1211,M130,01/08/2026,Troca de pneus,546.91,41078,Moto Center,2
-MT1222,M048,05/08/26,Kit relação,"216,79",37339,MotoFix,1
-MT1134,M076,16/06/2026,Revisão,486.55,,Garagem do Zé,1
-MT0167,M015,22/07/2024,Troca de pneus,336.02,35351,Garagem do Zé,2
-MT0371,M032,19-02-2025,FREIOS,317.75,25078,Oficina Central JP,1
-MT1096,M059,27/05/2026,Troca de pneus,372.74,15742,Oficina Própria,1
-MT0760,M048,13/11/2025,Elétrica,"R$ 235,21",16551,MotoFix,3
-MT0247,M027,23/10/2024,Troca de pneus,,7597,Oficina Própria,2
-MT1023,M015,18/04/2026,Kit relação,254.25,91612,Garagem do Zé,1
-MT0254,M108,03/11/2024,,"R$ 384,03",35650,Oficina Central JP,2
-MT0270,M021,15/11/2024,Troca de óleo,121.0,1656,MotoFix,0
-MT1339,M070,2026-10-14,FREIOS,299.99,37436,Speed Motos SP,1
-MT0910,M089,09/02/2026,Troca de óleo,120.68,60114,MotoFix,1
-MT0655,M007,2025-09-09,Bateria,185.19,20276,Oficina Própria,1
-MT0797,M118,03/12/2025,Freios,"167,82",9640,Oficina Própria,1
-MT1002, M055,,Revisão geral,392.52,86932,Oficina Própria,3
-MT0150,M043,2024-07-07,Troca de óleo,113.11,1711,Speed Motos SP,0
-MT0405,M004,17/03/2025,TROCA DE PNEUS,516.04,28036,MotoFix,1
-MT1099,M078,30/05/2026,Bateria,282.88,51917,MotoFix,0
-MT0107,M069,09/05/2024,Troca de óleo,"129,68",13628,Oficina Central JP,1
-MT1212, M073,02/08/2026,Troca de óleo,88.48,86473,OFICINA CENTRAL JP,1
-MT0439,M060,15/04/2025,Revisão geral,420.06,8051,Moto Center,3
-MT0012,M009,14/09/2023,Troca de pneus,563.26,1612,MotoFix,1
-MT0516,M006,07/06/2025,Kit relação,189.61,47514,,1
-MT0592,M014,01/08/2025,Troca de óleo,98.05,10099,MotoFix,1
-MT0105,M015,,Revisão geral,"341,62",28174,Oficina Central JP,1
-MT0515,M009,05/06/2025,Revisão geral,399.33,52410,Oficina Central JP,3
-MT1017,M029,16/04/2026,Troca oleo,85.62,71902,Speed Motos SP,0
-MT0927,M111,20/02/2026,Reparo de acidente,"R$ 2.993,82",50031,Speed Motos SP,6
-MT0909,M094,06/02/2026,Troca de pneus,660.78,56442,Garagem do Zé,2
-MT0723,M014,20/10/2025,Kit relação,"R$ 396,14",16889,Speed Motos SP,2
-MT0102,M012,2024-04-30,Troca de óleo,110.43,16724,Garagem do Zé,0
-MT0543,M105,28/06/2025,Troca de pneus,683.95,25116,Oficina Própria,1
-MT0160,M089,17/07/2024,Kit relação,"217,68",9843,Garagem do Zé,2
-MT0821,M020,13/12/2025,Kit relação,"R$ 311,86",,Oficina Central JP,2
-MT1072,M080,15/05/2026,Troca de óleo,88.08,32832,Oficina Própria,0
-MT1182,M081,15/07/2026,Freios,158.3,42088,Moto Center,2
-MT1079,M041,17/05/2026,KIT RELAÇÃO,315.97,70941,Moto Center,2
-MT0781,M088,25/11/2025,Kit relação,207.42,10266,Moto Center,2
-MT1139,M026,21/06/2026,Troca de óleo,"R$ 124,72",36425,Oficina Central JP,1
-MT0051,M028,18/01/2024,Troca de pneus,459.46,9505,Oficina Própria,2
-MT1101,M055,31/05/2026,Troca de óleo,"R$ 132,56",91913,Oficina Central JP,1
-MT0465,M052,03/05/2025,TROCA DE ÓLEO,99.73,53107,MotoFix,0
-MT0033,M036,08/12/2023,Troca de pneus,696.26,1665,Speed Motos SP,1
-MT0437,M115,15/04/25,Troca de pneus,454.16,28312,Oficina Própria,2
-MT1343,M008,2026-10-18,Troca de pneus,623.57,38048,Oficina Própria,2
-MT0787,M106,29/11/2025,,439.45,9747,Oficina Central JP,3
-MT0518,M116,09/06/2025,Troca de pneus,569.28,30954,Garagem do Zé,1
-MT1338,M029,14/10/2026,troca de oleo,"143,67",86188,MotoFix,1
-MT0424,M078,01/04/2025, Reparo de acidente  ,1884.82,20825,Oficina Central JP,5
-MT1150,M065,28/06/2026,Troca de pneus,"662,13",44356,Garagem do Zé,2
-MT0611,M027,11-08-2025,Revisão geral,301.13,26399,Garagem do Zé,2
-MT1358,M081,28/10/2026,Bateria,274.94,49883,Oficina Própria,0
-MT0294,M018,12/12/2024,Revisão geral,363.98,9345,Moto Center,1
-MT0788,M094,29/11/2025,REVISÃO GERAL,"R$ 584,27",50638,Garagem do Zé,3
-MT0666,M093,19/09/2025,Freios,"R$ 177,89",56910,MotoFix,2
-MT1362,M119,2026-10-30,Revisão geral,"R$ 250,08",74346,Speed Motos SP,3
-MT0697,M051,06/10/2025,Troca de óleo,"R$ 137,58",67109,MotoFix,0
-MT0072,M055,07/03/2024,Reparo de acidente,"R$ 908,96",18111,Garagem do Zé,9
-MT0476,M010,12/05/2025,Reparo de acidente,2270.74,26527,MotoFix,3
-MT0827,M074,16/12/2025,Reparo de acidente,2097.54,28240,Garagem do Zé,8
-MT1018,M097,17/04/2026,Troca oleo,119.07,22283,Oficina Central JP,1
-MT1034,M119,26/04/2026,Troca de óleo,"114,14",58511,Moto Center,1
-MT0524,M024,15/06/2025,Kit relação,234.54,1597,Moto Center,2
-MT0560,M073,10/07/2025,Troca de pneus,612.48,49805,Speed Motos SP,2
-MT1326,M102,07/10/2026,Óleo,115.24,48259,Oficina Central JP,1
-MT0785,M026,28/11/2025,Freios,"R$ 232,23",17080,Speed Motos SP,2
-MT0086,M064,29/03/2024,Kit relação,308.87,18007,MotoFix,1
-MT1203,M080,29/07/2026,Kit relação,"R$ 358,39",39244,Speed Motos SP,2
-MT0434,M089,10/04/2025,Troca de pneus,363.13,33309,Oficina Própria,
-MT0796,M035,03/12/2025,Reparo de acidente,2139.56,13354,Oficina Própria,6
-MT0977,M041,18/03/2026,Revisão geral,"R$ 572,03",66164,Oficina Central JP,2
-MT0651,M009,03/09/2025,Troca de pneus,"R$ 671,76",59667,Garagem do Zé,1
-MT0936,M047,25/02/2026,Reparo de acidente,"2435,91",9022,,11
-MT0278,M105,30/11/2024,ELÉTRICA,353.72,8529,Speed Motos SP,4
-MT0367,M033,13-02-2025,Troca de óleo,104.03,25168,Moto Center,0
-MT1276,M060,08/09/2026,Revisão geral,275.06,54807,Moto Center,3
-MT0775,M100,21/11/2025,Bateria,247.1,59269,MotoFix,1
-MT1255,M119,28/08/2026,Troca de óleo,113.05,69011,Moto Center,1
-MT0774,M078,20/11/2025,Revisão geral,311.79,37911,Oficina Central JP,2
-MT0823,M056,2025-12-15,Revisão geral,490.87,26359,Garagem do Zé,2
-MT0833,M059,2025-12-22,Kit relação,274.74,1788,Garagem do Zé,2
-MT1214,M100,02/08/2026,Freios,170.65,78846,Moto Center,3
-MT0565,M046,13/07/2025,Revisão geral,"R$ 477,34",54764,Speed Motos SP,1
-MT1060,M005,09/05/2026,Elétrica,"R$ 454,54",17783,Oficina Própria,4
-MT0814,M041,10/12/25,Troca de óleo,"R$ 94,96",58361,Garagem do Zé,1
-MT0924,M082,2026-02-20,Troca de óleo,88.18,55127,OFICINA PRÓPRIA,1
-MT0081,M113,2024-03-26,Revisão geral,530.62,18351,Garagem do Zé,3
-MT0124,M039,03/06/2024,Revisão geral,413.6,26819,Speed Motos SP,3
-MT1065,M093,2026-05-12,Elétrica,153.93,78274,Oficina Central JP,1
-MT1001,M024,2026-04-04,Troca de pneus,504.07,24997,Moto Center,2
-MT1205,M042,29/07/2026,Kit relação,302.05,95034,Garagem do Zé,2
-MT0300,M055,19/12/2024,troca de óleo,91.95,44100,MotoFix,1
-MT0596,M081,02/08/2025,Troca de óleo,96.73,16330,Oficina Própria,1
-MT0438,M086,15/04/2025,Troca de pneus,532.64,36057,Speed Motos SP,2
-MT0426,M066,01/04/2025,freios,259.69,27858,Moto Center,2
-MT0733,M012,26/10/2025,reparo de acidente,1691.89,66440,Speed Motos SP,10
-MT0499,M103,27/05/2025,Kit relação,385.74,1649,Speed Motos SP,1
-MT0967,M096,13/03/2026,Elétrica,"259,74",39353,Oficina Própria,4
-MT0557,M072,07/07/2025,Revisão geral,437.72,16449,Speed Motos SP,3
-MT1275,M052,08/09/2026,TROCA DE ÓLEO,118.86,95541,MotoFix,1
-MT1324,M100,04/10/2026,Freios,128.61,83701,MotoFix,2
-MT0413,M081,24/03/2025,Revisão geral,511.07,6606,Garagem do Zé,3
-MT1082,M020,18/05/2026,Troca de óleo,103.0,46513,Moto Center,0
-MT1267,M055,04/09/2026,Troca de óleo,"R$ 149,59",100606,Moto Center,1
-MT0801,M077,05/12/2025,Bateria,172.35,42113,Oficina Central JP,0
-MT1283,M120,11/09/2026,Troca de óleo,"R$ 131,37",68712,Oficina Central JP,1
-MT1277,M050,08/09/2026,Freios,135.51,34599,Speed Motos SP,3
-MT0060,M058,2024-02-06,Troca de óleo,"R$ 87,20",10733,Moto Center,0
-MT1059,M017,2026-05-09,Revisão geral,280.84,9493,Oficina Própria,3
-MT0939,M032,26/02/2026,Troca de pneus,624.01,58636,Speed Motos SP,2
-MT0748,M116,03/11/2025,Troca de pneus,467.42,43630,Moto Center,2
-MT0122,M082,01/06/2024,Troca de pneus,662.27,6562,Oficina Própria,1
-MT0214,M114,20/09/2024,freios,237.98,29171,Moto Center,3
-MT0568,M112,15/07/2025,Troca de pneus,"567,86",45589,MotoFix,1
-MT1031,M071,2026-04-23,Revisão geral,480.11,46366,MotoFix,2
-MT0029,M108,22/11/2023,Troca de pneus,540.33,6746,Oficina Central JP,2
-MT0595,M045,02/08/2025,Troca de óleo,121.65,48874,Speed Motos SP,0
-MT0647,M120,30/08/2025,Reparo de acidente,1979.31,33941,Speed Motos SP,12
-MT0871,M071,2026-01-14,Troca de óleo,120.46,38140,Speed Motos SP,1
-MT0396,M116,08/03/2025,Revisão geral,"258,86",22935,Speed Motos SP,1
-MT0522,M119,2025-06-13,Reparo de acidente,2867.98,31669,Oficina Central JP,8
-MT0259,M033,06/11/2024,Troca de óleo,"R$ 81,74",16486,Garagem do Zé,1
-MT0166,M087,21/07/2024,Bateria,292.67,10112,MotoFix,1
-MT0484,M045,18/05/2025,Troca de óleo,145.55,42380,Speed Motos SP,
-MT0916,M085,14/02/2026,Revisão geral,370.68,14865,MotoFix,2
-MT0690,M053,02-10-2025,Freios,182.23,7428,Garagem do Zé,1
-MT0862,M022,2026-01-11,Revisão geral,"302,63",5884,MotoFix,3
-MT1265,M096,03/09/2026,Troca de pneus,442.55,54175,Garagem do Zé,1
-MT1124,M090,12/06/2026,Freios,"122,99",94302,Moto Center,3
-MT0622,M090,17/08/2025,Bateria,206.3,68048,Moto Center,0
-MT0248,M054,23/10/2024,Troca de pneus,"R$ 425,00",38103,Garagem do Zé,2
-MT1314,M022,26/09/2026,Kit relação,268.4,31189,Speed Motos SP,2
-MT0684,M061,29/09/2025,Troca de pneus,"410,23",26820,Oficina Central JP,2
-MT0355,M012,04/02/2025,TROCA DE ÓLEO,149.6,42313,Garagem do Zé,1
-MT0073,M015,09/03/2024,PNEUS,509.14,23390,Moto Center,1
-MT0137,M069,2024-06-21,Bateria,262.89,17267,MotoFix,0
-MT0094, M089,16/04/2024,Revisão geral,455.64,1757,Moto Center,2
-MT0873,M032,15/01/2026,Troca de óleo,143.07,54847,Oficina Própria,1
-MT0756,M029,09/11/2025,Troca de óleo,132.41,59432,Moto Center,0
-MT0182,M039,15/08/2024,Elétrica,364.6,33114, MotoFix  ,3
-MT0569,M001,16/07/2025,Troca oleo,"R$ 139,78",14797,Moto Center,1
-MT0912,M033,13/02/2026,Freios,218.69,57178,Oficina Própria,2
-MT0339,M044,17/01/2025,Troca de óleo,"R$ 106,24",28897,Garagem do Zé,0
-MT0601,M035,2025-08-07,Troca de pneus,685.38,1935,MotoFix,1
-MT0036,M069,20/12/2023,FREIOS,305.31,1692,Oficina Própria,3
-MT1236,M027,19/08/2026,Troca de pneus,466.8,50416,Speed Motos SP,1
-MT0427,M076,04/04/2025,Troca de óleo,119.6,20504,Oficina Central JP,1
-MT0304,M015,23/12/2024,Troca de pneus,441.17,48995,Oficina Central JP,2
-MT1349,M066,21/10/2026,Revisão geral,"R$ 460,05",69720,Oficina Central JP,3
-MT0954,M001,05/03/2026,TROCA DE PNEUS,543.34,36121,Speed Motos SP,1
-MT1045,M100,2026-05-02,Troca de óleo,146.5,71755,Oficina Própria,1
-MT0245,M113,22/10/2024,Troca de pneus,313.57,37524,oficina própria,2
-MT0974,M081,17-03-2026,Elétrica,303.41,33181,Oficina Própria,4
-MT0857,M079,06/01/2026,Bateria,290.59,7291,Moto Center,1
-MT0707,M043,13/10/2025,Troca de óleo,87.17,41341,Oficina Própria,1
-MT0208,M113,10/09/2024,Kit relação,220.88,33689,Moto Center,1
-MT0578,M086,24-07-2025,freio,244.93,44704,MotoFix,1
-MT0490,M025,22/05/2025,Troca de óleo,119.87,1374,Oficina Própria,1
-MT0600,M099,05/08/2025,Troca de pneus,678.64,1844,oficina central jp,1
-MT1166,M008,07/07/2026,Troca de óleo,119.46,31208,Moto Center,1
-MT0603,M026,2025-08-07,Kit relação,"226,92",6416,Oficina Central JP,1
-MT0313,M057,2024-12-28,Troca de óleo,130.29,1602,Oficina Central JP,1
-MT0296,M114,2024-12-13,Troca de óleo,95.6,36213,MotoFix,0
-MT0632,M094,23/08/2025,Kit relação,333.16,42395,Oficina Própria,1
-MT0493,M008,24/05/2025,Troca de óleo,109.71,4050,MotoFix,0
-MT0502,M012,28/05/25,Kit relação,194.77,52640,Moto Center,1
-MT0545,M019,30/06/2025,Troca de óleo,"R$ 87,82",42772,Oficina Central JP,0
-MT1207,M076,2026-07-30,Elétrica,394.34,58517,Speed Motos SP,4
-MT0103,M058,01/05/2024,Kit relação,,18736,Oficina Central JP,2
-MT0335,M078,14/01/2025,Troca de óleo,135.34,15179,MotoFix,0
-MT1016,M106,16/04/2026,Freios,"260,85",22557,MotoFix,3
-MT1013,M088,15/04/2026,Revisão geral,457.73,19092,Oficina Central JP,3
-MT0527,M058,18/06/25,Troca de pneus,542.49,57623,MotoFix,2
-MT0757,M092,10/11/2025,Troca de óleo,139.12,43939,Speed Motos SP,1
-MT0177,M082,01/08/24,Troca de pneus,643.65,11272,Oficina Própria,2
-MT1123,M110,2026-06-11,Revisão geral,458.05,74054,Oficina Própria,2
-MT1316,M086,27/09/2026,Freios,166.02,81886,Speed Motos SP,1
-MT0469,M096,06/05/2025,Troca de óleo,96.31,12862,Garagem do Zé,0
-MT1315,M034,2026-09-26,Revisão geral,373.9,31258,Oficina Própria,3
-MT0638,M091,25/08/2025, Elétrica  ,327.0,8801,Speed Motos SP,3
-MT0359,M082,06/02/2025,Revisão geral,521.67,25865,Moto Center,3
-MT0344,M041,2025-01-21,Freios,276.86,32644,MotoFix,3
-MT0731,M102,25/10/2025,Kit relação,339.16,23115,Moto Center,1
-MT0637,M066,24/08/2025,Troca de óleo,125.58,38545,Garagem do Zé,0
-MT0251,M045,30/10/24,Troca de óleo,136.9,25291,Oficina Própria,0
-MT1253,M056,27/08/2026,Revisão geral,512.77,52112,Garagem do Zé,2
-MT0506,M040,01/06/2025,Troca de óleo,85.47,34530,Garagem do Zé,1
-MT0163,M111,18/07/2024,Elétrica,171.1,6700,Oficina Própria,1
-MT0377,M020,22/02/2025,Troca de óleo,113.73,9269,MotoFix,1
-MT0891,M100,27/01/2026,Freios,329.68,64433,MotoFix,3
-MT0510,M120,03/06/2025,Troca de pneus,317.52,25824,Garagem do Zé,1
-MT0864,M060,11/01/2026,Elétrica,305.2,32847,Oficina Própria,4
-MT1129,M039,2026-06-15,Revisão geral,266.15,90805,Oficina Própria,1
-MT1170,M044,10/07/2026,Troca de óleo,"-119,01",72404,Speed Motos SP,1
-MT0716,M032,17/10/2025,Revisão geral,323.68,46728,Speed Motos SP,3
-MT0736,M095,30/10/2025,Reparo de acidente,2517.39,11171,Speed Motos SP,3
-MT0229,M077,10/10/2024,Revisão geral,481.87,1909,MotoFix,1
-MT0865,M029,12/01/2026,Freios,122.08,64483,MotoFix,1
-MT0405,M004,17/03/2025,TROCA DE PNEUS,516.04,28036,MotoFix,1
-MT1268,M066,04/09/2026,Freios,239.49,66256,Oficina Própria,3
-MT1204,M071,29/07/2026,Troca de pneus,611.66,54427,Speed Motos SP,2
-MT0327,M027,06/01/2025,Reparo de acidente,1312.09,12426,Speed Motos SP,10
-MT0826,M016,2025-12-16,Troca de óleo,139.48,30555,Moto Center,1
-MT0749,M011,03/11/2025,Kit relação,"R$ 237,40",53404,Moto Center,2
-MT0526,M043,17/06/2025,Pneu,487.8,31241,MotoFix,2
-MT0803,M004,06-12-2025,Troca de óleo,116.54,51022,Oficina Central JP,1
-MT0587,M025,29-07-2025,Revisão geral,250.51,6048,Oficina Própria,3
-MT0350,M043,01/02/2025,Reparo de acidente,856.29,19601,Speed Motos SP,9
-MT1035,M076,27/04/2026,Kit relação,242.44,51104,Oficina Própria,
-MT0306,M090,24-12-2024,Troca de óleo,"R$ 88,68",47326,Speed Motos SP,1
-MT0753,M018,06/11/2025,Revisão geral,487.33,38082,MotoFix,2
-MT1208,M047,01-08-2026,Troca de óleo,148.05,23624,Oficina Central JP,1
-MT0981,M104,20/03/2026,Troca de óleo,105.82,9705,Garagem do Zé,1
-MT0442,M072,16/04/2025,Troca de óleo,"R$ 121,77",10204,Speed Motos SP,0
-MT0202,M094,03/09/2024,Troca de óleo,128.91,12617,Oficina Central JP,1
-MT0488,M073,21/05/2025,Reparo de acidente,2705.59,45079,oficina central jp,8
-MT1029,M111,22/04/2026,troca de pneu,337.84,54572,Moto Center,2
-MT1345,M057,2026-10-20,Troca de óleo,126.2,54558,Speed Motos SP,1
-MT0602,M031,07-08-2025,Revisão geral,463.63,7076,Garagem do Zé,1
-MT0332,M019,2025-01-10,Troca de óleo,138.3,,Speed Motos SP,1
-MT0464,M077,03/05/2025,Freios,309.62,21486,Moto Center,1
-MT0061,M108,10/02/2024,Troca de óleo,104.56,13410,Speed Motos SP,0
-MT0881,M119,22/01/2026,Troca de óleo,"117,94",50552,Oficina Própria,1
-MT0013,M090,2023-09-17,Troca de óleo,119.06,6585,Garagem do Zé,0
-MT0700,M090,08/10/2025,Troca de óleo,"142,59",72614,Oficina Própria,0
-MT0755,M039,08/11/2025,Revisão geral,275.88,71919,Speed Motos SP,1
-MT0514,M029,05/06/2025,Kit relação,"R$ 292,78",47040,Oficina Central JP,1
-MT0534,M066,22/06/2025,Troca de óleo,91.78,33902,Oficina Central JP,0
-MT0235,M043,16/10/2024,Troca de pneus,509.56,10356,Garagem do Zé,1
-MT0577,M032,23/07/2025,Kit relação,343.36,38970,Garagem do Zé,1
-MT0448,M114,21/04/25,Kit relação,215.46,47026,Speed Motos SP,1
-MT1121,M027,2026-06-11,Troca de óleo,112.24,45973,Moto Center,1
-MT1306,M058,24/09/2026,Troca de pneus,676.84,101217,Garagem do Zé,1
-MT0328,M076,06/01/2025,Freios,310.43,13564,MotoFix,2
-MT0301,M016,21/12/24,Freios,250.94,1608,Oficina Central JP,1
-MT1200,M114,2026-07-27,Reparo de acidente,"R$ 3.407,10",85754,Oficina Central JP,10
-MT0098,M094,26/04/2024,FREIOS,"280,31",1682,Oficina Central JP,1
-MT1147,M028,26/06/2026,Revisão geral,425.0,87833, MotoFix  ,1
-MT1287,M009,,Troca de pneus,"R$ 406,66",89904,SPEED MOTOS SP,1
-MT1357,M014,28/10/2026,Revisão geral,"R$ 517,44",48547,Oficina Central JP,3
-MT0133,M064,13/06/2024,Troca de óleo,137.23,23481,Oficina Própria,1
-MT1291,M090,15/09/26,Revisão geral,"506,37",102644,Speed Motos SP,1
-MT0992,M120,26/03/2026,Freios,204.64,53125,Speed Motos SP,3
-MT1296,M084,18/09/2026,Troca de pneus,545.1,41733,Garagem do Zé,2
-MT1342,M104,16-10-2026,Troca de óleo,149.43,30294,Oficina Central JP,0
-MT0710,M081,14/10/2025,Elétrica,"146,55",21749,Moto Center,2
-MT0960,M013,09/03/2026,Reparo de acidente,"1066,94",55189,Oficina Central JP,11
-MT0034,M055,09/12/2023,BATERIA,"245,46",10051,Oficina Central JP,0
-MT0532,M052,21/06/2025,Pastilha de freio,220.83,57324,Oficina Própria,1
-MT1183,M097,2026-07-16,Revisão geral,476.06,32464,Oficina Própria,
-MT0721,M050,20/10/2025,kit relação,331.19,7990,Garagem do Zé,1
-MT0429,M062,06-04-2025,Freios,240.87,12418,Moto Center,3
-MT0348,M069,29/01/2025,Revisão geral,501.06,36059,Moto Center,1
-MT0650,M105,02/09/2025,REVISÃO,296.15,30328,Garagem do Zé,1
-MT0630,M078,22/08/2025,Troca de óleo,0.0,31312,Speed Motos SP,1
-MT0409,M063,22/03/2025,Troca de pneus,506.28,14246,Speed Motos SP,1
-MT0574,M158,21/07/2025,Freios,249.52,15924,moto center,2
-MT1151,M072,28/06/2026,Elétrica,338.86,43559,Speed Motos SP,4
-MT0844,M050,29/12/25,Revisão geral,"447,28",13757,MotoFix,2
-MT1293,M094,16/09/2026,Revisão geral,"R$ 576,97",75116,Oficina Própria,1
-MT0428,M039,04/04/2025,Elétrica,134.37,53120,Moto Center,3
-MT0629,M103,21/08/2025,Troca de óleo,136.2,8740,Oficina Central JP,1
-MT0132,M045,12/06/2024,Troca de óleo,100.13,13329,Oficina Própria,0
-MT0525,M068,16/06/2025,Troca de pneus,"R$ 561,00",23227,Oficina Própria,1
-MT0616,M030,14/08/2025,Troca de óleo,"104,59",20012,Speed Motos SP,1
-MT0087,M100,29/03/2024,Troca de óleo,145.14,12871,Oficina Própria,0
-MT0337,M092,15/01/2025,Troca de óleo,118.4,17768,Moto Center,1
-MT0853,M033,02/01/2026,Kit relação,223.69,53494,Oficina Central JP,2
-MT0197,M019,2024-08-29,Troca de pneus,"R$ 633,67",16310,Moto Center,2
-MT0345,M045,2025-01-23,Troca de óleo,142.0,32554,Moto Center,0
-MT0620,M021,15/08/2025,troca de óleo,99.53,24261,oficina própria,1
-MT0538,M071,25/06/2025,Revisão geral,"507,42",21272,Speed Motos SP,2
-MT0694,M020,04/10/2025,Troca de óleo,85.69,27808,Moto Center,0
-MT0878,M061,18/01/2026,REVISÃO GERAL,519.52,36843,Moto Center,1
-MT1177,M057,13/07/2026,Troca de pneus,350.72,46627,Speed Motos SP,2
-MT0505,M114,01/06/2025,BATERIA,"R$ 217,73",50463,Garagem do Zé,1
-MT0607,M117,08/08/2025,Elétrica,135.17,14734,MotoFix,1
-MT1271,M049,06/09/2026,Troca de óleo,127.35,76297,Oficina Própria,0
-MT0422,M045,2025-03-30,,617.16,38194,Garagem do Zé,2
-MT1221,M095,04/08/2026,Elétrica,276.44,38178,Speed Motos SP,4
-MT0233,M032,15/10/2024, Troca de óleo  ,"R$ 112,67",13621,Speed Motos SP,1
-MT0743,M060,01/11/2025,Troca oleo,103.28,26351,Garagem do Zé,0
-MT0777,M021,22/11/2025,Troca oleo,86.36,32459,MotoFix,1
-MT0699,M052,08/10/2025,Troca de óleo,111.56,66706,MotoFix,0
-MT0837,M058,24/12/2025,Troca de óleo,"102,23",75418,Oficina Própria,0
-MT0962,M090,10/03/2026,Elétrica,"R$ 445,44",86048,Oficina Central JP,3
-MT1356,M020,26/10/2026,Troca de pneus,364.74,59838,Moto Center,1
-MT1153,M113,29/06/2026,Troca de óleo,117.04,93673,Garagem do Zé,0
-MT1004,M066,07/04/2026,Revisão geral,496.25,55201,Moto Center,1
-MT0347,M052,27/01/2025,Kit relação,309.77,44844,Speed Motos SP,1
-MT0231,M066,2024-10-12,Troca de óleo,110.81,15255,MotoFix,1
-MT1078,M120,17/05/2026,Troca de óleo,82.39,57921,Oficina Própria,1
-MT0362,M105,2025-02-07,ELÉTRICA,427.54,13979,MotoFix,1
-MT1231,M102,14/08/2026,Elétrica,"R$ 390,37",44346,Oficina Central JP,2
-MT1039,M114,30/04/2026,Reparo de acidente,1555.78,78378,Oficina Própria,4
-MT0352,M042,02/02/2025,Revisão geral,397.18,41602,Oficina Própria,3
-MT1067,M091,13-05-2026,Troca de pneus,639.28,35512,Moto Center,1
-MT0299,M058,16/12/2024,Elétrica,387.26,40298,Garagem do Zé,2
-MT1075,M058,15/05/2026,Bateria,"299,92",88788,Oficina Central JP,1
-MT0407,M051,18/03/2025,Freios,143.35,50537,Garagem do Zé,3
-MT0626,M057,18-08-2025,Revisão geral,586.77,20269,Speed Motos SP,1
-MT0400,M065,10/03/25,Troca de óleo,,1792,Moto Center,0
-MT1256,M031,28/08/2026,Kit relação,301.06,41652,Moto Center,1
-MT0979,M045,19/03/2026,Revisão geral,335.01,68441,Moto Center,2
-MT0846,M104,31/12/2025,Troca de óleo,97.38,1960,Speed Motos SP,1
-MT0309,M061,26/12/2024,Revisão geral,268.47,1806,Oficina Central JP,1
-MT0925,M044,20/02/2026,Troca de pneus,457.47,61103,Oficina Central JP,1
-MT0575,M074,22/07/2025,Elétrica,396.95,16929,Garagem do Zé,3
-MT0471,M064,07/05/2025,Revisão geral,457.46,47107,Moto Center,2
-MT0635,M100,24/08/2025,Troca de óleo,82.49,52410,Garagem do Zé,1
-MT1347,M050,21/10/2026,FREIOS,293.78,38141,Oficina Central JP,1
-MT0459,M033,28/04/2025,Troca de pneus,"366,96",31658,Garagem do Zé,2
-MT0808,M081,08/12/2025,revisão geral,493.19,25832,Oficina Central JP,3
-MT1278,M074,08/09/2026,elétrica,"R$ 449,55",48709,MotoFix,2
-MT0654,M006,09-09-2025,Kit relação,310.14,56037,Garagem do Zé,2
-MT0450,M119,23/04/2025,Troca de pneus,421.69,27350,Oficina Própria,2
-MT0014,M108,22/09/23,Troca de pneus,391.64,1665,Moto Center,2
-MT1341,M056,2026-10-15,Revisão geral,434.99,57061,Garagem do Zé,2
-MT0895,M045,31/01/2026,Kit relação,238.34,64425,Oficina Central JP,2
-MT0859,M039,07/01/2026,Freios,245.29,77094,Oficina Própria,3
-MT0944,M043,02/03/2026,Revisão geral,"470,36",53325,,1
-MT0521,M051,11/06/2025,Troca oleo,124.95,57510,Speed Motos SP,1
-MT0342,M100,19/01/2025,FREIOS,208.68,35685,Garagem do Zé,1
-MT0009,M046,11/09/2023,Kit relação,340.42,1585,Speed Motos SP,1
-MT1044,M087,02/05/2026,Freios,222.06,58801,MotoFix,1
-MT0149,M044,05/07/2024,Elétrica,487.41,13076,Garagem do Zé,4
-MT1146,M069,25/06/26,Kit relação,284.34,79398,MotoFix,1
-MT0280,M110,01/12/2024,Troca de óleo,145.04,29316,Oficina Própria,1
-MT0983,M016,21-03-2026,Troca de pneus,698.79,38194,GARAGEM DO ZÉ,2
-MT0591,M018,01/08/2025,Troca de óleo,85.67,29610,MotoFix,0
-MT0318,M030,01/01/2025,Kit relação,180.48,1633,Speed Motos SP,2
-MT1103,M067,01/06/2026,Troca de óleo,"89,29",19682,Garagem do Zé,1
-MT1259,M013,30-08-2026,Pneu,"687,56",69565,Speed Motos SP,1
-MT0734,M109,28/10/2025,Troca de óleo,"R$ 111,42",31521,Oficina Própria,0
-MT0401,M019,10/03/2025,Troca de pneus,613.38,33055,Moto Center,1
-MT0336,M081,2025-01-14, Troca de óleo  ,90.27,1484,Oficina Central JP,1
-MT0169,M011,23/07/2024,Troca de óleo,88.35,10680,MotoFix,1
-MT1209,M087,01/08/2026,Freios,205.23,65617,Speed Motos SP,1
-MT0763,M073,14/11/2025,Troca de pneus,"R$ 559,27",61807,Oficina Própria,1
-MT0839,M098,26/12/25,Revisão geral,"R$ 515,75",,Speed Motos SP,1
-MT0740,M070,31/10/25,Troca de óleo,134.83,7760,MotoFix,0
-MT1081,M083,2026-05-18,Troca de pneus,488.26,41395,Speed Motos SP,2
-MT0179,M076,07/08/2024,Kit relação,337.21,1577,Moto Center,1
-MT0472,M044,2025-05-09,Reparo de acidente,3146.1,37937,Garagem do Zé,7
-MT1070,M116,13/05/2026,Reparo de acidente,"R$ 765,79",60099,Garagem do Zé,10
-MT1088,M117,2026-05-21,Kit relação,254.26,37150,Oficina Central JP,1
-MT0986,M027,2026-03-21,Troca de óleo,147.65,40693,Speed Motos SP,1
-MT1100,M118,2026-05-30,Troca de pneus,316.09,27896,Speed Motos SP,1
-MT0366,M135,11/02/2025,Troca de óleo,,45245,Moto Center,1
-MT1025,M073,20/04/2026,Kit relação,194.28,,Garagem do Zé,2
-MT1288,M006,13/09/2026,Elétrica,"370,19",89496,Oficina Própria,3
-MT0530,M098,20/06/2025,Troca de óleo,123.26,19124,Oficina Própria,0
-MT0320,M066,02/01/2025,Troca de óleo,110.77,21299,Oficina Própria,1
-MT1173,M002,12/07/26,Revisão geral,367.97,18124,Moto Center,1
-MT0059,M090,30/01/2024,Revisão geral,395.04,18439,Oficina Central JP,
-MT0391,M054,03/03/2025,Revisão geral,443.24,49026,Moto Center,3
-MT1145,M105,25/06/2026,Troca de óleo,132.08,53707,Oficina Própria,1
-MT1149,M063,27/06/2026,Bateria,279.5,52514,Oficina Central JP,1
-MT0813,M042,10/12/2025,Troca de óleo,121.44,72261,MotoFix,1
-MT0356,M111,04/02/2025,Revisão geral,541.0,21665,Speed Motos SP,2
-MT0285,M044,04/12/2024,Troca de óleo,149.86,25345,Garagem do Zé,0
-MT0744,M015,2025-11-01,Reparo de acidente,1683.07,76727,Garagem do Zé,12
-MT0393,M028,05/03/2025,Troca de óleo,148.19,45765,Oficina Própria,0
-MT1131,M013,16/06/2026,Bateria,261.15,63368,MotoFix,0
-MT1187,M110,22/07/2026,Troca de pneus,"R$ 337,37",77347,Speed Motos SP,1
-MT1272,M081,06/09/2026,ELÉTRICA,260.71,46023,Moto Center,1
-MT0199,M116,,Kit relação,195.63,6725,Oficina Central JP,2
-MT0688,M003,02/10/2025,Freios,"238,56",1529,Moto Center,3
-MT0593,M039,02/08/2025,Troca de óleo,116.44,63468,MotoFix,1
-MT0876,M054,17/01/2026,Troca de óleo,81.58,75707,Garagem do Zé,0
-MT0778,M024,22/11/2025,Revisão geral,561.89,14375,Oficina Central JP,1
-MT0194,M033,25/08/2024,Freios,321.24,10085,Moto Center,2
-MT0551,M108,02/07/2025,Freios,240.62,55724,Moto Center,2
-MT1217,M075,03/08/2026,Revisão geral,525.62,48561,Speed Motos SP,1
-MT0994,M105,27/03/2026, Freios  ,340.18,46599,MotoFix,1
-MT0288,M006,08/12/2024,Revisão geral,275.05,31101,Garagem do Zé,1
-MT1220,M030,04/08/2026,Elétrica,491.16,49009,MotoFix,-2
-MT1348,M018,21/10/2026,Troca de pneus,662.87,68566,Oficina Central JP,1
-MT0926,M042,20/02/2026,Elétrica,"R$ 255,36",79359,Garagem do Zé,3
-MT0019,M028,22/10/2023,Troca de óleo,85.04,1760,Moto Center,0
-MT0665,M099,18/09/2025,REVISÃO GERAL,348.22,5903,Oficina Própria,3
-MT0446,M019,20/04/2025,Acidente,1539.46,36612,Oficina Central JP,7
-MT1056,M060,08/05/2026,Troca de óleo,81.22,43552,MotoFix,1
-MT0841,M006,27/12/2025,Freios,215.1,65921,Garagem do Zé,3
-MT0562,M049,2025-07-11,Troca de óleo,"R$ 107,18",,Oficina Própria,1
-MT0440,M075,2025-04-15,Troca de óleo,83.47,8375,Speed Motos SP,1
-MT0657,M037,11-09-2025,Troca de pneus,"R$ 680,05",15285,Garagem do Zé,1
-MT1115,M101,05/06/2026,Revisão geral,,85679,Oficina Central JP,3
-MT0768,M057,18/11/2025,Troca de óleo,122.55,27639,Speed Motos SP,1
-MT0764,M158,14/11/2025,troca de óleo,"R$ 118,35",6423,Oficina Central JP,1
-MT0725,M036,22/10/2025,Freios,332.82,58611,Oficina Própria,3
-MT1199,M041,27/07/2026,Revisão geral,413.25,76594,MotoFix,3
-MT0799,M014,2025-12-04,Freios,267.47,20709,Moto Center,1
-MT0667,M058,20/09/2025,ELÉTRICA,107.06,66473,Garagem do Zé,1
-MT0783,M040,28-11-2025,Troca de óleo,122.64,50590,Speed Motos SP,1
-MT0613,M011,13/08/2025,troca de pneu,632.12,45918,Moto Center,1
-MT0417,M073,29/03/2025,Revisão geral,465.79,40070,Oficina Própria,1
-MT0310,M096,26/12/2024,Revisão geral,357.44,1703,MotoFix,2
-MT0487,M063,19/05/2025,Troca de óleo,97.57,19051,Oficina Central JP,0
-MT0354,M093,03/02/2025,Troca de pneus,605.02,,Oficina Central JP,1
-MT0673,M117,22/09/2025,Troca de pneus,509.62,18261,Garagem do Zé,2
-MT0435,M074,2025-04-12,Elétrica,309.06,9157,Garagem do Zé,1
-MT0220,M029,26/09/2024,Revisão geral,293.04,27150,Oficina Própria,1
-MT0905,M103,05/02/2026,Freios,327.85,22593,Oficina Central JP,1
-MT1061,M047,10/05/2026,Freios,218.76,15904,Oficina Própria,1
-MT0867,M106,12/01/2026,Troca de pneus,568.2,13831,Garagem do Zé,2
-MT0559,M078,2025-07-10,Elétrica,"R$ 310,44",28158,MotoFix,2
-MT0945,M012,02/03/2026,revisao geral,318.32,78046,Oficina Própria,1
-MT1223,M058,05/08/2026,Óleo,"R$ 104,56",96509,Speed Motos SP,0
-MT0262,M055,08/11/2024,Freios,349.47,40387,,2
-MT1325,M025,06/10/2026,Pneu,588.39,35880,Oficina Própria,2
-MT1333,M106,11/10/2026,Revisão geral,395.06,39081,Oficina Central JP,2
-MT0729,M091,05/08/2027,Freios,247.93,14941,Speed Motos SP,1
-MT1109,M102,04/06/2026,Troca de pneus,"303,07",39201,Moto Center,2
-MT1228,M045,11/08/2026,freios,"R$ 224,46",80831,MotoFix,1
-MT0196,M092,28/08/24,Troca de óleo,104.39,5514,Garagem do Zé,1
-MT0323,M021,04/01/2025,Troca de óleo,115.45,5796,Oficina Própria,1
-MT0942,M038,01/03/2026,Troca de óleo,"147,24",21397, Oficina Central JP  ,0
-MT0038,M110,2023-12-22,troca de oleo,,1606,Garagem do Zé,0
-MT0978,M022,18/03/26,Elétrica,286.22,12357,MotoFix,3
-MT0929,M056,21/02/2026,Troca de óleo,98.27,33226,Oficina Central JP,0
-MT0656,M024,10/09/2025,Troca de óleo,"145,74",8545,Moto Center,0
-MT1247,M061,24/08/2026,elétrica,274.78,56530,Garagem do Zé,1
-MT0984,M109,21-03-2026,Revisão geral,425.22,44755,Oficina Central JP,2
-MT0957,M039,07/03/2026,Troca de pneus,690.24,82181,,2
-MT1361,M019,29/10/2026,Freios,"R$ 210,05",,Moto Center,3
-MT0173,M101,29/07/2024,Revisão geral,269.41,28616,MotoFix,2
-MT0692,M074,03/10/2025,Troca de óleo,140.51,22546,Moto Center,1
-MT0085,M042,29/03/2024,Troca de pneus,"R$ 532,65",11041, Oficina Própria  ,2
-MT0483,M049,18/05/2025,Troca de pneus,408.96,42607,Oficina Central JP,1
-MT0130,M009,09/06/24,Troca de óleo,"102,40",23302,Moto Center,0
-MT0913,M064,13/02/2026,Kit relação,188.99,67419,Moto Center,2
-MT0829,M099,17/12/2025,Troca de óleo,90.08,14204,Moto Center,1
-MT0139,M119,2024-06-24,Kit relação,306.82,1693,Garagem do Zé,2
-MT0456,M043,27/04/2025,Troca de óleo,115.77,26876,Oficina Própria,0
-MT0646,M019,28/08/2025,Elétrica,306.17,47891,Speed Motos SP,2
-MT0501,M065,28/05/2025,Troca de pneus,"545,41",8871,Moto Center,2
-MT0566,M038,13/07/2025,Elétrica,"R$ 396,77",1704,oficina própria,3
-MT1311,M042,2026-09-25,Freios,,100752,Garagem do Zé,2
-MT1015,M056,2026-04-16,Elétrica,138.49,38680,Oficina Própria,3
-MT1087,M104,21/05/2026,Troca de pneus,480.01,15784,Garagem do Zé,1
-MT1006,M032,08/04/2026,Troca de pneus,404.42,62334,OFICINA CENTRAL JP,2
-MT0953,M086,05/03/2026,Troca de óleo,134.2,64073,Moto Center,0
-MT0357,M060,06/02/2025,Kit relação,258.64,1829,Garagem do Zé,2
-MT0691,M103,03/10/2025,Kit relação,269.15,12286,Oficina Própria,1
-MT0817,M007,12/12/2025,Troca de pneus,474.97,28456,MotoFix,1
-MT0043,M054,30/12/2023,Revisão geral,323.93,13257,Speed Motos SP,3
-MT0664,M041,17/09/2025,Bateria,244.66,51673,Speed Motos SP,1
-MT0627,M064,20/08/2025,Freios,263.52,54670,MotoFix,1
-MT0995,M010,28/03/2026,Kit relação,"R$ 254,60",52486,Speed Motos SP,2
-MT0276,M069,24/11/2024,Troca de óleo,92.65,30472,Oficina Central JP,1
-MT0907,M049,06-02-2026,REPARO DE ACIDENTE,1264.07,61292,Oficina Própria,10
-MT1114,M029,05/06/2026,Bateria,"R$ 201,98",75848,Garagem do Zé,1
-MT0282,M094,03/12/2024,Kit relação,352.94,20272,Moto Center,1
-MT1263,M005,01/09/2026,Freios,133.97,26995,MotoFix,2
-MT1014,M115,15-04-2026,Revisão geral,482.03,59438,Oficina Própria,1
-MT1320,M016,30/09/2026,Troca de óleo,143.56,53713,MotoFix,1
-MT0005,M054,2023-08-13,Troca de pneus,350.75,1667,Garagem do Zé,1
-MT0973,M080,17/03/2026,kit relação,333.85,,Oficina Central JP,2
-MT0457,M041,27/04/2025,Kit relação,366.44,40287,Speed Motos SP,1
-MT1317,M063,27/09/2026,Troca de óleo,148.33,60134,Garagem do Zé,1
-MT0154,M058,12/07/24,kit relacao,336.71,25516,MOTOFIX,1
-MT0636,M038,24/08/2025,Troca de óleo,111.14,5285,Oficina Central JP,0
-MT1093,M045,25/05/2026,Reparo de acidente,2736.71,74166,Garagem do Zé,5
-MT0911,M063,13/02/2026,Troca de óleo,"84,02",41415,Speed Motos SP,1
-MT1008,M037,10/04/26,Troca de óleo,138.46,32719,MotoFix,1
-MT1352,M047,2026-10-24,Freios,"R$ 314,22",31437,Moto Center,2
-MT0239,M046,18/10/2024,Freios,237.27,33524,Moto Center,2
-MT0550,M033,02/07/2025,Troca de pneus,649.77,37358,Garagem do Zé,2
-MT0402,M018,13/03/2025,Freios,213.57,17294,Oficina Própria,3
-MT0152,M078,11/07/2024,Freios,"155,78",1466,Oficina Própria,3
-MT0324,M039,05/01/2025,revisao geral,417.68,45445,Oficina Central JP,1
-MT0504,M054,30/05/2025,,"R$ 89,26",56363,Garagem do Zé,1
-MT0597,M050,04/08/2025,Troca de óleo,135.43,1647,MotoFix,0
-MT0071,M006,04/03/2024,Freios,301.77,5803,MotoFix,1
-MT0513,M062,04/06/2025,Troca de óleo,84.9,17026,Moto Center,0
-MT0681,M092,29/09/2025,Troca de óleo,130.83,40263,Oficina Central JP,0
-MT0380,M027,23/02/2025,Troca de óleo,139.67,15517,Oficina Central JP,0
-MT0549,M010,02/07/2025,Revisão geral,324.19,30664,Speed Motos SP,2
-MT0956,M035,07/03/2026,Kit relação,"R$ 361,00",22450,Speed Motos SP,2
-MT0621,M060,2025-08-17,Kit relação,397.07,19397,Oficina Própria,2
-MT0843,M070,28/12/2025,Revisão geral,461.08,12706,Garagem do Zé,3
-MT1251,M072,27/08/2026, Revisão geral  ,525.47,48128,Moto Center,1
-MT1252,M078,27/08/2026,Elétrica,374.38,58444,Speed Motos SP,1
-MT1294,M092,16/09/2026,Troca de óleo,85.06,71073,Moto Center,0
-MT0192,M058,23/08/2024,Freios,170.18,29470,Speed Motos SP,3
-MT1189,M070,23/07/2026,Elétrica,138.31,30358,MotoFix,4
-MT0668,M113,20/09/2025,Revisão geral,526.25,67927,Moto Center,1
-MT1307,M036,24/09/2026,TROCA DE ÓLEO,147.23,86668,MotoFix,
-MT0958,M023,08/03/26,Revisão geral,338.8,18635,Moto Center,2
-MT0670,M004,22/09/2025,Revisão geral,587.01,44492,speed motos sp,1
-MT0164,M004,18/07/2024,Troca de óleo,"R$ 143,73",6965,Moto Center,1
-MT1292,M004,16/09/2026,Kit relação,253.45,75749,Oficina Própria,2
-MT1062,M063,11/05/2026,Troca de óleo,102.49,48621,Oficina Central JP,0
-MT0449,M068,21/04/2025,TROCA DE ÓLEO,91.49,19225,Speed Motos SP,1
-MT1009,M021,10/04/2026,Troca de pneus,"R$ 364,36",43969,MotoFix,2
-MT1335,M093,12/10/2026,Troca de óleo,129.39,92183,Speed Motos SP,
-MT0088,M051,30/03/2024,Freios,324.05,21576,Moto Center,2
-MT1036,M072,2026-04-28,revisao geral,"430,65",38914,Oficina Própria,1
-MT0807,M076,07/12/2025,Troca de pneus,604.89,39984,Garagem do Zé,2
-MT0917,M008,14/02/2026,Kit relação,"279,66",21713,MotoFix,1
-MT1264,M098,01/09/2026,Reparo de acidente,2921.3,64160,Speed Motos SP,4
-MT1041,M107,30/04/2026,Freios,"R$ 299,12",22019,Speed Motos SP,2
-MT0985,M007,21/03/2026,Troca de pneus,0.0,37071,Moto Center,1
-MT0520,M082,10/06/2025,Troca de óleo,138.36,35439,motofix,1
-MT0238,M105,17/10/2024,Kit relação,304.42,5054,Speed Motos SP,2
-MT0343,M036,20/01/2025,Kit relação,224.57,35716,Oficina Própria,2
-MT0297,M051,14/12/2024,Troca de pneus,498.84,42825,MotoFix,1
-MT0201,M093,2024-09-02,Troca de óleo,97.3,22182,Speed Motos SP,0
-MT0376,M117,21-02-2025,Revisão geral,496.56,1567,Oficina Central JP,2
-MT0824,M051,16/12/2025,Elétrica,183.59,72934,Garagem do Zé,2
-MT0100,M049,27/04/24,Troca oleo,110.05,15287,Oficina Própria,1
-MT0776,M084,21/11/25,Kit relação,238.81,18768,Garagem do Zé,2
-MT0858,M017,06/01/2026,Troca de óleo,104.53,1327,oficina central jp,0
-MT1178,M005,14/07/2026,Kit relação,292.49,23070,Oficina Central JP,2
-MT0997,M050,30/03/26,Bateria,167.46,21253,MotoFix,0
-MT0337,M092,15/01/2025,Troca de óleo,118.4,17768,Moto Center,1
-MT0180,M036,08/08/2024,Troca de óleo,104.14,21979,Speed Motos SP,0
-MT0623,M076,17/08/2025,Troca de pneus,"R$ 422,77",31151,Garagem do Zé,2
-MT0555,M115,05/07/2025,Troca de óleo,123.47,35219,Oficina Central JP,1
-MT0682,M088,29/09/25,TROCA DE ÓLEO,107.19,6697,Garagem do Zé,0
-MT0631,M051,23/08/2025, Troca de óleo  ,139.1,63500,Speed Motos SP,1
-MT1174,M061,12/07/2026,Reparo de acidente,2261.58,52646,MotoFix,10
-MT0119,M040,30/05/24,Troca de óleo,138.3,1784,Oficina Central JP,0
-MT1085,M014,19/05/2026,Troca de pneus,"574,88",34798,Oficina Própria,1
-MT1210,M034,01/08/2026,Troca de pneus,537.54,26228,Oficina Central JP,1
-MT0135,M100,15/06/2024,elétrica,104.56,18883,Speed Motos SP,2
-MT0486,M027,19/05/2025,Troca de pneus,576.49,20990,Speed Motos SP,1
-MT0053,M093,22/01/2024,Freios,261.13,1818,Oficina Própria,3
-MT0361,M119,07/02/2025,Troca de óleo,109.27,20999,Speed Motos SP,1
-MT0260,M100,2024-11-06,Troca de óleo,82.48,29981,Moto Center,0
-MT0850,M075,31/12/2025,Troca de pneus,"R$ 370,52",30372,Speed Motos SP,1
-MT0359,M082,06/02/2025,Revisão geral,521.67,25865,Moto Center,3
-MT0330,M028,09/01/2025,Revisão geral,"449,11",40924,Garagem do Zé,1
-MT0608,M048,09/08/2025,bateria,198.5,9021,Speed Motos SP,1
-MT0298,M063,16/12/2024,Troca de óleo,119.25,6295,Moto Center,1
-MT0642,M029,27/08/25,Troca de óleo,131.87,53591,Speed Motos SP,1
-MT1052,M081,06/05/2026,Troca de óleo,142.92,36892,Moto Center,1
-MT0580,M037,2025-07-24,Reparo de acidente,0.0,11236,MOTOFIX,12
-MT0023,M039,31-10-2023,Troca de óleo,119.14,8192, Oficina Central JP  ,0
-MT0491,M100,23/05/2025,Bateria,207.09,45242,Moto Center,0
-MT0474,M020,11/05/2025,Troca de pneus,454.33,15725,Oficina Própria,2
-MT0283,M078,04/12/2024,Troca de óleo,139.48,12172,moto center,1
-MT0609,M063,10/08/2025,Troca de óleo,99.16,,MotoFix,-2
-MT1298,M101,2026-09-19,Troca de óleo,,94627,Moto Center,1
-MT0780,M064,2025-11-24,Troca de pneus,464.57,61585,Garagem do Zé,1
-MT1118,M066,09/06/2026,Revisão geral,344.58,59844,Garagem do Zé,1
-MT1334,M027,12/10/2026,Freios,155.38,53893,Garagem do Zé,3
-MT0971,M092,16/03/2026,Bateria,269.33,54968,Oficina Própria,0
-MT0645,M016,28/08/2025,Troca de óleo,130.51,21710,Oficina Central JP,0
-MT1337,M116,14/10/2026,Troca de pneus,365.86,73377,Speed Motos SP,2
-MT1310,M026,25/09/2026,Troca de óleo,114.81,45484,Garagem do Zé,0
-MT0468,M117,06/05/2025,Freios,"R$ 146,64",7367,Oficina Própria,3
-MT0605,M042,07/08/25,Troca de óleo,145.34,59938,MotoFix,1
-MT0067,M073,19/02/2024,Revisão geral,367.57,1890,Oficina Central JP,1
-MT0452,M014,24/04/2025,Troca de óleo,129.06,1697,Speed Motos SP,0
-MT0662,M040,17/09/2025,Kit relação,330.25,44166,Garagem do Zé,2
-MT1330,M071,09/10/2026,Troca de óleo,93.52,60409,Speed Motos SP,0
-MT0786,M107,29/11/2025,Freios,187.51,2560,Oficina Central JP,2
-MT1355,M005,25/10/2026,Corrente,184.32,31321,MotoFix,2
-MT0948,M003,03/03/2026,REVISÃO GERAL,332.92,13155,Oficina Central JP,2
-MT0144,M052,03/07/2024,Troca de óleo,138.25,26940,MotoFix,0
-MT0431,M012,08/04/2025,Troca de pneus,337.75,48071,Speed Motos SP,2
-MT0693,M072,03/10/2025,Troca de óleo,94.7,23150,Garagem do Zé,1
-MT1051,M077,05/05/2026,Troca de óleo,133.62,56532,Oficina Própria,0
-MT0717,M087,2025-10-18,Kit relação,337.94,44119,Speed Motos SP,1
-MT0185,M006,17/08/2024,PNEUS,334.9,20855,Garagem do Zé,2
-MT1126,M021,13/06/2026,Troca de óleo,91.81,49268,Oficina Própria,1
-MT0990,M026,24/03/2026,Bateria,279.38,28026,Moto Center,0
-MT1000,M030,03/04/26,Elétrica,"R$ 402,27",38962,Garagem do Zé,1
-MT0479,M037,2025-05-15,Revisão geral,455.47,5453,MotoFix,2
-MT0533,M064,22/06/2025,Troca de pneus,314.03,50420,Moto Center,2
-MT0410,M042,22/03/2025,Kit relação,"265,62",46334, Speed Motos SP  ,2
-MT0676,M084,2025-09-23,Troca de óleo,114.83,14267,Speed Motos SP,1
-MT0561,M110,11/07/2025,Bateria,188.42,47147,Garagem do Zé,
-MT0558,M084,09/07/2025,Freios,223.98,8468,Garagem do Zé,2
-MT1329,M097,09/10/2026,Troca de pneus,"418,23",42079,MotoFix,2
-MT0920,M055,17/02/2026,Troca de óleo,85.67,82586,Oficina Central JP,1
-MT0481,M011,17/05/2025, Revisão geral  ,584.08,37884,Moto Center,3
-MT0121,M028,31/05/2024,Bateria,222.09,21298,Oficina Central JP,1
-MT0835,M046,23/12/2025,Elétrica,483.73,67682,Oficina Central JP,3
-MT0090,M045,05/04/24,Kit relação,238.34,7519,Oficina Central JP,1
-MT0969,M005,16/03/2026,Troca de óleo,"115,53",13457,Oficina Própria,0
-MT1179,M082,14/07/2026,FREIOS,"133,86",66245,Oficina Central JP,2
-MT0108,M041,18/05/2024,Troca de óleo,143.64,12898,,0
-MT0996,M008,28/03/26,Kit relação,388.67,24502,Moto Center,2
-MT0473,M015,09/05/2025,Kit relação,186.57,61134,Speed Motos SP,1
-MT0159,M092,16/07/2024,Freios,215.37,1750,Speed Motos SP,2
-MT0624,M075,18/08/2025,Troca de óleo,138.14,18950,MotoFix,1
-MT0267,M116,12/11/2024,Revisão geral,512.8,12933,Oficina Própria,2
-MT1167,M086,08/07/2026,Troca de pneus,502.11,74882,Oficina Própria,1
-MT1122,M009,11/06/2026,Bateria,"195,56",82324,Speed Motos SP,
-MT0789,M114,30/11/2025,Reparo de acidente,1908.83,65720,,12
-MT0250,M028,,Troca de óleo,81.89,34323,Speed Motos SP,0
-MT0089,M036,01/04/2024,Elétrica,175.53,11239,Oficina Própria,2
-MT1164,M040,07/07/2026,Freios,"265,86",70309,Speed Motos SP,2
-MT0421,M010,30/03/2025,troca de pneus,375.48,23038,Oficina Própria,1
-MT0141,M012,29/06/2024,Revisão geral,261.83,22207,Moto Center,2
-MT0812,M043,09/12/2025,Troca de pneus,"389,07",46220,Oficina Central JP,1
-MT0467,M048,06/05/2025,Kit relação,207.54,1568,Speed Motos SP,2
-MT0463,M004,02/05/2025,TROCA DE ÓLEO,109.59,32041,MotoFix,1
-MT0478,M030,13/05/2025,Freios,190.06,12415,Garagem do Zé,3
-MT0674,M082,23/09/2025, Freios  ,134.64,43546,Garagem do Zé,1
-MT0106,M111,09/05/2024, Troca de óleo  ,102.58,1489,Garagem do Zé,
-MT1142,M012,2026-06-24,Kit relação,212.28,88465,Garagem do Zé,1
-MT1327,M091,07-10-2026,Revisão geral,521.69,50556,Moto Center,3
-MT0151,M010,09/07/2024,KIT RELAÇÃO,295.64,1622,Oficina Central JP,2
-MT1262,M088,31/08/2026,BATERIA,"R$ 153,56",27730,Garagem do Zé,0
-MT0702,M056,10/10/25,Troca de óleo,93.79,19693,Oficina Central JP,0
-MT0612,M013,12/08/2025,Troca de pneus,"R$ 694,83",37922,MotoFix,1
-MT0404,M102,15/03/2025,Revisão geral,421.34,6883,Speed Motos SP,2
-MT0303,M072,23/12/2024,FREIOS,"R$ 274,43",1523,Speed Motos SP,1
-MT0614,M043,14/08/2025,REVISÃO GERAL,288.74,36206,MotoFix,
-MT0892,M025,27/01/2026,Kit relação,"R$ 292,60",18559,Oficina Própria,2
-MT0125,M087,04/06/2024,Troca de óleo,113.4,6591,Oficina Central JP,0
-MT1064,M075,11/05/2026,Troca de óleo,135.75,41455,MotoFix,0
-MT0349,M062,31/01/2025,Elétrica,301.5,,Oficina Própria,4
-MT0369,M087,18/02/2025,Reparo de acidente,2117.28,25992,Speed Motos SP,5
-MT0142,M036,29/06/2024,Freios,271.94,18649,Speed Motos SP,1
-MT0970,M060,16/03/2026,Troca de óleo,124.0,38703,Garagem do Zé,0
-MT0022,M054,30/10/2023,Freios,"295,38",8171,Speed Motos SP,1
-MT0519,M031,09/06/2025,Troca de pneus,575.79,1791,Garagem do Zé,2
-MT1077,M057,17-05-2026,Revisão geral,0.0,42060,Garagem do Zé,1
-MT0937,M107,26/02/2026,Revisão geral,267.49,13954,Speed Motos SP,2
-MT0050,M114,16/01/2024,Troca de óleo,147.83,8382,Garagem do Zé,1
-MT0896,M040,31/01/2026,REVISÃO,471.53,56301,Moto Center,3
-MT0959,M093,2026-03-08,Troca de óleo,92.77,72365, Oficina Central JP  ,1
-MT0062,M029,11/02/2024,Kit relação,356.58,9155,Oficina Central JP,2
-MT0811,M005,2025-12-09,Troca de óleo,129.44,5687,Speed Motos SP,0
-MT1068,M012,13/05/2026,Freios,252.13,84626,MotoFix,1
-MT0563,M111,12/07/2025,Troca de óleo,107.7,33428,Speed Motos SP,1
-MT0940,M091,27/02/2026,Elétrica,178.86,27836,Speed Motos SP,4
-MT1284,M068,12/09/2026,Troca de óleo,144.87,55602,MotoFix,1
-MT1318,M117,2026-09-27,Troca de pneus,463.85,47260,Moto Center,1
-MT1313,M085,2026-09-26,Elétrica,481.63,35420,Oficina Central JP,3
-MT0640,M036,26/08/2025,Freios,315.85,53865, Oficina Própria  ,2
-MT0581,M012,24/07/2025,Kit relação,"267,12",57849,Moto Center,1
-MT1192,M116,24/07/2026,Troca de óleo,"R$ 145,53",66307,Oficina Central JP,0
-MT0027,M113,09/11/2023,Troca de óleo,97.31,5751,Oficina Central JP,1
-MT1168,M118,09-07-2026,Troca de pneus,651.51,31999,Oficina Central JP,2
-MT1237,M037,19/08/2026,Bateria,204.44,43542,Speed Motos SP,1
-MT0766,M115,17/11/2025,Elétrica,374.72,46732,Speed Motos SP,1
-MT0026,M029,2023-11-07,Freios,315.95,,MotoFix,3
-MT0965,M051,12/03/2026,Troca de pneus,462.28,79990,MotoFix,1
-MT0078,M093,2024-03-19,Kit relação,344.49,7000,Garagem do Zé,2
-MT1181,M015,15-07-2026,Troca de óleo,81.51,99409,garagem do zé,1
-MT0386,M057,2025-02-27,Troca de óleo,98.42,6489,Garagem do Zé,1
-MT1049,M086,03/05/2026,Troca de pneus,385.41,69175,Garagem do Zé,
-MT0842,M101,28/12/2025,Elétrica,16169.0,72257,Garagem do Zé,3
-MT1076,M038,17/05/2026,Troca de óleo,84.92,27961,Oficina Central JP,1
-MT0495,M032,24/05/2025,Troca de óleo,92.65,33557,Speed Motos SP,1
-MT1028,M113,2026-04-22,Revisão geral,412.77,87465,Oficina Central JP,2
-MT0273,M020,22/11/2024,Kit relação,351.94,1655,MotoFix,1
-MT0588,M053,30/07/2025,Troca de pneus,-611.85,1768,Speed Motos SP,1
-MT0241,M006,21/10/2024,Troca de óleo,96.28,26749,Moto Center,0
-MT0311,M049,2024-12-27,Troca de óleo,95.79,32557,MotoFix,0
-MT0054,M046,23/01/2024, Kit relação  ,378.68,12205,Speed Motos SP,1
-MT0242,M063,21/10/24,Reparo de acidente,2193.17,1656,Oficina Central JP,10
-MT0395,M064,06/03/25,Revisão geral,255.94,42641,Garagem do Zé,1
-MT1273,M028,08/09/26,Troca de óleo,4716.0,94346,Garagem do Zé,1
-MT1221,M095,04/08/2026,Elétrica,276.44,38178,Speed Motos SP,4
-MT0618,M033,15/08/2025,Troca de pneus,369.45,41217,Moto Center,1
-MT0286,M119,05/12/2024,Troca de pneus,597.69,15580,MOTOFIX,2
-MT1269,M053,04/09/2026,Bateria,247.93,37229,MotoFix,0
-MT1312,M012,25/09/2026,troca de pneus,616.46,96964,Speed Motos SP,1
-MT0156,M094,14/07/2024,Troca de óleo,103.27,8327,Moto Center,1
-MT0418,M016,29/03/25,Troca de óleo,96.49,9488,MotoFix,1
-MT0279,M087,01/12/2024,Troca de pneus,385.5,20074,Speed Motos SP,1
-MT1201,M084,2026-07-28,Troca de óleo,133.2,37765,Oficina Própria,1
-MT0586,M087,29/07/2025,troca de óleo,140.21,38052,Moto Center,0
-MT0765,M044,16/11/2025,KIT RELAÇÃO,280.02,53354,MotoFix,1
-MT1097,M054,28-05-2026,Freios,175.46,86629,Garagem do Zé,1
-MT0831,M092,20/12/2025,Freios,"235,44",47440,Oficina Própria,2
-MT0379,M013,23/02/2025,Freios,152.04,23876,Garagem do Zé,2
-MT0704,M069,10/10/2025,Pneu,604.7,57559, MotoFix  ,1
-MT0307,M040,25/12/2024,Revisão geral,322.9,20432,Moto Center,3
-MT0274,M013,23/11/2024, Troca de óleo  ,119.04,,Moto Center,0
-MT0063,M041,13/02/2024,Troca de óleo,114.18,5334,Speed Motos SP,1
-MT0261,M015,08/11/2024,,"R$ 621,30",45008,MotoFix,1
-MT1234,M033,2026-08-16,Revisão geral,250.29,73314,Speed Motos SP,3
-MT0683,M033,29/09/2025,Freios,259.43,45163,Oficina Própria,1
-MT1238,M032,19/08/2026,elétrica,365.38,74332,Oficina Própria,2
-MT0503,M013,30/05/2025,Freios,"203,09",31808,Garagem do Zé,2
-MT1258,M002,29/08/2026,Revisão geral,"R$ 503,27",22079,Moto Center,2
-MT0482,M055,18/05/2025,Kit relação,"R$ 342,05",57683,MotoFix,2
-MT0930,M020,2026-02-21,Reparo de acidente,1997.48,39395,Moto Center,11
-MT1155,M108,29/06/26,Bateria,"292,20",85877,MotoFix,0
-MT0112,M110,22/05/24,Bateria,197.57,13814,MotoFix,
-MT0820,M097,2025-12-13,Kit relação,0.0,,MotoFix,1
-MT1091,M035,22/05/2026,freios,178.98,29805, Moto Center  ,2
-MT1098,M079,29/05/2026,Reparo de acidente,0.0,21194,Oficina Própria,6
-MT0253,M071,01/11/2024,Revisão geral,367.77,1661,MotoFix,3
-MT0455,M083,26/04/2025,Troca de óleo,"116,11",8227,Garagem do Zé,0
-MT0715,M046,16/10/2025,troca de oleo,"R$ 127,57",62293,Moto Center,1
-MT0002,M090,24/07/2023,Troca de óleo,120.09,1756,Speed Motos SP,1
-MT0947,M067,03/03/2026,Freios,135.14,10644,Garagem do Zé,3
-MT1113,M024,05/06/2026,Troca de óleo,91.05,29949,Garagem do Zé,0
-MT1157,M103,30/06/2026,Troca de óleo,132.75,34549,Garagem do Zé,1
-MT1066,M112,12-05-2026,Troca de óleo,"R$ 144,09",71383,Oficina Central JP,0
-MT0326,M098,05/01/2025,Elétrica,372.35,2056,Garagem do Zé,4
-MT0198,M049,2024-08-29,revisao geral,462.47,24064,Speed Motos SP,3
-MT0210,M101,12/09/2024,Troca de pneus,664.41,32414,Garagem do Zé,2
-MT0069,M012,22/02/2024,Troca de óleo,133.92,10509,Oficina Central JP,0
-MT0648,M065,30/08/2025,Troca de pneus,561.49,17294,Moto Center,2
-MT1106,M062,02/06/2026,Elétrica,490.29,45377,Oficina Própria,1
-MT0680,M080,2025-09-27,Troca de pneus,"R$ 339,67",13167,Oficina Própria,2
-MT0188,M028,21/08/2024,Bateria,290.76,28515,Oficina Central JP,0
-MT0397,M052,08/03/2025,eletrica,,48286,Speed Motos SP,3
-MT0906,M102,06/02/26,Freios,333.65,30651,MotoFix,2
-MT0065,M049,17/02/2024,Freios,213.9,10333,Oficina Própria,2
-MT0331,M089,10/01/2025,Bateria,260.82,25399,Oficina Central JP,0
-MT0855,M034,05/01/2026,Bateria,"R$ 299,75",7545,Oficina Central JP,0
-MT0116,M073,27-05-2024,Troca de óleo,132.37,11151,Speed Motos SP,
-MT1012,M049,2026-04-13,Troca de óleo,81.74,65964,Moto Center,1
-MT0364,M083,09/02/2025,Troca de óleo,97.67,1714,Oficina Central JP,1
-MT0314,M116,30/12/2024,Troca de pneus,610.01,17072,Oficina Própria,1
-MT0129,M054,2024-06-08,Revisão geral,343.46,26680,,3
-MT0761,M037,13/11/2025,Troca de óleo,"147,72",20490,Garagem do Zé,1
-MT0441,M069,16/04/2025,REVISÃO GERAL,267.36,42577,Oficina Própria,1
-MT0195,M052,27/08/2024,Troca de óleo,141.89,31674,MotoFix,0
-MT1309,M095,25/09/2026,Freios,219.25,43229,Garagem do Zé,3
-MT0136,M049,18/06/2024,Kit relação,"182,51",18968,Speed Motos SP,1
-MT1136,M030,17/06/26,Troca de óleo,143.1,45088,Oficina Central JP,0
-MT0225,M073,04/10/2024,Bateria,229.01,23437,Speed Motos SP,1
-MT0003, M051,31/07/2023,Troca de óleo,107.46,1640,Oficina Central JP,0
-MT0564,M109,12/07/2025,revisão geral,"R$ 484,51",21596,Oficina Central JP,1
-MT0703,M042,10/10/2025,Troca de pneus,550.08,66248,Speed Motos SP,1
-MT0243,M041,2024-10-21,Revisão geral,573.64,25319,MOTO CENTER,3
-MT0076,M019,14/03/2024,Revisão geral,448.93,1735,speed motos sp,2
-MT0732,M062,10/06/2027,Freios,305.17,28194,Speed Motos SP,2
-MT0735,M096,29/10/2025,FREIOS,"310,08",27854,MotoFix,2
-MT0955,M011,2026-03-06,Troca de pneus,576.21,64632,Oficina Central JP,2
-MT0099,M046,27/04/2024,troca de óleo,87.38,19734,garagem do zé,1
-MT1241,M069,21/08/2026,Revisão geral,570.68,84223,MotoFix,3
-MT0360,M006,07/02/2025,Troca de óleo,97.56,36632,MotoFix,0
-MT0832,M023,21-12-2025,troca de oleo,88.36,12023,MotoFix,0
-MT1363,M075,30/10/2026,troca de pneus,"R$ 503,15",56006,Moto Center,2
-MT0370,M039,18/02/2025,FREIOS,316.92,49240,Oficina Própria,1
-MT1104,M023,02/06/2026,TROCA DE PNEUS,417.7,26021,Oficina Própria,1
-MT0338,M094,2025-01-16,Troca de pneus,335.22,23973,Garagem do Zé,1
-MT1302,M015,20/09/2026,Revisão geral,"283,35",105345, Speed Motos SP  ,3
-MT0795,M113,13/03/2027,Troca de pneus,584.13,74591,Oficina Central JP,2
-MT0007,M015,05-09-2023,Kit relação,306.99,6910,MotoFix,1
-MT1175,M056,13/07/2026,Revisão,504.46,47567,Moto Center,1
-MT1053,M065,06/05/26,Revisão geral,360.66,39607,MotoFix,3
-MT0249,M011,25/10/2024,Troca de óleo,119.1,19261,,1
-MT1010,M054,10/04/2026,Troca de óleo,122.06,82627,Moto Center,1
-MT0528,M026,20/06/2025,Troca de pneus,668.94,1887,MotoFix,2
-MT1229,M108,2026-08-11,FREIOS,188.3,89458,Moto Center,2
-MT1058,M105,09-05-2026,Troca de óleo,120.18,49995,Moto Center,1
-MT0537,M093,2025-06-24,Óleo,85.91,,Garagem do Zé,0
-MT1132,M046,16/06/26, Troca de óleo  ,87.06,81551,Oficina Central JP,0
-MT1117,M006,08/06/2026,Troca de óleo,82.64,80701,Garagem do Zé,1
-MT0319,M112,01/01/2025,Revisão geral,482.33,28879,Oficina Própria,2
-MT1032,M036,23/04/2026,Troca de óleo,85.69,73847,,0
-MT0904,M018,05/02/2026,Freios,"R$ 140,66",46031,Garagem do Zé,1
-MT0057,M045,28/01/2024,Troca de óleo,130.41,1708,Oficina Central JP,0
-MT0384,M077,26/02/2025,Freios,180.59,15183,Garagem do Zé,2
-MT0556,M056,2025-07-05,Troca de óleo,147.01,9897, Speed Motos SP  ,0
-MT0358,M071,2025-02-06,Troca de óleo,98.15,9722,Garagem do Zé,0
-MT0531,M094,2025-06-21,Revisão geral,524.6,37095,Oficina Central JP,2
-MT0875,M073,16/01/2026,REPARO DE ACIDENTE,3106.27,67761,Oficina Central JP,7
-MT0511,M042,03/06/2025,Troca de óleo,129.04,53530,Garagem do Zé,0
-MT0547,M016,01/07/2025,Kit relação,218.07,17046,Oficina Própria,2
-MT1003,M048,07/04/2026,bateria,161.21,27926,motofix,0
-MT0171,M113,28/07/2024,Revisão geral,496.37,29672,Garagem do Zé,2
-MT1156,M115,2026-06-30,Revisão geral,491.26,65919,Oficina Própria,2
-MT1285,M112,12/09/2026,Revisão geral,541.98,81924,Garagem do Zé,3
-MT0187,M046,21/08/2024,Troca de pneus,"R$ 504,01",28927,Garagem do Zé,1
-MT0011,M052,14/09/2023,revisão geral,367.53,1721,Oficina Central JP,
-MT1308,m048,24/09/2026,BATERIA,181.37,41262,Moto Center,0
-MT0687,M048,30/09/2025,Reparo de acidente,3245.93,13100,Oficina Central JP,6
-MT0183,M068,15/08/2024,TROCA DE ÓLEO,134.24,1429,Speed Motos SP,1
-MT1289,M021,2026-09-14,troca de oleo,98.22,56969,Moto Center,1
-MT0031,M052,28/11/2023,Troca de óleo,117.22,8176,MotoFix,1
-MT0628,M070,21/08/2025,Freios,229.73,1705,MotoFix,2
-MT0066,M036,17/02/2024,Elétrica,376.79,7576,Garagem do Zé,4
-MT0190,M012,21/08/2024,PNEUS,567.67,27051,Oficina Central JP,2
-MT0117,M086,28/05/2024,Revisão geral,519.64,8214,Moto Center,1
-MT0993,M101,26/03/2026,Bateria,254.28,79686,Oficina Central JP,0
-MT0138,M108,23/06/2024,Troca de óleo,81.21,24572,Moto Center,0
-MT1195,M111,25/07/2026,Kit relação,394.2,61571,Oficina Própria,2
-MT0866,M015,12/01/2026,Troca de pneus,598.89,83107,MotoFix,2
-MT0770,M071,19/11/2025,Troca de óleo,103.77,,Garagem do Zé,0
-MT0908,M114,06/02/2026,Troca de óleo,114.4,71420,Moto Center,0
-MT0963,M074,10/03/2026,Freios,202.81,34704,MotoFix,1
-MT1140,M085,22/06/2026,Troca de óleo,"148,19",26611,Oficina Central JP,0
-MT0701,M120,10/10/2025,Revisão geral,"R$ 14.710,50",37722,,3
-MT0718,M030,18/10/2025,troca de pneu,"532,51",25321,Oficina Central JP,2
-MT1216,M101,02/08/2026,Troca de óleo,"82,71",90575,MotoFix,0
-MT0049,M015,16/01/2024,Bateria,201.54,18694,Garagem do Zé,1
-MT0849,M084,31/12/2025,Elétrica,244.41,21820,Garagem do Zé,2
-MT0215,M015,21-09-2024,Troca de pneus,673.01,40756,Oficina Central JP,2
-MT0126,M032,06/06/2024,Kit relação,"R$ 285,66",1804,Garagem do Zé,2
-MT0834,M103,22/12/2025,Revisão geral,533.67,18882,Speed Motos SP,1
-MT0870,M113,13/01/2026,Kit relação,236.24,78426,Oficina Central JP,2
-MT0879,M036,18/01/2026,Troca oleo,144.71,65937,Garagem do Zé,1
-MT0047,M064,07/01/2024, Troca de pneus  ,523.39,12100,Oficina Central JP,2
-MT0257,M068,2024-11-05,eletrica,425.4,7289,MotoFix,4
-MT0619,M092,2025-08-15,Troca de óleo,137.83,36324,Speed Motos SP,1
-MT0830,M049,19/12/25,Troca de óleo,146.59,57824,Speed Motos SP,1
-MT1270,M115,05/09/2026,Freios,"126,14",71633,Moto Center,1
-MT0554,M088,26/09/2027,Bateria,287.75,1251,MotoFix,1
-MT0840,M110,26/12/2025,Troca de pneus,381.96,60641,Oficina Central JP,1
-MT1040,M007,2026-04-30,Troca de óleo,101.29,40552,Moto Center,1
-MT0092,M066,08/04/2024,Troca de pneus,"568,71",1474,Oficina Central JP,2
-MT1133,M031,16/06/2026,Troca de óleo,"115,16",35113,Garagem do Zé,0
-MT0784,M082,28/11/2025,Troca de óleo,135.52,48642,Oficina Própria,1
-MT0017,M064,15/10/2023,Troca de pneus,534.06,6050,MotoFix,1
-MT1184,M016,18/07/2026,freio,286.39,47763,MotoFix,2
-MT0406,M098,18/03/2025,Troca oleo,111.35,9459,Oficina Própria,1
-MT1331,M043,09/10/26,Troca de pneus,496.78,72241,Oficina Central JP,1
-MT0048,M113,11/01/2024,,81.04,11503,Speed Motos SP,0
-MT0158,M090,16/07/2024,freios,"R$ 292,34",33190,Moto Center,3
-MT0222,M082,2024-10-01,Troca de pneus,"R$ 635,09",15982,Garagem do Zé,2
-MT1042,M016,01/05/2026,Troca de óleo,140.59,41491,Garagem do Zé,1
-MT1022,M062,2026-04-18,Freios,"R$ -292,83",41862,Oficina Central JP,1
-MT0747,M093,02/11/2025,Pneu,456.25,60910,MotoFix,2
-MT0884,M087,24/01/2026,Elétrica,150.18,51460,Speed Motos SP,2
-MT0542,M113,27/06/2025,Troca de óleo,126.54,60166,Speed Motos SP,1
-MT0972,M046,16/03/2026,Troca de pneus,"541,58",,MotoFix,2
-MT0659,M102,15/09/2025,Troca de óleo,109.76,20216,MotoFix,0
-MT0888,M062,25/01/2026,Kit relação,250.99,35380,MOTOFIX,2
-MT0383,M001,25/02/2025,Troca de pneus,420.59,1838,Garagem do Zé,1
-MT0219,M119,25/09/2024,TROCA DE ÓLEO,"116,02",9568,Oficina Central JP,0
-MT0071,M006,04/03/2024,Freios,301.77,5803,MotoFix,1
-MT0070,M110,27/02/2024,Bateria,191.27,6987,oficina própria,1
-MT0708,M076,13/10/2025,Troca de óleo,81.2,35646,Oficina Própria,0
-MT0091,M052,08/04/2024,Troca de óleo,143.18,19538,MotoFix,0
-MT0675,M108,23/09/2025,troca de pneu,620.83,62637,Oficina Própria,2
-MT1196,M067,26/07/2026,Troca de pneus,449.1,25205,Garagem do Zé,2
-MT0430,M101,06/04/2025,Troca de óleo,130.63,49803,Moto Center,1
-MT0103,M058,01/05/2024,Kit relação,,18736,Oficina Central JP,2
-MT0055,M100,24/01/2024,Troca de óleo,"R$ 114,87",7861,Moto Center,1
-MT1162,M037,05/07/2026,Revisão geral,402.75,39824,Oficina Central JP,2
-MT0458,M007,27/04/2025,Freios,"R$ 327,01",,MotoFix,2
-MT0886,M072,2026-01-25,Freios,300.93,31832,Speed Motos SP,1
-MT0615,M068,14/08/2025,Revisão geral,532.55,27443,Moto Center,1
-MT1300,M080,19/09/2026,Bateria,264.27,43690,Oficina Própria,0
-MT0914,M058,13/02/2026,TROCA DE PNEUS,538.93,80220,Speed Motos SP,1
-MT0128,M101,07/06/2024,Troca de óleo,134.34,24226,Speed Motos SP,0
-MT0669,M118,20/09/2025,Troca de óleo,81.21,2051,Oficina Própria,1
-MT0110,M029,20/05/2024,Troca de óleo,"85,29",16969,Garagem do Zé,0
-MT0485,M092,19/05/2025,Revisão geral,,28622,Moto Center,2
-MT0044,M049,30/12/23,,"R$ 346,06",6865,,3
-MT0423,M049,01/04/2025,Revisão geral,469.73,39281,Oficina Própria,2
-MT0594,M040,02/08/2025,Bateria,242.44,40062,MotoFix,1
-MT1005,M083,08/04/2026,Elétrica,,37967,MotoFix,3
-MT0039,M058,24/12/2023,Bateria,281.27,6590,Moto Center,0
-MT1158,M011,01/07/2026,Troca de óleo,113.36,75313,Speed Motos SP,1
-MT0976,M110,18/03/2026,Bateria,170.54,67227,Speed Motos SP,0
-MT0589,M055,30/07/2025,Revisão geral,"288,46",64294,Garagem do Zé,2
-MT0810,M069,2025-12-08,Troca de pneus,599.72,62553,Moto Center,1
-MT1246,M011,23/08/2026,Troca de óleo,98.64,80151,Oficina Central JP,1
-MT0454,M018,25/04/2025,Troca de óleo,105.77,21050,Moto Center,1
-MT0818,M010,12/12/2025,Troca de óleo,109.01,43887,Oficina Central JP,1
-MT1360,M023,2026-10-28,Reparo de acidente,3262.05,38731,Garagem do Zé,8
-MT1163,M093,07/07/2026,Elétrica,,83365,Garagem do Zé,1
-MT0161,M027,17/07/2024,Bateria,268.04,1287,Oficina Própria,1
-MT1152,M007,29/06/2026,Revisão geral,594.05,45773,Oficina Própria,2
-MT0146,M066,03/07/2024,Freios,242.24,7812,MotoFix,3
-MT1328,M073,08/10/2026,Revisão geral,287.11,92805,MotoFix,3
-MT0475,M078,12/05/2025,revisão geral,495.98,23832,MotoFix,2
-MT0711,M068,14/10/2025,Troca de óleo,118.15,31803,Speed Motos SP,0
-MT1232,M051,14-08-2026,Freios,"R$ 242,33",92706,MotoFix,3
-MT0097,M114,24/04/2024,TROCA DE ÓLEO,128.5,16681,Oficina Central JP,1
-MT0950,M017,04/03/2026,Troca de óleo,99.62,5111,Oficina Central JP,1
-MT0290,M043,09/12/2024,Troca de óleo,106.32,14978,Garagem do Zé,1
-MT1125,M073,13/06/2026,Revisão geral,337.23,81748,Garagem do Zé,2
-MT0316,M068,31/12/2024,Bateria,269.46,11292,MotoFix,1
-MT0750,M016,03/11/2025,Freios,177.89,27098,Moto Center,1
-MT0789,M114,30/11/2025,Reparo de acidente,1908.83,65720,,12
-MT0227,M087,08/10/2024,Reparo de acidente,1149.6,16029,Oficina Central JP,8
-MT0451,M113,2025-04-23,Troca de óleo,104.81,54232,Oficina Própria,0
-MT0877,M068,2026-01-18,Bateria,174.96,38664,Speed Motos SP,1
-MT1304,M103,22/09/2026,Kit relação,341.0,41475,Garagem do Zé,2
-MT0382,M055,25/02/2025,Reparo de acidente,2639.87,50258,Oficina Própria,4
-MT0816,M108,12-12-2025,Troca de pneus,684.7,69301,Speed Motos SP,1
-MT1108,M084,04/06/2026,Troca de óleo,80.29,33645,Oficina Própria,1
-MT0649,M101,01/09/2025,troca de óleo,118.0,62296,Speed Motos SP,-1
-MT0322,M010,03/01/2025,Freios,145.03,16062,MotoFix,2
-MT0652,M106,05/09/2025,Freios,"R$ 227,82",1856,Garagem do Zé,1
-MT1332,M111,09/10/2026,Revisão geral,541.97,67229,Garagem do Zé,2
-MT0949,M014,04/03/2026,Freios,270.54,28347,Moto Center,2
-MT0443, M006,,Troca de pneus,670.92,42889,Moto Center,2
-MT0583,M077,25/07/2025,Elétrica,263.82,29412,Speed Motos SP,4
-MT0751,M066,04/11/2025,Bateria,270.29,43851,Garagem do Zé,0
-MT1092,M008,2026-05-23,Freios,"R$ 147,79",28220,Speed Motos SP,-1
-MT1011,M061,13/04/26,Revisão geral,590.98,44519,MotoFix,1
-MT0874,M024,15/01/2026,Revisão geral,497.55,18688,Oficina Central JP,3
-MT0714,M023,16/10/2025,Kit relação,288.23,6355,,2
-MT0372,M072,20/02/2025,Revisão geral,491.45,6016,Garagem do Zé,1
-MT0398,M061,2025-03-09,Troca de pneus,512.25,8398,Oficina Própria,2
-MT1110,M003,04/06/2026,Troca de óleo,129.0,20268,Oficina Central JP,1
-MT0189,M110,21/08/2024,Troca de pneus,424.54,21123,MotoFix,1
-MT0922,M034,17/02/2026,Troca de óleo,112.37,11407,oficina central jp,1
-MT1224,M059,07/08/2026,Troca de pneus,"537,27",22182,,2
-MT1249,M054,25/08/2026,Troca de óleo,121.34,94050,Oficina Própria,1
-MT1206,M083,30/07/2026,Kit relação,322.44,47651,Oficina Central JP,1
-MT0123,M055,03/06/2024,Revisão geral,510.66,26079,Moto Center,1
-MT0010,M101,2023-09-14,Óleo,127.92,1688,Garagem do Zé,1
-MT1154,M036,29/06/2026,Revisão geral,,79425,Oficina Própria,2
-MT0165,M054,20/07/2024,Revisão geral,"R$ 501,33",30182,Oficina Própria,2
-MT0805,M009,07/12/2025,Revisão geral,278.55,67327,Garagem do Zé,3
-MT0232,M036,13/10/2024,Freios,324.99,27474,Oficina Central JP,2
-MT0374,M015,21/02/2025,Freios,"140,31",54311,MOTOFIX,2
-MT0572,M083,18/07/2025,Revisão geral,573.73,15341,Oficina Própria,1
-MT1215,M017,02/08/2026,FREIOS,"R$ 120,54",15136,Speed Motos SP,3
-MT0727,M083,23/10/2025,Revisão geral,569.99,23654,Oficina Central JP,3
-MT0272,M042,19/11/2024,Freios,193.45,34208,Oficina Própria,2
-MT1141,M010,2026-06-22,Freios,,59462,Oficina Central JP,3
-MT0240,M052,20-10-2024,Kit relação,272.22,36322,Oficina Própria,1
-MT0935,M116,25/02/2026,Troca de óleo,84.41,53459,MotoFix,1
-MT0077,M009,17/03/24,Troca de óleo,"114,43",16529,Oficina Central JP,1
-MT0224,M058,03/10/2024,Kit relação,"R$ 216,44",33331,Oficina Própria,1
-MT0663,M086,17/09/2025,Reparo de acidente,1604.87,49460,Oficina Própria,4
-MT0643,M069,27/08/2025,Bateria,227.24,53835,MotoFix,1
-MT0982,M052,20/03/2026,Kit relação,180.97,80736,Garagem do Zé,1
-MT0461,M110,01/05/2025,Bateria,"R$ 193,16",41444,Garagem do Zé,1
-MT0312,M029,27/12/2024,Troca de óleo,"R$ 98,67",34412,Moto Center,1
-MT1043,M019,2026-05-02,Troca de pneus,380.86,69320,Speed Motos SP,1
-MT0414,M030,26/03/2025,Troca de pneus,609.85,8494,Oficina Própria,2
-MT1030,M042,23/04/2026,Revisão geral,"496,47",85471,Moto Center,1
-MT0281,M111,02/12/2024,Troca de óleo,144.32,16900,Moto Center,1
-MT0500,M112,27/05/2025,Elétrica,100.15,41390,Oficina Própria,2
-MT0329,M077,2025-01-08,Troca de óleo,80.67,10504,Garagem do Zé,0
 MT0001,M015,09/07/2023,Troca de pneus,664.1,1772,Garagem do Zé,1
-MT0573,M061,19/07/2025,Troca de óleo,"142,01",20318,Garagem do Zé,0
-MT0933,M037,,Troca de pneus,332.1,29001,Garagem do Zé,2
-MT0610,M082,11/08/2025,Reparo de acidente,2053.68,,Speed Motos SP,12
-MT0742,M075,31/10/2025,Revisão geral,268.1,25211,Oficina Própria,2
-MT0340,M009,17/01/2025,Troca de pneus,"568,33",41202,Garagem do Zé,1
-MT0494,M028,24/05/2025,Troca de pneus,328.0,52805,MotoFix,1
-MT1367,M032,31/10/2026,Kit relação,"R$ 341,22",80917,MotoFix,2
-MT0782,M001,26/11/2025,Kit relação,"195,68",27022,Speed Motos SP,1
-MT0928,M097,20/02/2026,Troca de óleo,"R$ 98,45",15949,Speed Motos SP,1
-MT0056,M052,25/01/2024,Troca de pneus,355.32,13169,Oficina Central JP,1
-MT0351,M110,01/02/2025,Troca de óleo,146.17,34296,Oficina Própria,0
-MT0941,M099,27/02/2026,Elétrica,366.81,20845,MotoFix,1
-MT0772,M080,20/11/2025,Troca de óleo,114.21,17784,MOTOFIX,1
-MT0040,M051,26/12/2023,Elétrica,165.66,13782,Speed Motos SP,4
-MT0523,M086,14/06/2025,Revisão geral,531.2,41245,Oficina Própria,3
-MT1243,M079,21/08/2026,BATERIA,274.53,29361,Oficina Central JP,0
-MT0305,M120,24/12/2024,Reparo de acidente,2317.47,10975,Speed Motos SP,5
-MT0216,M013,22/09/2024,Bateria,"R$ 293,86",11153,Oficina Central JP,0
-MT0539,M090,2025-06-25,Troca de óleo,90.04,63395,Garagem do Zé,1
-MT1188,M106,23/07/2026,Elétrica,149.95,31655,motofix,4
-MT1351,M044,22/10/2026,Elétrica,305.15,80798,MotoFix,1
-MT1226,M001,07/08/2026,Kit relação,399.83,50367,Speed Motos SP,2
-MT0269,M064,14/11/2024,Troca de óleo,119.13,34574,Garagem do Zé,1
-MT1063,M082,11/05/2026,Revisão geral,"R$ 395,96",61304,Oficina Central JP,3
-MT0153,M112,2024-07-12,Revisão geral,0.0,14053,MotoFix,1
-MT0080,M108,23/03/2024,Revisão geral,456.2,16908,MotoFix,3
-MT1198,M107,27/07/2026,Troca de óleo,80.13,33285,,0
-MT0845,M093,30/12/2025,Troca de óleo,143.72,66183,Moto Center,0
-MT0390,M021,03/03/2025,Óleo,"R$ 115,03",10598,Moto Center,0
-MT0346,M075,26/01/2025,Kit relação,"R$ 237,37",1692,MotoFix,1
-MT0175,M040,31/07/2024,Troca de óleo,97.43,7316,Oficina Central JP,1
-MT1280,M039,2026-09-08,Troca de óleo,142.44,98135,Moto Center,0
-MT1176,M117,13/07/2026,Revisão geral,573.38,41304,Oficina Central JP,2
-MT0025,M058,04/11/2023,Bateria,199.37,1883,Oficina Central JP,1
-MT0162,M029,18/07/2024,Elétrica,"R$ 127,50",21626,Speed Motos SP,4
-MT1353,M046,24/10/2026,Troca de pneus,"489,02",91854,OFICINA PRÓPRIA,2
-MT0695,M049,2025-10-04,Troca de óleo,"133,52",52445,MotoFix,
-MT0120,M013,2024-05-30,Reparo de acidente,2245.32,1652, Garagem do Zé  ,11
-MT1083,M011,19/05/2026,Freios,"152,61",71388,Garagem do Zé,1
-MT0263,M029,09/11/2024,Troca de pneus,539.45,30623,oficina central jp,1
-MT0571,M114,18/07/2025,Freios,143.38,54403,Oficina Central JP,3
-MT1144,M052,25/06/2026,Troca de pneus,603.78,89085,Oficina Própria,2
-MT0082,M069,26/03/2024,Troca de óleo,107.87,9903,Oficina Própria,0
-MT1137,M019,20-06-2026,Óleo,144.28,73572,Garagem do Zé,1
-MT0739,M101,31/10/2025,Revisão geral,541.29,67361,Moto Center,2
-MT1218,M009,03-08-2026,Kit relação,"R$ 383,86",86598,MotoFix,1
-MT1322,M082,03/10/2026,Troca de pneus,590.76,72499,Garagem do Zé,2
-MT0411,M120,23/03/25,Freios,346.82,19184,MotoFix,3
-MT0114,M019,23/05/2024,Bateria,"R$ 235,21",,MotoFix,0
-MT1159,M112,01/07/2026,Kit relação,"R$ 358,58",75668,Moto Center,2
-MT0436,M008,13/04/2025,Troca de óleo,97.88,1328,Oficina Central JP,0
-MT0084,M087,28/03/2024, Revisão geral  ,322.9,1498,Moto Center,1
-MT0093,M028,10/04/2024,Elétrica,237.52,16809,Oficina Própria,1
-MT0302,M004,22/12/2024,Reparo de acidente,"R$ 1.255,40",20635,Moto Center,11
-MT0020,M046,26-10-2023,bateria,"252,02",5151,Oficina Central JP,0
-MT0186,M055,20/08/2024,Revisão geral,554.56,33143,Oficina Central JP,3
-MT0228,M090,10/10/2024,Kit relação,"215,91",40741,Moto Center,1
-MT0334,M115,14/01/2025,Troca de óleo,143.93,,Oficina Central JP,0
-MT0509,M057,2025-06-03,KIT RELAÇÃO,355.35,14180,MotoFix,2
-MT0315,M102,30/12/2024,Freios,333.74,1449,MotoFix,1
-MT1365,m007,31/10/2026,BATERIA,198.59,56563,Oficina Própria,0
-MT0791,M090,01/12/2025,Troca de óleo,107.79,77356,Oficina Central JP,0
-MT1250,M003,26/08/2026,Troca de óleo,91.54,26616,Moto Center,0
-MT0552,M075,03/07/2025,Kit relação,264.38,15059,Oficina Central JP,2
-MT0672,M071,22/09/2025,troca de óleo,115.02,28667,Moto Center,0
-MT1050,M039,04/05/2026,revisão geral,597.98,87183,Oficina Própria,1
-MT1202,M104,28/07/2026,Kit relação,325.87,22451,Moto Center,1
-MT0341,M113,18/01/2025,Elétrica,"159,56",45558,MotoFix,1
-MT1086,M033,2026-05-20,Troca de pneus,615.74,65597,Oficina Própria,1
-MT0308,M032,25/12/2024,Bateria,185.84,20026,Speed Motos SP,0
-MT0923,M021,17/02/2026,Revisão geral,339.9,39663,Moto Center,1
+MT0002,M090,24/07/2023,Troca de óleo,120.09,1756,Speed Motos SP,1
+MT0003,M051,31/07/2023,Troca de óleo,107.46,1640,Oficina Central JP,0
+MT0004,M064,12/08/2023,Kit relação,346.31,1440,Oficina Própria,1
+MT0005,M054,13/08/2023,Troca de pneus,350.75,1667,Garagem do Zé,1
+MT0006,M039,17/08/2023,Troca de óleo,141.61,1724,Oficina Própria,1
+MT0007,M015,05/09/2023,Kit relação,306.99,6910,MotoFix,1
+MT0008,M055,09/09/2023,Troca de óleo,105.7,1811,Speed Motos SP,1
+MT0009,M046,11/09/2023,Kit relação,340.42,1585,Speed Motos SP,1
+MT0010,M101,14/09/2023,Troca de óleo,127.92,1688,Garagem do Zé,1
+MT0011,M052,14/09/2023,Revisão geral,367.53,1721,Oficina Central JP,2
+MT0012,M009,14/09/2023,Troca de pneus,563.26,1612,MotoFix,1
+MT0013,M090,17/09/2023,Troca de óleo,119.06,6585,Garagem do Zé,0
+MT0014,M108,22/09/2023,Troca de pneus,391.64,1665,Moto Center,2
+MT0015,M113,27/09/2023,Revisão geral,250.86,1825,Garagem do Zé,1
+MT0016,M049,14/10/2023,Kit relação,268.83,1415,MotoFix,2
+MT0017,M064,15/10/2023,Troca de pneus,534.06,6050,MotoFix,1
 MT0018,M051,16/10/2023,Troca de óleo,135.39,7958,Oficina Própria,0
-MT0068,M112,19/02/2024,Bateria,198.78,1713, Oficina Central JP  ,1
-MT1194,M092,25/07/2026,Revisão geral,422.62,66434,Garagem do Zé,1
-MT1172,M055,11/07/2026,Freios,291.94,95626,Speed Motos SP,2
-MT0722,M105,20/10/2025,Troca de pneus,327.81,34119,Oficina Central JP,2
-MT0113,M033,22/05/2024,Troca de pneus,405.85,1753,motofix,2
-MT0726,M097,2025-10-22,Troca de pneus,346.22,2262,Moto Center,1
-MT0517,M021,07/06/2025,Revisão geral,440.06,18548,Garagem do Zé,2
-MT1321,M118,01/10/2026, Freios  ,,40614,Oficina Central JP,2
-MT1127,M051,13/06/2026,Bateria,272.1,87620,Garagem do Zé,0
-MT0416,M082,28/03/2025,Troca de óleo,121.14,29725,Oficina Central JP,0
-MT0264,M093,10/11/2024,Revisão geral,28499.5,28455,SPEED MOTOS SP,3
-MT1257,M019,2026-08-29,Kit relação,381.18,79645,MotoFix,1
-MT0847,M030,31/12/2025,Troca de óleo,"R$ 82,76",31365,Moto Center,0
-MT0292,M109,09/12/2024,REVISÃO GERAL,451.5,1838,MotoFix,1
-MT0252,M012,2024-11-01,Troca de óleo,123.15,33631,MotoFix,0
-MT0606,M096,08/08/2025,Kit relação,326.61,20869,Speed Motos SP,1
-MT1219,M022,03/08/2026, Troca de óleo  ,133.15,25892,Speed Motos SP,1
-MT1026,M084,21/04/2026,REPARO DE ACIDENTE,1401.06,30288,,6
-MT0381,M092,24/02/2025,Troca de óleo,130.19,21269,Oficina Central JP,1
-MT1191,M096,2026-07-24, Troca de pneus  ,396.23,50682,MotoFix,1
-MT0968,M002,14/03/2026,Troca de pneus,337.93,8238,Speed Motos SP,2
-MT0368,M074,18/02/2025,Kit relação,"R$ 324,14",5078,Moto Center,
-MT0403,M058,13/03/2025,Troca de óleo,138.45,48490,Garagem do Zé,0
-MT0679,M085,25/09/2025,Troca de pneus,683.75,1835,Oficina Própria,1
-MT1230,M025,2026-08-11,freio,340.95,32031,,3
-MT1027,M094,22/04/2026,Revisão geral,,62751,Oficina Própria,1
-MT1120,M068,10/06/26,Troca de óleo,103.42,48884,,0
-MT0900,M080,03/02/2026,Troca de óleo,98.85,24196,Moto Center,0
-MT0536,M101,24/06/2025,Freios,237.16,56472,Oficina Própria,1
-MT0952,M077,05/03/2026,Troca de pneus,448.06,50707,Moto Center,2
-MT0980,M079,20/03/2026,Troca de óleo,104.27,14389,Oficina Própria,0
-MT0497,M089,26/05/2025,Troca de óleo,98.29,37352, Speed Motos SP  ,0
-MT1244,M064,23/08/2026,Troca de óleo,"103,68",81176,Oficina Central JP,0
-MT0460,M061,28/04/2025,Óleo,109.13,12913,Moto Center,0
-MT0212,M159,16/09/2024,Troca de óleo,136.24,1844,Oficina Central JP,0
-MT0938,M078,26/02/2026,Reparo de acidente,2979.74,45098,Moto Center,9
-MT0174,M045,30/07/2024,Freios,253.93,17430,Speed Motos SP,2
-MT0193,M115,25/08/2024,Troca de pneus,613.34,8442,Oficina Central JP,1
-MT0143,M006,02/07/2024,Troca de óleo,134.21,16684,Moto Center,0
-MT1366,M069,31/10/2026,FREIOS,"R$ 148,74",90233,MotoFix,1
-MT0230,M086,11/10/2024,Troca de óleo,126.18,19974,Oficina Central JP,1
-MT0570,M069,,Bateria,"181,88",50280,MotoFix,0
-MT0759,M079,2025-11-12,Bateria,160.64,,Speed Motos SP,1
-MT0598,M102,04/08/2025,Troca de pneus,436.68,17173,Speed Motos SP,1
-MT0762,M117,2025-11-13,Troca de pneus,381.48,22337,Garagem do Zé,2
-MT0155,M041,14/07/2024,Troca de óleo,129.69,17436,Garagem do Zé,0
-MT0885,M027,25/01/2026,Troca de óleo,80.71,37152,Garagem do Zé,1
-MT1019,M053,18/04/2026,Revisão geral,475.91,24937,Speed Motos SP,3
-MT0075,M086,14/03/2024,Revisão geral,586.17,1729,Speed Motos SP,1
-MT0809,M096,08/12/2025,Bateria,220.56,31261,Oficina Central JP,0
-MT0415,M094,27/03/2025,Reparo de acidente,1387.7,29861,Speed Motos SP,10
-MT0931,M075,22/02/2026,Bateria,214.94,34856,Garagem do Zé,0
-MT0641,M119,27/08/2025,Troca de óleo,119.47,38020,,0
-MT0234,M004,16/10/2024,Kit relação,351.61,14801,Oficina Central JP,1
-MT0021,M114,28/10/2023,Revisão geral,"338,17",1676,Oficina Própria,2
-MT1266,M040,03/09/26,Kit relação,"R$ 201,05",75484,Garagem do Zé,1
-MT0030,M015,25/11/2023,Troca de óleo,82.48,14087,MotoFix,0
-MT0804,M067,07/12/2025,Freios,240.11,2008,Oficina Própria,2
-MT0883,M076,23/01/2026,Troca de pneus,683.81,43691,Oficina Central JP,2
-MT1055,M040,07/05/2026,Troca de óleo,90.29,64866,Speed Motos SP,1
-MT0291,M054,09/12/2024,Troca de pneus,626.16,42022,Garagem do Zé,2
-MT0915,M010,2026-02-14,Revisão geral,"R$ 269,53",49079,Moto Center,2
-MT1094,M092,26/05/2026, Kit relação  ,280.27,61182,speed motos sp,1
-MT1112,M032,05/06/2026,Troca de óleo,90.84,67566,Speed Motos SP,0
-MT0115,M113,24-05-2024,Troca de óleo,142.49,23737,Garagem do Zé,1
-MT1116,M074,07/06/2026,Troca de óleo,116.76,41553,Garagem do Zé,0
-MT0466,M108,04/05/2025,Freios,"245,57",50809,Speed Motos SP,2
-MT0890,M109,26/01/2026,Troca de óleo,"R$ 149,21",39792,Moto Center,0
-MT0168,M032,2024-07-22,Troca de óleo,102.29,5953,Moto Center,1
-MT0408,M029,19/03/2025,Freios,156.36,40884,Oficina Central JP,3
-MT0321,M074,03/01/2025,Kit relação,256.68,1539,Garagem do Zé,2
-MT1319,M030,29/09/2026,Troca de óleo,124.01,53583,Speed Motos SP,
-MT0898,M088,01/02/2026,Bateria,268.35,14522,Oficina Própria,0
-MT1102,M049,31/05/2026,Revisão geral,453.07,69361,Moto Center,2
-MT0705,M026,11/10/2025,TROCA DE PNEUS,"R$ 416,34",,Oficina Central JP,1
-MT0921,M117,17/02/2026,Troca de óleo,143.29,29861,Moto Center,1
-MT0567,M041,14/07/2025,Freios,178.1,46498,Moto Center,1
-MT0599,M089,05/08/2025,Troca de pneus,417.76,43592,Moto Center,1
-MT0258,M040,06-11-2024,eletrica,"119,75",,MOTO CENTER,3
-MT0256,M076,05/11/2024,Kit relação,352.8,8675,Garagem do Zé,2
-MT0728,M063,24-10-2025,Elétrica,"R$ 221,89",32138,Moto Center,2
-MT0706,M065,12/10/2025,Reparo de acidente,2281.38,21147,Garagem do Zé,9
-MT0988,M065,23/03/2026,Troca de óleo,91.46,35664,Garagem do Zé,0
-MT0498,M039,27/05/2025,Revisão geral,573.22,57691,Oficina Própria,3
-MT0899,M019,02/02/2026,Revisão geral,490.14,61599,Oficina Própria,2
-MT0131,M093,09/06/2024,Kit relação,230.92,14454,Garagem do Zé,2
-MT1350,M003,21/10/2026,,"R$ 117,33",30899,Garagem do Zé,2
-MT0101,M090,29/04/2024,Bateria,"R$ 266,26",26341,Speed Motos SP,1
-MT0172,M086,29/07/2024,Revisão geral,505.29,13575,Speed Motos SP,3
-MT0492,M036,2025-05-24,Freios,338.85,46039,Oficina Central JP,2
-MT1282,M044,11/09/2026,Troca de óleo,88.38,77489,MotoFix,1
-MT0111,M044,22-05-2024,Revisão geral,"R$ 581,24",9524,MotoFix,3
-MT1225,M094,07/08/2026,Troca de óleo,102.89,71751,Oficina Própria,0
-MT1021,M013,18/04/2026,Reparo de acidente,2799.89,58494,Garagem do Zé,5
-MT1227,M105,08-08-2026,Troca de pneus,596.95,57182,Moto Center,1
-MT0713,M110,15/10/2025,Bateria,209.02,54858,Moto Center,0
-MT0828,M053,17/12/2025,Troca de óleo,"R$ 0,00",14149,Moto Center,0
-MT1020,M068,18/04/2026,Freios,"142,67",,Oficina Central JP,1
-MT1161,M004,04/07/2026,Troca de pneus,431.27,69306,Garagem do Zé,1
-MT0961,M112,09/03/2026,Revisão geral,331.35,65899,Oficina Central JP,3
-MT0660,M115,15/09/2025,Reparo de acidente,2927.37,41359,Oficina Central JP,12
-MT0271,M062,18/11/2024,Revisão geral,"424,79",1562,MotoFix,3
-MT0064,M044,14/02/2024,Bateria,285.81,1614,Oficina Central JP,0
-MT0394,M040,2025-03-05,Freios,"R$ 316,42",26678,MotoFix,2
-MT1095,M025,26/05/2026,Troca de pneus,563.61,,Speed Motos SP,2
-MT0893,M115,27/01/2026,Troca de pneus,660.48,52786,,1
-MT0544,M063,2025-06-29,Troca oleo,125.06,22447,Speed Motos SP,0
-MT0779,M019,24/11/2025,Troca de óleo,123.68,55526,Garagem do Zé,0
-MT1185,M099,18/07/2026,Bateria,191.85,33851,MotoFix,0
-MT0170,M114,23/07/2024,Troca de óleo,"134,91",24225,MotoFix,0
-MT0037,M009,20/12/2023,Freios,158.42,9433,MotoFix,1
-MT0244,M112,22/10/24,Freios,"212,10",22794,MotoFix,3
-MT0083,M082,28/03/2024,Corrente,351.5,1544,Moto Center,2
-MT0946,M070,02/03/2026,REPARO DE ACIDENTE,2913.92,18164,Moto Center,12
-MT0861,M083,10/01/2026,,451.05,30425,Moto Center,1
-MT0373,M068,20/02/2025,Kit relação,319.2,14936,,2
-MT1047,M085,2026-05-03,Troca de pneus,432.55,22023,MotoFix,2
-MT1171,M038,11/07/2026,Troca de óleo,138.92,32649,Moto Center,1
-MT0752,M119,05/11/2025,Troca de óleo,"R$ 107,97",43947,MotoFix,1
-MT0508,M102,02/06/25,kit relacao,,12608,MotoFix,1
-MT1245,M109,23/08/2026,Revisão geral,518.87,58999,Moto Center,3
-MT1038,M099,28/04/2026, Troca de pneus  ,374.51,26380,Oficina Central JP,1
-MT1235,M046,17/08/2026,KIT RELAÇÃO,374.81,86465,Moto Center,1
-MT0585,M095,27/07/2025,Corrente,253.71,1942,MotoFix,2
-MT0512,M081,04/06/2025,Pneu,"319,93",11951,Speed Motos SP,1
-MT0178,M100,01/08/2024,Troca de óleo,142.01,22505,Moto Center,1
-MT0277,M092,27/11/2024,Freios,229.77,13479,Oficina Central JP,3
-MT0880,M038,2026-01-20,Troca de óleo,82.39,17987,Oficina Própria,0
-MT0548,M044,01/07/2025,Troca de óleo,149.51,42215,Garagem do Zé,1
-MT0720,M035,20/10/2025,Óleo,"R$ 114,10",9096,Garagem do Zé,1
-MT0477,M001,12/05/25,Kit relação,376.44,8823,Speed Motos SP,1
-MT0226,M010,04/10/2024,Troca de óleo,149.81,8680,oficina central jp,0
-MT0633,M023,23/08/2025,Revisão geral,442.91,1717,MotoFix,2
-MT0217,M069,22/09/2024,Freios,122.48,25140,Garagem do Zé,3
-MT1054,M004,06/05/2026,Kit relação,350.01,64169,Oficina Central JP,2
-MT0838,M065,26/12/2025,Freios,271.07,27868,Oficina Própria,1
-MT0181,M073,2024-08-10,Reparo de acidente,2937.08,18239,MotoFix,12
-MT0919,M069,16/02/2026,Troca de óleo,"140,82",68479,MotoFix,1
-MT0746,M025,2025-11-02,Troca de óleo,107.01,12647,Moto Center,1
-MT0902,M031,2026-02-03,Troca de pneus,649.53,23200,Oficina Própria,1
-MT1305,M121,22/09/2026,Troca de óleo,126.51,38873,oficina própria,
-MT0678,M111,24/09/2025,freios,218.06,38938,Oficina Central JP,2
-MT0639,M109,25/08/2025,Kit relação,"R$ 357,27",25640,Oficina Própria,2
-MT0045,M029,01/01/2024,Revisão geral,422.39,5919,Oficina Própria,3
-MT0265,M115,11/11/2024,Freios,259.36,15094,Garagem do Zé,1
-MT1089,M043,21/05/2026,Troca de óleo,110.84,60172,Oficina Central JP,1
-MT1323,M113,04/10/2026,Troca de óleo,142.63,102529,Oficina Central JP,1
-MT1239,M029,20/08/2026,Revisão geral,282.79,81847,Oficina Própria,2
-MT1336,M035,12/10/2026,Troca de pneus,331.03,43643,Moto Center,1
-MT0897,M095,01/02/2026, Bateria  ,287.81,20303,Oficina Central JP,1
-MT0851,M037,2026-01-01,Troca de pneus,309.18,24539,Speed Motos SP,2
-MT0095,M011,17/04/2024,Troca de óleo,"104,13",1825,Moto Center,0
-MT0176,M009,01/08/2024,TROCA DE ÓLEO,82.38,27575,MotoFix,0
-MT0399,M108,09/03/2025, Troca de óleo  ,123.6,46145,Moto Center,0
-MT1197,M043,2026-07-27,Reparo de acidente,2608.91,65907,Garagem do Zé,11
-MT0333,M046,14/01/2025,troca de oleo,6699.5,40498,Garagem do Zé,1
-MT1057,M044,2026-05-09,Kit relação,225.52,67399,Speed Motos SP,1
-MT0032, M090,05/12/2023,Pneu,309.45,13521,Speed Motos SP,2
-MT0745,M034,02/11/2025,Bateria,206.53,1796,MotoFix,0
-MT1260,M007,30/08/2026,Reparo de acidente,"R$ 3.330,25",51168,Oficina Própria,9
-MT0375,M109,21/02/2025,Troca de pneus,690.13,8638,MotoFix,1
-MT0409,M063,22/03/2025,Troca de pneus,506.28,14246,Speed Motos SP,1
-MT0686,M112,30/09/2025,Reparo de acidente,"R$ 1.550,17",52188,Moto Center,8
-MT0419,M037,30/03/2025,Elétrica,"R$ 148,05",1652,Garagem do Zé,2
-MT0145,M019,03/07/2024,Troca de óleo,99.08,11365,Speed Motos SP,1
-MT0266,M049,11/11/2024,Revisão geral,508.71,29301,Speed Motos SP,3
-MT0987,M098,22/03/2026,Troca de óleo,95.39,47400,Moto Center,1
-MT0015, M113,27/09/2023,Revisão geral,250.86,1825,Garagem do Zé,1
-MT1119,M070,09-06-2026,Revisão,"593,46",26606,Oficina Própria,1
-MT0529,M091,2025-06-20,Freios,"309,54",2046,Garagem do Zé,3
-MT0392,M112,2025-03-05,Revisão geral,398.97,34277,MotoFix,3
-MT0854,M011,04/01/2026,Freios,"323,48",59064,Moto Center,3
-MT0730,M027,25/10/2025,Óleo,"R$ 95,89",31228,MotoFix,1
-MT0802,M091,2025-12-06,Revisão geral,379.35,19342,Oficina Própria,3
-MT0079,M101,21/03/2024,Troca de pneus,416.52,17642,Moto Center,1
-MT0604,M028,07/08/2025,Reparo de acidente,3035.06,59406,Oficina Própria,6
-MT0388,M044,28/02/2025,Troca de óleo,142.96,32287,Moto Center,1
-MT0184,M064,17/08/2024,ELÉTRICA,151.17,28163,Speed Motos SP,3
-MT0836,M002,24/12/2025,Troca de pneus,398.23,1647,MotoFix,2
-MT0191,M066,22/08/2024,Revisão geral,279.61,11497,Moto Center,3
-MT0365,M011,10/02/2025,Troca de óleo,"R$ 115,89",29121,Oficina Própria,
-MT0869,M048,2026-01-13,Elétrica,396.75,21337,Speed Motos SP,3
-MT1160,M018,04/07/2026,Revisão geral,298.93,59045,Speed Motos SP,2
-MT0246,M094,22/10/2024,Troca de óleo,92.96,16739,Speed Motos SP,0
-MT0882,M013,23/01/2026,Troca de óleo,85.78,51471,Speed Motos SP,0
-MT0275,M101,23/11/2024,Kit relação,229.89,38492,Garagem do Zé,2
-MT0148,M116,05-07-2024,Elétrica,"R$ 131,18",1724,Moto Center,2
-MT1130,M053,16/06/26,Freios,214.33,30155,Oficina Central JP,3
-MT0295,M108,13/12/2024,Freios,153.98,38982,Speed Motos SP,1
-MT0325,M064,05/01/2025,Troca de óleo,111.94,38319,Speed Motos SP,0
-MT0771,M111,19/11/2025,Troca de óleo,90.38,43107,Moto Center,0
-MT0800,M013,05/12/2025,Troca de pneus,404.4,47423,Garagem do Zé,1
-MT0540,M048,2025-06-26,Troca de pneus,"R$ 338,75",5569,Oficina Central JP,2
-MT0677,M013,24/09/2025,Troca de óleo,116.29,41474,MotoFix,0
-MT1135,M060,17/06/2026,REPARO DE ACIDENTE,3023.41,47212,Moto Center,
-MT0901,M053,03/02/26,Troca de óleo,125.23,18393,Speed Motos SP,0
-MT0769,M072,2025-11-19,Troca de óleo,130.45,26729,Speed Motos SP,1
-MT0006,M039,17-08-2023,Troca de óleo,141.61,1724,Oficina Própria,1
-MT0975,M006,17/03/2026,Troca de óleo,141.72,73175,Oficina Própria,1
-MT1169,M089,09/07/2026,Kit relação,205.59,73297,MotoFix,2
-MT0104,M006,01/05/2024,Freios,198.75,11062,Garagem do Zé,1
-MT0211,M044,15/09/2024,Kit relação,350.85,18888,MotoFix,2
-MT0042,M041,2023-12-28,KIT RELAÇÃO,239.93,1592,Oficina Central JP,1
-MT0378,M086,22/02/2025,Revisão geral,312.6,31561,Moto Center,3
-MT1279,M018,08/09/2026,Reparo de acidente,1727.26,64810,Garagem do Zé,11
-MT0147,M046,04-07-2024,Troca de pneus,345.78,25123,MotoFix,2
-MT1111,M094,05/06/2026,Troca de óleo,127.08,66452,Moto Center,1
-MT1090,M064,22/05/2026,Elétrica,"122,39",74478,MotoFix,1
-MT0206,M078,08/09/2024,Bateria,262.47,5793,Oficina Central JP,0
-MT1069,M089,13/05/2026,Reparo de acidente,3243.16,68288,Garagem do Zé,12
+MT0019,M028,22/10/2023,Troca de óleo,85.04,1760,Moto Center,0
+MT0020,M046,26/10/2023,Bateria,252.02,5151,Oficina Central JP,0
+MT0021,M114,28/10/2023,Revisão geral,338.17,1676,Oficina Própria,2
+MT0022,M054,30/10/2023,Freios,295.38,8171,Speed Motos SP,1
+MT0023,M039,31/10/2023,Troca de óleo,119.14,8192,Oficina Central JP,0
+MT0024,M100,03/11/2023,Revisão geral,410.41,1541,Speed Motos SP,1
+MT0025,M058,04/11/2023,Bateria,199.37,1883,Oficina Central JP,1
+MT0026,M029,07/11/2023,Freios,315.95,,MotoFix,3
+MT0027,M113,09/11/2023,Troca de óleo,97.31,5751,Oficina Central JP,1
 MT0028,M012,19/11/2023,Troca de óleo,114.28,1827,MotoFix,1
-MT1105,M050,2026-06-02,Troca de pneus,"R$ 582,14",26526,MotoFix,1
-MT1138,M075,20/06/2026,Troca de óleo,103.6,44839,MotoFix,1
+MT0029,M108,22/11/2023,Troca de pneus,540.33,6746,Oficina Central JP,2
+MT0030,M015,25/11/2023,Troca de óleo,82.48,14087,MotoFix,0
+MT0031,M052,28/11/2023,Troca de óleo,117.22,8176,MotoFix,1
+MT0032,M090,05/12/2023,Troca de pneus,309.45,13521,Speed Motos SP,2
+MT0033,M036,08/12/2023,Troca de pneus,696.26,1665,Speed Motos SP,1
+MT0034,M055,09/12/2023,Bateria,245.46,10051,Oficina Central JP,0
+MT0035,M101,19/12/2023,Troca de óleo,110.64,9791,MotoFix,0
+MT0036,M069,20/12/2023,Freios,305.31,1692,Oficina Própria,3
+MT0037,M009,20/12/2023,Freios,158.42,9433,MotoFix,1
+MT0038,M110,22/12/2023,Troca de óleo,114.94,1606,Garagem do Zé,0
+MT0039,M058,24/12/2023,Bateria,281.27,6590,Moto Center,0
+MT0040,M051,26/12/2023,Elétrica,165.66,13782,Speed Motos SP,4
+MT0041,M042,28/12/2023,Kit relação,327.61,1971,Oficina Própria,2
+MT0042,M041,28/12/2023,Kit relação,239.93,1592,Oficina Central JP,1
+MT0043,M054,30/12/2023,Revisão geral,323.93,13257,Speed Motos SP,3
+MT0044,M049,30/12/2023,Não informado,346.06,6865,Não informado,3
+MT0045,M029,01/01/2024,Revisão geral,422.39,5919,Oficina Própria,3
+MT0046,M012,06/01/2024,Freios,181.08,6214,MotoFix,2
+MT0047,M064,07/01/2024,Troca de pneus,523.39,12100,Oficina Central JP,2
+MT0048,M113,11/01/2024,Não informado,81.04,11503,Speed Motos SP,0
+MT0049,M015,16/01/2024,Bateria,201.54,18694,Garagem do Zé,1
+MT0050,M114,16/01/2024,Troca de óleo,147.83,8382,Garagem do Zé,1
+MT0051,M028,18/01/2024,Troca de pneus,459.46,9505,Oficina Própria,2
+MT0052,M006,20/01/2024,Kit relação,357.46,1813,Oficina Própria,2
+MT0053,M093,22/01/2024,Freios,261.13,1818,Oficina Própria,3
+MT0054,M046,23/01/2024,Kit relação,378.68,12205,Speed Motos SP,1
+MT0055,M100,24/01/2024,Troca de óleo,114.87,7861,Moto Center,1
+MT0056,M052,25/01/2024,Troca de pneus,355.32,13169,Oficina Central JP,1
+MT0057,M045,28/01/2024,Troca de óleo,130.41,1708,Oficina Central JP,0
+MT0058,M039,29/01/2024,Troca de óleo,103.36,15953,MotoFix,1
+MT0059,M090,30/01/2024,Revisão geral,395.04,18439,Oficina Central JP,2
+MT0060,M058,06/02/2024,Troca de óleo,87.2,10733,Moto Center,0
+MT0061,M108,10/02/2024,Troca de óleo,104.56,13410,Speed Motos SP,0
+MT0062,M029,11/02/2024,Kit relação,356.58,9155,Oficina Central JP,2
+MT0063,M041,13/02/2024,Troca de óleo,114.18,5334,Speed Motos SP,1
+MT0064,M044,14/02/2024,Bateria,285.81,1614,Oficina Central JP,0
+MT0065,M049,17/02/2024,Freios,213.9,10333,Oficina Própria,2
+MT0066,M036,17/02/2024,Elétrica,376.79,7576,Garagem do Zé,4
+MT0067,M073,19/02/2024,Revisão geral,367.57,1890,Oficina Central JP,1
+MT0068,M112,19/02/2024,Bateria,198.78,1713,Oficina Central JP,1
+MT0069,M012,22/02/2024,Troca de óleo,133.92,10509,Oficina Central JP,0
+MT0070,M110,27/02/2024,Bateria,191.27,6987,Oficina Própria,1
+MT0071,M006,04/03/2024,Freios,301.77,5803,MotoFix,1
+MT0072,M055,07/03/2024,Reparo de acidente,908.96,18111,Garagem do Zé,9
+MT0073,M015,09/03/2024,Troca de pneus,509.14,23390,Moto Center,1
+MT0074,M054,10/03/2024,Troca de pneus,482.71,19176,Garagem do Zé,2
+MT0075,M086,14/03/2024,Revisão geral,586.17,1729,Speed Motos SP,1
+MT0076,M019,14/03/2024,Revisão geral,448.93,1735,Speed Motos SP,2
+MT0077,M009,17/03/2024,Troca de óleo,114.43,16529,Oficina Central JP,1
+MT0078,M093,19/03/2024,Kit relação,344.49,7000,Garagem do Zé,2
+MT0079,M101,21/03/2024,Troca de pneus,416.52,17642,Moto Center,1
+MT0080,M108,23/03/2024,Revisão geral,456.2,16908,MotoFix,3
+MT0081,M113,26/03/2024,Revisão geral,530.62,18351,Garagem do Zé,3
+MT0082,M069,26/03/2024,Troca de óleo,107.87,9903,Oficina Própria,0
+MT0083,M082,28/03/2024,Kit relação,351.5,1544,Moto Center,2
+MT0084,M087,28/03/2024,Revisão geral,322.9,1498,Moto Center,1
+MT0085,M042,29/03/2024,Troca de pneus,532.65,11041,Oficina Própria,2
+MT0086,M064,29/03/2024,Kit relação,308.87,18007,MotoFix,1
+MT0087,M100,29/03/2024,Troca de óleo,145.14,12871,Oficina Própria,0
+MT0088,M051,30/03/2024,Freios,324.05,21576,Moto Center,2
+MT0089,M036,01/04/2024,Elétrica,175.53,11239,Oficina Própria,2
+MT0090,M045,05/04/2024,Kit relação,238.34,7519,Oficina Central JP,1
+MT0091,M052,08/04/2024,Troca de óleo,143.18,19538,MotoFix,0
+MT0092,M066,08/04/2024,Troca de pneus,568.71,1474,Oficina Central JP,2
+MT0093,M028,10/04/2024,Elétrica,237.52,16809,Oficina Própria,1
+MT0094,M089,16/04/2024,Revisão geral,455.64,1757,Moto Center,2
+MT0095,M011,17/04/2024,Troca de óleo,104.13,1825,Moto Center,0
+MT0096,M039,23/04/2024,Troca de óleo,101.92,23283,Speed Motos SP,1
+MT0097,M114,24/04/2024,Troca de óleo,128.5,16681,Oficina Central JP,1
+MT0098,M094,26/04/2024,Freios,280.31,1682,Oficina Central JP,1
+MT0099,M046,27/04/2024,Troca de óleo,87.38,19734,Garagem do Zé,1
+MT0100,M049,27/04/2024,Troca de óleo,110.05,15287,Oficina Própria,1
+MT0101,M090,29/04/2024,Bateria,266.26,26341,Speed Motos SP,1
+MT0102,M012,30/04/2024,Troca de óleo,110.43,16724,Garagem do Zé,0
+MT0103,M058,01/05/2024,Kit relação,285.66,18736,Oficina Central JP,2
+MT0104,M006,01/05/2024,Freios,198.75,11062,Garagem do Zé,1
+MT0105,M015,,Revisão geral,341.62,28174,Oficina Central JP,1
+MT0106,M111,09/05/2024,Troca de óleo,102.58,1489,Garagem do Zé,1
+MT0107,M069,09/05/2024,Troca de óleo,129.68,13628,Oficina Central JP,1
+MT0108,M041,18/05/2024,Troca de óleo,143.64,12898,Não informado,0
+MT0109,M004,19/05/2024,Freios,196.8,1741,Moto Center,3
+MT0110,M029,20/05/2024,Troca de óleo,85.29,16969,Garagem do Zé,0
+MT0111,M044,22/05/2024,Revisão geral,581.24,9524,MotoFix,3
+MT0112,M110,22/05/2024,Bateria,197.57,13814,MotoFix,0
+MT0113,M033,22/05/2024,Troca de pneus,405.85,1753,MotoFix,2
+MT0114,M019,23/05/2024,Bateria,235.21,,MotoFix,0
+MT0115,M113,24/05/2024,Troca de óleo,142.49,23737,Garagem do Zé,1
+MT0116,M073,27/05/2024,Troca de óleo,132.37,11151,Speed Motos SP,1
+MT0117,M086,28/05/2024,Revisão geral,519.64,8214,Moto Center,1
+MT0118,M112,28/05/2024,Troca de óleo,117.88,10197,Garagem do Zé,0
+MT0119,M040,30/05/2024,Troca de óleo,138.3,1784,Oficina Central JP,0
+MT0120,M013,30/05/2024,Reparo de acidente,2245.32,1652,Garagem do Zé,11
+MT0121,M028,31/05/2024,Bateria,222.09,21298,Oficina Central JP,1
+MT0122,M082,01/06/2024,Troca de pneus,662.27,6562,Oficina Própria,1
+MT0123,M055,03/06/2024,Revisão geral,510.66,26079,Moto Center,1
+MT0124,M039,03/06/2024,Revisão geral,413.6,26819,Speed Motos SP,3
+MT0125,M087,04/06/2024,Troca de óleo,113.4,6591,Oficina Central JP,0
+MT0126,M032,06/06/2024,Kit relação,285.66,1804,Garagem do Zé,2
+MT0127,M115,07/06/2024,Troca de óleo,101.94,1705,Oficina Própria,0
+MT0128,M101,07/06/2024,Troca de óleo,134.34,24226,Speed Motos SP,0
+MT0129,M054,08/06/2024,Revisão geral,343.46,26680,Não informado,3
+MT0130,M009,09/06/2024,Troca de óleo,102.4,23302,Moto Center,0
+MT0131,M093,09/06/2024,Kit relação,230.92,14454,Garagem do Zé,2
+MT0132,M045,12/06/2024,Troca de óleo,100.13,13329,Oficina Própria,0
+MT0133,M064,13/06/2024,Troca de óleo,137.23,23481,Oficina Própria,1
+MT0134,M051,15/06/2024,Troca de pneus,375.87,27894,MotoFix,1
+MT0135,M100,15/06/2024,Elétrica,104.56,18883,Speed Motos SP,2
+MT0136,M049,18/06/2024,Kit relação,182.51,18968,Speed Motos SP,1
+MT0137,M069,21/06/2024,Bateria,262.89,17267,MotoFix,0
+MT0138,M108,23/06/2024,Troca de óleo,81.21,24572,Moto Center,0
+MT0139,M119,24/06/2024,Kit relação,306.82,1693,Garagem do Zé,2
+MT0140,M042,29/06/2024,Troca de óleo,112.66,20111,Moto Center,0
+MT0141,M012,29/06/2024,Revisão geral,261.83,22207,Moto Center,2
+MT0142,M036,29/06/2024,Freios,271.94,18649,Speed Motos SP,1
+MT0143,M006,02/07/2024,Troca de óleo,134.21,16684,Moto Center,0
+MT0144,M052,03/07/2024,Troca de óleo,138.25,26940,MotoFix,0
+MT0145,M019,03/07/2024,Troca de óleo,99.08,11365,Speed Motos SP,1
+MT0146,M066,03/07/2024,Freios,242.24,7812,MotoFix,3
+MT0147,M046,04/07/2024,Troca de pneus,345.78,25123,MotoFix,2
+MT0148,M116,05/07/2024,Elétrica,131.18,1724,Moto Center,2
+MT0149,M044,05/07/2024,Elétrica,487.41,13076,Garagem do Zé,4
+MT0150,M043,07/07/2024,Troca de óleo,113.11,1711,Speed Motos SP,0
+MT0151,M010,09/07/2024,Kit relação,295.64,1622,Oficina Central JP,2
+MT0152,M078,11/07/2024,Freios,155.78,1466,Oficina Própria,3
+MT0153,M112,12/07/2024,Revisão geral,447.28,14053,MotoFix,1
+MT0154,M058,12/07/2024,Kit relação,336.71,25516,MotoFix,1
+MT0155,M041,14/07/2024,Troca de óleo,129.69,17436,Garagem do Zé,0
+MT0156,M094,14/07/2024,Troca de óleo,103.27,8327,Moto Center,1
+MT0157,M013,15/07/2024,Reparo de acidente,1687.07,5452,MotoFix,10
+MT0158,M090,16/07/2024,Freios,292.34,33190,Moto Center,3
+MT0159,M092,16/07/2024,Freios,215.37,1750,Speed Motos SP,2
+MT0160,M089,17/07/2024,Kit relação,217.68,9843,Garagem do Zé,2
+MT0161,M027,17/07/2024,Bateria,268.04,1287,Oficina Própria,1
+MT0162,M029,18/07/2024,Elétrica,127.5,21626,Speed Motos SP,4
+MT0163,M111,18/07/2024,Elétrica,171.1,6700,Oficina Própria,1
+MT0164,M004,18/07/2024,Troca de óleo,143.73,6965,Moto Center,1
+MT0165,M054,20/07/2024,Revisão geral,501.33,30182,Oficina Própria,2
+MT0166,M087,21/07/2024,Bateria,292.67,10112,MotoFix,1
+MT0167,M015,22/07/2024,Troca de pneus,336.02,35351,Garagem do Zé,2
+MT0168,M032,22/07/2024,Troca de óleo,102.29,5953,Moto Center,1
+MT0169,M011,23/07/2024,Troca de óleo,88.35,10680,MotoFix,1
+MT0170,M114,23/07/2024,Troca de óleo,134.91,24225,MotoFix,0
+MT0171,M113,28/07/2024,Revisão geral,496.37,29672,Garagem do Zé,2
+MT0172,M086,29/07/2024,Revisão geral,505.29,13575,Speed Motos SP,3
+MT0173,M101,29/07/2024,Revisão geral,269.41,28616,MotoFix,2
+MT0174,M045,30/07/2024,Freios,253.93,17430,Speed Motos SP,2
+MT0175,M040,31/07/2024,Troca de óleo,97.43,7316,Oficina Central JP,1
+MT0176,M009,01/08/2024,Troca de óleo,82.38,27575,MotoFix,0
+MT0177,M082,01/08/2024,Troca de pneus,643.65,11272,Oficina Própria,2
+MT0178,M100,01/08/2024,Troca de óleo,142.01,22505,Moto Center,1
+MT0179,M076,07/08/2024,Kit relação,337.21,1577,Moto Center,1
+MT0180,M036,08/08/2024,Troca de óleo,104.14,21979,Speed Motos SP,0
+MT0181,M073,10/08/2024,Reparo de acidente,2937.08,18239,MotoFix,12
+MT0182,M039,15/08/2024,Elétrica,364.6,33114,MotoFix,3
+MT0183,M068,15/08/2024,Troca de óleo,134.24,1429,Speed Motos SP,1
+MT0184,M064,17/08/2024,Elétrica,151.17,28163,Speed Motos SP,3
+MT0185,M006,17/08/2024,Troca de pneus,334.9,20855,Garagem do Zé,2
+MT0186,M055,20/08/2024,Revisão geral,554.56,33143,Oficina Central JP,3
+MT0187,M046,21/08/2024,Troca de pneus,504.01,28927,Garagem do Zé,1
+MT0188,M028,21/08/2024,Bateria,290.76,28515,Oficina Central JP,0
+MT0189,M110,21/08/2024,Troca de pneus,424.54,21123,MotoFix,1
+MT0190,M012,21/08/2024,Troca de pneus,567.67,27051,Oficina Central JP,2
+MT0191,M066,22/08/2024,Revisão geral,279.61,11497,Moto Center,3
+MT0192,M058,23/08/2024,Freios,170.18,29470,Speed Motos SP,3
+MT0193,M115,25/08/2024,Troca de pneus,613.34,8442,Oficina Central JP,1
+MT0194,M033,25/08/2024,Freios,321.24,10085,Moto Center,2
+MT0195,M052,27/08/2024,Troca de óleo,141.89,31674,MotoFix,0
+MT0196,M092,28/08/2024,Troca de óleo,104.39,5514,Garagem do Zé,1
+MT0197,M019,29/08/2024,Troca de pneus,633.67,16310,Moto Center,2
+MT0198,M049,29/08/2024,Revisão geral,462.47,24064,Speed Motos SP,3
+MT0199,M116,,Kit relação,195.63,6725,Oficina Central JP,2
+MT0200,M043,02/09/2024,Reparo de acidente,1234.33,6590,Speed Motos SP,9
+MT0201,M093,02/09/2024,Troca de óleo,97.3,22182,Speed Motos SP,0
+MT0202,M094,03/09/2024,Troca de óleo,128.91,12617,Oficina Central JP,1
+MT0203,M042,03/09/2024,Troca de óleo,81.79,26617,MotoFix,0
+MT0204,M105,03/09/2024,Kit relação,238.78,1579,Speed Motos SP,2
 MT0205,M108,05/09/2024,Reparo de acidente,1676.17,30735,Garagem do Zé,7
-MT0671,M098,22/09/2025,Troca de pneus,"R$ 464,63",28790,Garagem do Zé,1
+MT0206,M078,08/09/2024,Bateria,262.47,5793,Oficina Central JP,0
+MT0207,M089,09/09/2024,Troca de óleo,98.04,14589,Garagem do Zé,1
+MT0208,M113,10/09/2024,Kit relação,220.88,33689,Moto Center,1
+MT0209,M112,11/09/2024,Troca de óleo,131.0,19281,Speed Motos SP,0
+MT0210,M101,12/09/2024,Troca de pneus,664.41,32414,Garagem do Zé,2
+MT0211,M044,15/09/2024,Kit relação,350.85,18888,MotoFix,2
+MT0213,M018,16/09/2024,Bateria,245.59,1746,Garagem do Zé,0
+MT0214,M114,20/09/2024,Freios,237.98,29171,Moto Center,3
+MT0215,M015,21/09/2024,Troca de pneus,673.01,40756,Oficina Central JP,2
+MT0216,M013,22/09/2024,Bateria,293.86,11153,Oficina Central JP,0
+MT0217,M069,22/09/2024,Freios,122.48,25140,Garagem do Zé,3
+MT0218,M051,22/09/2024,Elétrica,149.93,36016,Speed Motos SP,2
+MT0219,M119,25/09/2024,Troca de óleo,116.02,9568,Oficina Central JP,0
+MT0220,M029,26/09/2024,Revisão geral,293.04,27150,Oficina Própria,1
+MT0221,M110,30/09/2024,Troca de óleo,115.89,24336,Speed Motos SP,1
+MT0222,M082,01/10/2024,Troca de pneus,635.09,15982,Garagem do Zé,2
+MT0223,M111,03/10/2024,Freios,259.76,12433,Garagem do Zé,2
+MT0224,M058,03/10/2024,Kit relação,216.44,33331,Oficina Própria,1
+MT0225,M073,04/10/2024,Bateria,229.01,23437,Speed Motos SP,1
+MT0226,M010,04/10/2024,Troca de óleo,149.81,8680,Oficina Central JP,0
+MT0227,M087,08/10/2024,Reparo de acidente,1149.6,16029,Oficina Central JP,8
+MT0228,M090,10/10/2024,Kit relação,215.91,40741,Moto Center,1
+MT0229,M077,10/10/2024,Revisão geral,481.87,1909,MotoFix,1
+MT0230,M086,11/10/2024,Troca de óleo,126.18,19974,Oficina Central JP,1
+MT0231,M066,12/10/2024,Troca de óleo,110.81,15255,MotoFix,1
+MT0232,M036,13/10/2024,Freios,324.99,27474,Oficina Central JP,2
+MT0233,M032,15/10/2024,Troca de óleo,112.67,13621,Speed Motos SP,1
+MT0234,M004,16/10/2024,Kit relação,351.61,14801,Oficina Central JP,1
+MT0235,M043,16/10/2024,Troca de pneus,509.56,10356,Garagem do Zé,1
+MT0236,M039,16/10/2024,Revisão geral,405.39,38460,Speed Motos SP,1
+MT0237,M009,17/10/2024,Troca de pneus,301.08,33784,Moto Center,2
+MT0238,M105,17/10/2024,Kit relação,304.42,5054,Speed Motos SP,2
+MT0239,M046,18/10/2024,Freios,237.27,33524,Moto Center,2
+MT0240,M052,20/10/2024,Kit relação,272.22,36322,Oficina Própria,1
+MT0241,M006,21/10/2024,Troca de óleo,96.28,26749,Moto Center,0
+MT0242,M063,21/10/2024,Reparo de acidente,2193.17,1656,Oficina Central JP,10
+MT0243,M041,21/10/2024,Revisão geral,573.64,25319,Moto Center,3
+MT0244,M112,22/10/2024,Freios,212.1,22794,MotoFix,3
+MT0245,M113,22/10/2024,Troca de pneus,313.57,37524,Oficina Própria,2
+MT0246,M094,22/10/2024,Troca de óleo,92.96,16739,Speed Motos SP,0
+MT0247,M027,23/10/2024,Troca de pneus,503.58,7597,Oficina Própria,2
+MT0248,M054,23/10/2024,Troca de pneus,425.0,38103,Garagem do Zé,2
+MT0249,M011,25/10/2024,Troca de óleo,119.1,19261,Não informado,1
+MT0250,M028,,Troca de óleo,81.89,34323,Speed Motos SP,0
+MT0251,M045,30/10/2024,Troca de óleo,136.9,25291,Oficina Própria,0
+MT0252,M012,01/11/2024,Troca de óleo,123.15,33631,MotoFix,0
+MT0253,M071,01/11/2024,Revisão geral,367.77,1661,MotoFix,3
+MT0254,M108,03/11/2024,Não informado,384.03,35650,Oficina Central JP,2
+MT0255,M089,04/11/2024,Troca de óleo,149.75,19510,Moto Center,1
+MT0256,M076,05/11/2024,Kit relação,352.8,8675,Garagem do Zé,2
+MT0257,M068,05/11/2024,Elétrica,425.4,7289,MotoFix,4
+MT0258,M040,06/11/2024,Elétrica,119.75,,Moto Center,3
+MT0259,M033,06/11/2024,Troca de óleo,81.74,16486,Garagem do Zé,1
+MT0260,M100,06/11/2024,Troca de óleo,82.48,29981,Moto Center,0
+MT0261,M015,08/11/2024,Não informado,621.3,45008,MotoFix,1
+MT0262,M055,08/11/2024,Freios,349.47,40387,Não informado,2
+MT0263,M029,09/11/2024,Troca de pneus,539.45,30623,Oficina Central JP,1
+MT0264,M093,10/11/2024,Revisão geral,447.28,28455,Speed Motos SP,3
+MT0265,M115,11/11/2024,Freios,259.36,15094,Garagem do Zé,1
+MT0266,M049,11/11/2024,Revisão geral,508.71,29301,Speed Motos SP,3
+MT0267,M116,12/11/2024,Revisão geral,512.8,12933,Oficina Própria,2
+MT0268,M019,14/11/2024,Troca de óleo,114.94,22991,Garagem do Zé,0
+MT0269,M064,14/11/2024,Troca de óleo,119.13,34574,Garagem do Zé,1
+MT0270,M021,15/11/2024,Troca de óleo,121.0,1656,MotoFix,0
+MT0271,M062,18/11/2024,Revisão geral,424.79,1562,MotoFix,3
+MT0272,M042,19/11/2024,Freios,193.45,34208,Oficina Própria,2
+MT0273,M020,22/11/2024,Kit relação,351.94,1655,MotoFix,1
+MT0274,M013,23/11/2024,Troca de óleo,119.04,,Moto Center,0
+MT0275,M101,23/11/2024,Kit relação,229.89,38492,Garagem do Zé,2
+MT0276,M069,24/11/2024,Troca de óleo,92.65,30472,Oficina Central JP,1
+MT0277,M092,27/11/2024,Freios,229.77,13479,Oficina Central JP,3
+MT0278,M105,30/11/2024,Elétrica,353.72,8529,Speed Motos SP,4
+MT0279,M087,01/12/2024,Troca de pneus,385.5,20074,Speed Motos SP,1
+MT0280,M110,01/12/2024,Troca de óleo,145.04,29316,Oficina Própria,1
+MT0281,M111,02/12/2024,Troca de óleo,144.32,16900,Moto Center,1
+MT0282,M094,03/12/2024,Kit relação,352.94,20272,Moto Center,1
+MT0283,M078,04/12/2024,Troca de óleo,139.48,12172,Moto Center,1
+MT0284,M011,04/12/2024,Revisão geral,262.68,22913,MotoFix,2
+MT0285,M044,04/12/2024,Troca de óleo,149.86,25345,Garagem do Zé,0
+MT0286,M119,05/12/2024,Troca de pneus,597.69,15580,MotoFix,2
+MT0287,M052,05/12/2024,Elétrica,359.0,40282,Speed Motos SP,4
+MT0288,M006,08/12/2024,Revisão geral,275.05,31101,Garagem do Zé,1
+MT0289,M086,08/12/2024,Freios,160.01,24989,Moto Center,3
+MT0290,M043,09/12/2024,Troca de óleo,106.32,14978,Garagem do Zé,1
+MT0291,M054,09/12/2024,Troca de pneus,626.16,42022,Garagem do Zé,2
+MT0292,M109,09/12/2024,Revisão geral,451.5,1838,MotoFix,1
+MT0293,M082,11/12/2024,Revisão geral,272.7,21464,Garagem do Zé,1
+MT0294,M018,12/12/2024,Revisão geral,363.98,9345,Moto Center,1
+MT0295,M108,13/12/2024,Freios,153.98,38982,Speed Motos SP,1
+MT0296,M114,13/12/2024,Troca de óleo,95.6,36213,MotoFix,0
+MT0297,M051,14/12/2024,Troca de pneus,498.84,42825,MotoFix,1
+MT0298,M063,16/12/2024,Troca de óleo,119.25,6295,Moto Center,1
+MT0299,M058,16/12/2024,Elétrica,387.26,40298,Garagem do Zé,2
+MT0300,M055,19/12/2024,Troca de óleo,91.95,44100,MotoFix,1
+MT0301,M016,21/12/2024,Freios,250.94,1608,Oficina Central JP,1
+MT0302,M004,22/12/2024,Reparo de acidente,1255.4,20635,Moto Center,11
+MT0303,M072,23/12/2024,Freios,274.43,1523,Speed Motos SP,1
+MT0304,M015,23/12/2024,Troca de pneus,441.17,48995,Oficina Central JP,2
+MT0305,M120,24/12/2024,Reparo de acidente,2317.47,10975,Speed Motos SP,5
+MT0306,M090,24/12/2024,Troca de óleo,88.68,47326,Speed Motos SP,1
+MT0307,M040,25/12/2024,Revisão geral,322.9,20432,Moto Center,3
+MT0308,M032,25/12/2024,Bateria,185.84,20026,Speed Motos SP,0
+MT0309,M061,26/12/2024,Revisão geral,268.47,1806,Oficina Central JP,1
+MT0310,M096,26/12/2024,Revisão geral,357.44,1703,MotoFix,2
+MT0311,M049,27/12/2024,Troca de óleo,95.79,32557,MotoFix,0
+MT0312,M029,27/12/2024,Troca de óleo,98.67,34412,Moto Center,1
+MT0313,M057,28/12/2024,Troca de óleo,130.29,1602,Oficina Central JP,1
+MT0314,M116,30/12/2024,Troca de pneus,610.01,17072,Oficina Própria,1
+MT0315,M102,30/12/2024,Freios,333.74,1449,MotoFix,1
+MT0316,M068,31/12/2024,Bateria,269.46,11292,MotoFix,1
+MT0317,M073,31/12/2024,Kit relação,277.78,31754,Moto Center,2
+MT0318,M030,01/01/2025,Kit relação,180.48,1633,Speed Motos SP,2
+MT0319,M112,01/01/2025,Revisão geral,482.33,28879,Oficina Própria,2
+MT0320,M066,02/01/2025,Troca de óleo,110.77,21299,Oficina Própria,1
+MT0321,M074,03/01/2025,Kit relação,256.68,1539,Garagem do Zé,2
+MT0322,M010,03/01/2025,Freios,145.03,16062,MotoFix,2
+MT0323,M021,04/01/2025,Troca de óleo,115.45,5796,Oficina Própria,1
+MT0324,M039,05/01/2025,Revisão geral,417.68,45445,Oficina Central JP,1
+MT0325,M064,05/01/2025,Troca de óleo,111.94,38319,Speed Motos SP,0
+MT0326,M098,05/01/2025,Elétrica,372.35,2056,Garagem do Zé,4
+MT0327,M027,06/01/2025,Reparo de acidente,1312.09,12426,Speed Motos SP,10
+MT0328,M076,06/01/2025,Freios,310.43,13564,MotoFix,2
+MT0329,M077,08/01/2025,Troca de óleo,80.67,10504,Garagem do Zé,0
+MT0330,M028,09/01/2025,Revisão geral,449.11,40924,Garagem do Zé,1
+MT0331,M089,10/01/2025,Bateria,260.82,25399,Oficina Central JP,0
+MT0332,M019,10/01/2025,Troca de óleo,138.3,,Speed Motos SP,1
+MT0333,M046,14/01/2025,Troca de óleo,114.94,40498,Garagem do Zé,1
+MT0334,M115,14/01/2025,Troca de óleo,143.93,,Oficina Central JP,0
+MT0335,M078,14/01/2025,Troca de óleo,135.34,15179,MotoFix,0
+MT0336,M081,14/01/2025,Troca de óleo,90.27,1484,Oficina Central JP,1
+MT0337,M092,15/01/2025,Troca de óleo,118.4,17768,Moto Center,1
+MT0338,M094,16/01/2025,Troca de pneus,335.22,23973,Garagem do Zé,1
+MT0339,M044,17/01/2025,Troca de óleo,106.24,28897,Garagem do Zé,0
+MT0340,M009,17/01/2025,Troca de pneus,568.33,41202,Garagem do Zé,1
+MT0341,M113,18/01/2025,Elétrica,159.56,45558,MotoFix,1
+MT0342,M100,19/01/2025,Freios,208.68,35685,Garagem do Zé,1
+MT0343,M036,20/01/2025,Kit relação,224.57,35716,Oficina Própria,2
+MT0344,M041,21/01/2025,Freios,276.86,32644,MotoFix,3
+MT0345,M045,23/01/2025,Troca de óleo,142.0,32554,Moto Center,0
+MT0346,M075,26/01/2025,Kit relação,237.37,1692,MotoFix,1
+MT0347,M052,27/01/2025,Kit relação,309.77,44844,Speed Motos SP,1
+MT0348,M069,29/01/2025,Revisão geral,501.06,36059,Moto Center,1
+MT0349,M062,31/01/2025,Elétrica,301.5,,Oficina Própria,4
+MT0350,M043,01/02/2025,Reparo de acidente,856.29,19601,Speed Motos SP,9
+MT0351,M110,01/02/2025,Troca de óleo,146.17,34296,Oficina Própria,0
+MT0352,M042,02/02/2025,Revisão geral,397.18,41602,Oficina Própria,3
+MT0353,M051,03/02/2025,Revisão geral,424.37,47009,Oficina Própria,3
+MT0354,M093,03/02/2025,Troca de pneus,605.02,,Oficina Central JP,1
+MT0355,M012,04/02/2025,Troca de óleo,149.6,42313,Garagem do Zé,1
+MT0356,M111,04/02/2025,Revisão geral,541.0,21665,Speed Motos SP,2
+MT0357,M060,06/02/2025,Kit relação,258.64,1829,Garagem do Zé,2
+MT0358,M071,06/02/2025,Troca de óleo,98.15,9722,Garagem do Zé,0
+MT0359,M082,06/02/2025,Revisão geral,521.67,25865,Moto Center,3
+MT0360,M006,07/02/2025,Troca de óleo,97.56,36632,MotoFix,0
+MT0361,M119,07/02/2025,Troca de óleo,109.27,20999,Speed Motos SP,1
+MT0362,M105,07/02/2025,Elétrica,427.54,13979,MotoFix,1
+MT0363,M007,08/02/2025,Troca de óleo,117.27,1740,Não informado,0
+MT0364,M083,09/02/2025,Troca de óleo,97.67,1714,Oficina Central JP,1
+MT0365,M011,10/02/2025,Troca de óleo,115.89,29121,Oficina Própria,1
+MT0367,M033,13/02/2025,Troca de óleo,104.03,25168,Moto Center,0
+MT0368,M074,18/02/2025,Kit relação,324.14,5078,Moto Center,2
+MT0369,M087,18/02/2025,Reparo de acidente,2117.28,25992,Speed Motos SP,5
+MT0370,M039,18/02/2025,Freios,316.92,49240,Oficina Própria,1
+MT0371,M032,19/02/2025,Freios,317.75,25078,Oficina Central JP,1
+MT0372,M072,20/02/2025,Revisão geral,491.45,6016,Garagem do Zé,1
+MT0373,M068,20/02/2025,Kit relação,319.2,14936,Não informado,2
+MT0374,M015,21/02/2025,Freios,140.31,54311,MotoFix,2
+MT0375,M109,21/02/2025,Troca de pneus,690.13,8638,MotoFix,1
+MT0376,M117,21/02/2025,Revisão geral,496.56,1567,Oficina Central JP,2
+MT0377,M020,22/02/2025,Troca de óleo,113.73,9269,MotoFix,1
+MT0378,M086,22/02/2025,Revisão geral,312.6,31561,Moto Center,3
+MT0379,M013,23/02/2025,Freios,152.04,23876,Garagem do Zé,2
+MT0380,M027,23/02/2025,Troca de óleo,139.67,15517,Oficina Central JP,0
+MT0381,M092,24/02/2025,Troca de óleo,130.19,21269,Oficina Central JP,1
+MT0382,M055,25/02/2025,Reparo de acidente,2639.87,50258,Oficina Própria,4
+MT0383,M001,25/02/2025,Troca de pneus,420.59,1838,Garagem do Zé,1
+MT0384,M077,26/02/2025,Freios,180.59,15183,Garagem do Zé,2
+MT0385,M114,26/02/2025,Revisão geral,445.25,42500,Oficina Central JP,3
+MT0386,M057,27/02/2025,Troca de óleo,98.42,6489,Garagem do Zé,1
+MT0387,M100,28/02/2025,Bateria,207.52,38768,Speed Motos SP,0
+MT0388,M044,28/02/2025,Troca de óleo,142.96,32287,Moto Center,1
+MT0389,M009,01/03/2025,Troca de óleo,114.94,44669,Garagem do Zé,0
+MT0390,M021,03/03/2025,Troca de óleo,115.03,10598,Moto Center,0
+MT0391,M054,03/03/2025,Revisão geral,443.24,49026,Moto Center,3
+MT0392,M112,05/03/2025,Revisão geral,398.97,34277,MotoFix,3
+MT0393,M028,05/03/2025,Troca de óleo,148.19,45765,Oficina Própria,0
+MT0394,M040,05/03/2025,Freios,316.42,26678,MotoFix,2
+MT0395,M064,06/03/2025,Revisão geral,255.94,42641,Garagem do Zé,1
+MT0396,M116,08/03/2025,Revisão geral,258.86,22935,Speed Motos SP,1
+MT0397,M052,08/03/2025,Elétrica,302.46,48286,Speed Motos SP,3
+MT0398,M061,09/03/2025,Troca de pneus,512.25,8398,Oficina Própria,2
+MT0399,M108,09/03/2025,Troca de óleo,123.6,46145,Moto Center,0
+MT0400,M065,10/03/2025,Troca de óleo,114.94,1792,Moto Center,0
+MT0401,M019,10/03/2025,Troca de pneus,613.38,33055,Moto Center,1
+MT0402,M018,13/03/2025,Freios,213.57,17294,Oficina Própria,3
+MT0403,M058,13/03/2025,Troca de óleo,138.45,48490,Garagem do Zé,0
+MT0404,M102,15/03/2025,Revisão geral,421.34,6883,Speed Motos SP,2
+MT0405,M004,17/03/2025,Troca de pneus,516.04,28036,MotoFix,1
+MT0406,M098,18/03/2025,Troca de óleo,111.35,9459,Oficina Própria,1
+MT0407,M051,18/03/2025,Freios,143.35,50537,Garagem do Zé,3
+MT0408,M029,19/03/2025,Freios,156.36,40884,Oficina Central JP,3
+MT0409,M063,22/03/2025,Troca de pneus,506.28,14246,Speed Motos SP,1
+MT0410,M042,22/03/2025,Kit relação,265.62,46334,Speed Motos SP,2
+MT0411,M120,23/03/2025,Freios,346.82,19184,MotoFix,3
+MT0412,M096,23/03/2025,Troca de óleo,127.37,9114,Speed Motos SP,0
+MT0413,M081,24/03/2025,Revisão geral,511.07,6606,Garagem do Zé,3
+MT0414,M030,26/03/2025,Troca de pneus,609.85,8494,Oficina Própria,2
+MT0415,M094,27/03/2025,Reparo de acidente,1387.7,29861,Speed Motos SP,10
+MT0416,M082,28/03/2025,Troca de óleo,121.14,29725,Oficina Central JP,0
+MT0417,M073,29/03/2025,Revisão geral,465.79,40070,Oficina Própria,1
+MT0418,M016,29/03/2025,Troca de óleo,96.49,9488,MotoFix,1
+MT0419,M037,30/03/2025,Elétrica,148.05,1652,Garagem do Zé,2
+MT0420,M036,30/03/2025,Troca de óleo,95.98,41460,MotoFix,0
+MT0421,M010,30/03/2025,Troca de pneus,375.48,23038,Oficina Própria,1
+MT0422,M045,30/03/2025,Não informado,617.16,38194,Garagem do Zé,2
+MT0423,M049,01/04/2025,Revisão geral,469.73,39281,Oficina Própria,2
+MT0424,M078,01/04/2025,Reparo de acidente,1884.82,20825,Oficina Central JP,5
+MT0425,M090,01/04/2025,Reparo de acidente,1576.53,55931,MotoFix,3
+MT0426,M066,01/04/2025,Freios,259.69,27858,Moto Center,2
+MT0427,M076,04/04/2025,Troca de óleo,119.6,20504,Oficina Central JP,1
+MT0428,M039,04/04/2025,Elétrica,134.37,53120,Moto Center,3
+MT0429,M062,06/04/2025,Freios,240.87,12418,Moto Center,3
+MT0430,M101,06/04/2025,Troca de óleo,130.63,49803,Moto Center,1
+MT0431,M012,08/04/2025,Troca de pneus,337.75,48071,Speed Motos SP,2
+MT0432,M084,09/04/2025,Revisão geral,563.41,1525,Oficina Própria,3
+MT0433,M105,09/04/2025,Troca de óleo,146.36,,Oficina Própria,0
+MT0434,M089,10/04/2025,Troca de pneus,363.13,33309,Oficina Própria,1
+MT0435,M074,12/04/2025,Elétrica,309.06,9157,Garagem do Zé,1
+MT0436,M008,13/04/2025,Troca de óleo,97.88,1328,Oficina Central JP,0
+MT0437,M115,15/04/2025,Troca de pneus,454.16,28312,Oficina Própria,2
+MT0438,M086,15/04/2025,Troca de pneus,532.64,36057,Speed Motos SP,2
+MT0439,M060,15/04/2025,Revisão geral,420.06,8051,Moto Center,3
+MT0440,M075,15/04/2025,Troca de óleo,83.47,8375,Speed Motos SP,1
+MT0441,M069,16/04/2025,Revisão geral,267.36,42577,Oficina Própria,1
+MT0442,M072,16/04/2025,Troca de óleo,121.77,10204,Speed Motos SP,0
+MT0443,M006,,Troca de pneus,670.92,42889,Moto Center,2
+MT0444,M056,18/04/2025,Kit relação,221.15,2019,Moto Center,1
+MT0445,M109,20/04/2025,Troca de pneus,307.35,13968,Moto Center,2
+MT0446,M019,20/04/2025,Reparo de acidente,1539.46,36612,Oficina Central JP,7
+MT0447,M046,21/04/2025,Troca de óleo,100.26,48186,Speed Motos SP,1
+MT0448,M114,21/04/2025,Kit relação,215.46,47026,Speed Motos SP,1
+MT0449,M068,21/04/2025,Troca de óleo,91.49,19225,Speed Motos SP,1
+MT0450,M119,23/04/2025,Troca de pneus,421.69,27350,Oficina Própria,2
+MT0451,M113,23/04/2025,Troca de óleo,104.81,54232,Oficina Própria,0
+MT0452,M014,24/04/2025,Troca de óleo,129.06,1697,Speed Motos SP,0
+MT0453,M093,24/04/2025,Troca de pneus,334.08,43455,Speed Motos SP,2
+MT0454,M018,25/04/2025,Troca de óleo,105.77,21050,Moto Center,1
+MT0455,M083,26/04/2025,Troca de óleo,116.11,8227,Garagem do Zé,0
+MT0456,M043,27/04/2025,Troca de óleo,115.77,26876,Oficina Própria,0
+MT0457,M041,27/04/2025,Kit relação,366.44,40287,Speed Motos SP,1
+MT0458,M007,27/04/2025,Freios,327.01,,MotoFix,2
+MT0459,M033,28/04/2025,Troca de pneus,366.96,31658,Garagem do Zé,2
+MT0460,M061,28/04/2025,Troca de óleo,109.13,12913,Moto Center,0
+MT0461,M110,01/05/2025,Bateria,193.16,41444,Garagem do Zé,1
+MT0462,M111,02/05/2025,Troca de óleo,83.59,28142,Speed Motos SP,0
+MT0463,M004,02/05/2025,Troca de óleo,109.59,32041,MotoFix,1
+MT0464,M077,03/05/2025,Freios,309.62,21486,Moto Center,1
+MT0465,M052,03/05/2025,Troca de óleo,99.73,53107,MotoFix,0
+MT0466,M108,04/05/2025,Freios,245.57,50809,Speed Motos SP,2
+MT0467,M048,06/05/2025,Kit relação,207.54,1568,Speed Motos SP,2
+MT0468,M117,06/05/2025,Freios,146.64,7367,Oficina Própria,3
+MT0469,M096,06/05/2025,Troca de óleo,96.31,12862,Garagem do Zé,0
+MT0470,M071,07/05/2025,Elétrica,470.94,17200,Garagem do Zé,1
+MT0471,M064,07/05/2025,Revisão geral,457.46,47107,Moto Center,2
+MT0472,M044,09/05/2025,Reparo de acidente,3146.1,37937,Garagem do Zé,7
+MT0473,M015,09/05/2025,Kit relação,186.57,61134,Speed Motos SP,1
+MT0474,M020,11/05/2025,Troca de pneus,454.33,15725,Oficina Própria,2
+MT0475,M078,12/05/2025,Revisão geral,495.98,23832,MotoFix,2
+MT0476,M010,12/05/2025,Reparo de acidente,2270.74,26527,MotoFix,3
+MT0477,M001,12/05/2025,Kit relação,376.44,8823,Speed Motos SP,1
+MT0478,M030,13/05/2025,Freios,190.06,12415,Garagem do Zé,3
+MT0479,M037,15/05/2025,Revisão geral,455.47,5453,MotoFix,2
+MT0480,M080,16/05/2025,Troca de óleo,100.81,1710,Moto Center,1
+MT0481,M011,17/05/2025,Revisão geral,584.08,37884,Moto Center,3
+MT0482,M055,18/05/2025,Kit relação,342.05,57683,MotoFix,2
+MT0483,M049,18/05/2025,Troca de pneus,408.96,42607,Oficina Central JP,1
+MT0484,M045,18/05/2025,Troca de óleo,145.55,42380,Speed Motos SP,1
+MT0485,M092,19/05/2025,Revisão geral,447.28,28622,Moto Center,2
+MT0486,M027,19/05/2025,Troca de pneus,576.49,20990,Speed Motos SP,1
+MT0487,M063,19/05/2025,Troca de óleo,97.57,19051,Oficina Central JP,0
+MT0488,M073,21/05/2025,Reparo de acidente,2705.59,45079,Oficina Central JP,8
+MT0489,M087,21/05/2025,Troca de óleo,134.41,32883,Oficina Central JP,0
+MT0490,M025,22/05/2025,Troca de óleo,119.87,1374,Oficina Própria,1
+MT0491,M100,23/05/2025,Bateria,207.09,45242,Moto Center,0
+MT0492,M036,24/05/2025,Freios,338.85,46039,Oficina Central JP,2
+MT0493,M008,24/05/2025,Troca de óleo,109.71,4050,MotoFix,0
+MT0494,M028,24/05/2025,Troca de pneus,328.0,52805,MotoFix,1
+MT0495,M032,24/05/2025,Troca de óleo,92.65,33557,Speed Motos SP,1
+MT0496,M074,25/05/2025,Revisão geral,571.0,12465,Oficina Própria,2
+MT0497,M089,26/05/2025,Troca de óleo,98.29,37352,Speed Motos SP,0
+MT0498,M039,27/05/2025,Revisão geral,573.22,57691,Oficina Própria,3
+MT0499,M103,27/05/2025,Kit relação,385.74,1649,Speed Motos SP,1
+MT0500,M112,27/05/2025,Elétrica,100.15,41390,Oficina Própria,2
+MT0501,M065,28/05/2025,Troca de pneus,545.41,8871,Moto Center,2
+MT0502,M012,28/05/2025,Kit relação,194.77,52640,Moto Center,1
+MT0503,M013,30/05/2025,Freios,203.09,31808,Garagem do Zé,2
+MT0504,M054,30/05/2025,Não informado,89.26,56363,Garagem do Zé,1
+MT0505,M114,01/06/2025,Bateria,217.73,50463,Garagem do Zé,1
+MT0506,M040,01/06/2025,Troca de óleo,85.47,34530,Garagem do Zé,1
+MT0507,M069,02/06/2025,Revisão geral,528.76,46555,Garagem do Zé,2
+MT0508,M102,02/06/2025,Kit relação,285.66,12608,MotoFix,1
+MT0509,M057,03/06/2025,Kit relação,355.35,14180,MotoFix,2
+MT0510,M120,03/06/2025,Troca de pneus,317.52,25824,Garagem do Zé,1
+MT0511,M042,03/06/2025,Troca de óleo,129.04,53530,Garagem do Zé,0
+MT0512,M081,04/06/2025,Troca de pneus,319.93,11951,Speed Motos SP,1
+MT0513,M062,04/06/2025,Troca de óleo,84.9,17026,Moto Center,0
+MT0514,M029,05/06/2025,Kit relação,292.78,47040,Oficina Central JP,1
+MT0515,M009,05/06/2025,Revisão geral,399.33,52410,Oficina Central JP,3
+MT0516,M006,07/06/2025,Kit relação,189.61,47514,Não informado,1
+MT0517,M021,07/06/2025,Revisão geral,440.06,18548,Garagem do Zé,2
+MT0518,M116,09/06/2025,Troca de pneus,569.28,30954,Garagem do Zé,1
+MT0519,M031,09/06/2025,Troca de pneus,575.79,1791,Garagem do Zé,2
+MT0520,M082,10/06/2025,Troca de óleo,138.36,35439,MotoFix,1
+MT0521,M051,11/06/2025,Troca de óleo,124.95,57510,Speed Motos SP,1
+MT0522,M119,13/06/2025,Reparo de acidente,2867.98,31669,Oficina Central JP,8
+MT0523,M086,14/06/2025,Revisão geral,531.2,41245,Oficina Própria,3
+MT0524,M024,15/06/2025,Kit relação,234.54,1597,Moto Center,2
+MT0525,M068,16/06/2025,Troca de pneus,561.0,23227,Oficina Própria,1
+MT0526,M043,17/06/2025,Troca de pneus,487.8,31241,MotoFix,2
+MT0527,M058,18/06/2025,Troca de pneus,542.49,57623,MotoFix,2
+MT0528,M026,20/06/2025,Troca de pneus,668.94,1887,MotoFix,2
+MT0529,M091,20/06/2025,Freios,309.54,2046,Garagem do Zé,3
+MT0530,M098,20/06/2025,Troca de óleo,123.26,19124,Oficina Própria,0
+MT0531,M094,21/06/2025,Revisão geral,524.6,37095,Oficina Central JP,2
+MT0532,M052,21/06/2025,Freios,220.83,57324,Oficina Própria,1
+MT0533,M064,22/06/2025,Troca de pneus,314.03,50420,Moto Center,2
+MT0534,M066,22/06/2025,Troca de óleo,91.78,33902,Oficina Central JP,0
+MT0535,M076,24/06/2025,Troca de pneus,301.14,26892,Oficina Central JP,2
+MT0536,M101,24/06/2025,Freios,237.16,56472,Oficina Própria,1
+MT0537,M093,24/06/2025,Troca de óleo,85.91,,Garagem do Zé,0
+MT0538,M071,25/06/2025,Revisão geral,507.42,21272,Speed Motos SP,2
+MT0539,M090,25/06/2025,Troca de óleo,90.04,63395,Garagem do Zé,1
+MT0540,M048,26/06/2025,Troca de pneus,338.75,5569,Oficina Central JP,2
+MT0541,M080,27/06/2025,Troca de pneus,596.37,5301,Oficina Central JP,1
+MT0542,M113,27/06/2025,Troca de óleo,126.54,60166,Speed Motos SP,1
+MT0543,M105,28/06/2025,Troca de pneus,683.95,25116,Oficina Própria,1
+MT0544,M063,29/06/2025,Troca de óleo,125.06,22447,Speed Motos SP,0
+MT0545,M019,30/06/2025,Troca de óleo,87.82,42772,Oficina Central JP,0
+MT0546,M060,01/07/2025,Troca de óleo,114.62,15097,Speed Motos SP,0
+MT0547,M016,01/07/2025,Kit relação,218.07,17046,Oficina Própria,2
+MT0548,M044,01/07/2025,Troca de óleo,149.51,42215,Garagem do Zé,1
+MT0549,M010,02/07/2025,Revisão geral,324.19,30664,Speed Motos SP,2
+MT0550,M033,02/07/2025,Troca de pneus,649.77,37358,Garagem do Zé,2
+MT0551,M108,02/07/2025,Freios,240.62,55724,Moto Center,2
+MT0552,M075,03/07/2025,Kit relação,264.38,15059,Oficina Central JP,2
+MT0553,M020,03/07/2025,Elétrica,393.65,20111,Speed Motos SP,3
+MT0554,M088,26/09/2027,Bateria,287.75,1251,MotoFix,1
+MT0555,M115,05/07/2025,Troca de óleo,123.47,35219,Oficina Central JP,1
+MT0556,M056,05/07/2025,Troca de óleo,147.01,9897,Speed Motos SP,0
+MT0557,M072,07/07/2025,Revisão geral,437.72,16449,Speed Motos SP,3
+MT0558,M084,09/07/2025,Freios,223.98,8468,Garagem do Zé,2
+MT0559,M078,10/07/2025,Elétrica,310.44,28158,MotoFix,2
+MT0560,M073,10/07/2025,Troca de pneus,612.48,49805,Speed Motos SP,2
+MT0561,M110,11/07/2025,Bateria,188.42,47147,Garagem do Zé,0
+MT0562,M049,11/07/2025,Troca de óleo,107.18,,Oficina Própria,1
+MT0563,M111,12/07/2025,Troca de óleo,107.7,33428,Speed Motos SP,1
+MT0564,M109,12/07/2025,Revisão geral,484.51,21596,Oficina Central JP,1
+MT0565,M046,13/07/2025,Revisão geral,477.34,54764,Speed Motos SP,1
+MT0566,M038,13/07/2025,Elétrica,396.77,1704,Oficina Própria,3
+MT0567,M041,14/07/2025,Freios,178.1,46498,Moto Center,1
+MT0568,M112,15/07/2025,Troca de pneus,567.86,45589,MotoFix,1
+MT0569,M001,16/07/2025,Troca de óleo,139.78,14797,Moto Center,1
+MT0570,M069,,Bateria,181.88,50280,MotoFix,0
+MT0571,M114,18/07/2025,Freios,143.38,54403,Oficina Central JP,3
+MT0572,M083,18/07/2025,Revisão geral,573.73,15341,Oficina Própria,1
+MT0573,M061,19/07/2025,Troca de óleo,142.01,20318,Garagem do Zé,0
+MT0575,M074,22/07/2025,Elétrica,396.95,16929,Garagem do Zé,3
+MT0576,M006,23/07/2025,Troca de óleo,124.57,51685,Garagem do Zé,1
+MT0577,M032,23/07/2025,Kit relação,343.36,38970,Garagem do Zé,1
+MT0578,M086,24/07/2025,Freios,244.93,44704,MotoFix,1
+MT0579,M008,24/07/2025,Revisão geral,545.32,8101,Oficina Central JP,3
+MT0580,M037,24/07/2025,Reparo de acidente,2139.56,11236,MotoFix,12
+MT0581,M012,24/07/2025,Kit relação,267.12,57849,Moto Center,1
+MT0582,M062,25/07/2025,Troca de óleo,130.97,21009,Speed Motos SP,1
+MT0583,M077,25/07/2025,Elétrica,263.82,29412,Speed Motos SP,4
+MT0584,M004,27/07/2025,Troca de pneus,325.7,39529,Moto Center,1
+MT0585,M095,27/07/2025,Kit relação,253.71,1942,MotoFix,2
+MT0586,M087,29/07/2025,Troca de óleo,140.21,38052,Moto Center,0
+MT0587,M025,29/07/2025,Revisão geral,250.51,6048,Oficina Própria,3
+MT0588,M053,30/07/2025,Troca de pneus,611.85,1768,Speed Motos SP,1
+MT0589,M055,30/07/2025,Revisão geral,288.46,64294,Garagem do Zé,2
+MT0590,M015,31/07/2025,Revisão geral,271.76,68488,Speed Motos SP,2
+MT0591,M018,01/08/2025,Troca de óleo,85.67,29610,MotoFix,0
+MT0592,M014,01/08/2025,Troca de óleo,98.05,10099,MotoFix,1
+MT0593,M039,02/08/2025,Troca de óleo,116.44,63468,MotoFix,1
+MT0594,M040,02/08/2025,Bateria,242.44,40062,MotoFix,1
+MT0595,M045,02/08/2025,Troca de óleo,121.65,48874,Speed Motos SP,0
+MT0596,M081,02/08/2025,Troca de óleo,96.73,16330,Oficina Própria,1
+MT0597,M050,04/08/2025,Troca de óleo,135.43,1647,MotoFix,0
+MT0598,M102,04/08/2025,Troca de pneus,436.68,17173,Speed Motos SP,1
+MT0599,M089,05/08/2025,Troca de pneus,417.76,43592,Moto Center,1
+MT0600,M099,05/08/2025,Troca de pneus,678.64,1844,Oficina Central JP,1
+MT0601,M035,07/08/2025,Troca de pneus,685.38,1935,MotoFix,1
+MT0602,M031,07/08/2025,Revisão geral,463.63,7076,Garagem do Zé,1
+MT0603,M026,07/08/2025,Kit relação,226.92,6416,Oficina Central JP,1
+MT0604,M028,07/08/2025,Reparo de acidente,3035.06,59406,Oficina Própria,6
+MT0605,M042,07/08/2025,Troca de óleo,145.34,59938,MotoFix,1
+MT0606,M096,08/08/2025,Kit relação,326.61,20869,Speed Motos SP,1
+MT0607,M117,08/08/2025,Elétrica,135.17,14734,MotoFix,1
+MT0608,M048,09/08/2025,Bateria,198.5,9021,Speed Motos SP,1
+MT0609,M063,10/08/2025,Troca de óleo,99.16,,MotoFix,2
+MT0610,M082,11/08/2025,Reparo de acidente,2053.68,,Speed Motos SP,12
+MT0611,M027,11/08/2025,Revisão geral,301.13,26399,Garagem do Zé,2
+MT0612,M013,12/08/2025,Troca de pneus,694.83,37922,MotoFix,1
+MT0613,M011,13/08/2025,Troca de pneus,632.12,45918,Moto Center,1
+MT0614,M043,14/08/2025,Revisão geral,288.74,36206,MotoFix,2
+MT0615,M068,14/08/2025,Revisão geral,532.55,27443,Moto Center,1
+MT0616,M030,14/08/2025,Troca de óleo,104.59,20012,Speed Motos SP,1
+MT0617,M052,14/08/2025,Revisão geral,421.68,61972,Oficina Própria,1
+MT0618,M033,15/08/2025,Troca de pneus,369.45,41217,Moto Center,1
+MT0619,M092,15/08/2025,Troca de óleo,137.83,36324,Speed Motos SP,1
+MT0620,M021,15/08/2025,Troca de óleo,99.53,24261,Oficina Própria,1
+MT0621,M060,17/08/2025,Kit relação,397.07,19397,Oficina Própria,2
+MT0622,M090,17/08/2025,Bateria,206.3,68048,Moto Center,0
+MT0623,M076,17/08/2025,Troca de pneus,422.77,31151,Garagem do Zé,2
+MT0624,M075,18/08/2025,Troca de óleo,138.14,18950,MotoFix,1
 MT0625,M020,18/08/2025,Troca de óleo,110.26,23918,Oficina Central JP,1
-MT0412,M096,2025-03-23,Troca de óleo,"127,37",9114,Speed Motos SP,0
-MT0741,M054,31/10/2025,Troca de óleo,"140,24",69203,Oficina Central JP,0
-MT1033,M096,25/04/26,Freios,276.74,43016,Oficina Central JP,2
-MT0074,M054,2024-03-10,Troca de pneus,482.71,19176,Garagem do Zé,2
-MT1143,M077,24/06/2026,Elétrica,166.58,61307,Oficina Própria,2
+MT0626,M057,18/08/2025,Revisão geral,586.77,20269,Speed Motos SP,1
+MT0627,M064,20/08/2025,Freios,263.52,54670,MotoFix,1
+MT0628,M070,21/08/2025,Freios,229.73,1705,MotoFix,2
+MT0629,M103,21/08/2025,Troca de óleo,136.2,8740,Oficina Central JP,1
+MT0630,M078,22/08/2025,Troca de óleo,114.94,31312,Speed Motos SP,1
+MT0631,M051,23/08/2025,Troca de óleo,139.1,63500,Speed Motos SP,1
+MT0632,M094,23/08/2025,Kit relação,333.16,42395,Oficina Própria,1
+MT0633,M023,23/08/2025,Revisão geral,442.91,1717,MotoFix,2
+MT0634,M054,23/08/2025,Reparo de acidente,2337.02,63450,Oficina Central JP,6
+MT0635,M100,24/08/2025,Troca de óleo,82.49,52410,Garagem do Zé,1
+MT0636,M038,24/08/2025,Troca de óleo,111.14,5285,Oficina Central JP,0
+MT0637,M066,24/08/2025,Troca de óleo,125.58,38545,Garagem do Zé,0
+MT0638,M091,25/08/2025,Elétrica,327.0,8801,Speed Motos SP,3
+MT0639,M109,25/08/2025,Kit relação,357.27,25640,Oficina Própria,2
+MT0640,M036,26/08/2025,Freios,315.85,53865,Oficina Própria,2
+MT0641,M119,27/08/2025,Troca de óleo,119.47,38020,Não informado,0
+MT0642,M029,27/08/2025,Troca de óleo,131.87,53591,Speed Motos SP,1
+MT0643,M069,27/08/2025,Bateria,227.24,53835,MotoFix,1
+MT0644,M073,28/08/2025,Bateria,157.62,54436,Garagem do Zé,1
+MT0645,M016,28/08/2025,Troca de óleo,130.51,21710,Oficina Central JP,0
+MT0646,M019,28/08/2025,Elétrica,306.17,47891,Speed Motos SP,2
+MT0647,M120,30/08/2025,Reparo de acidente,1979.31,33941,Speed Motos SP,12
+MT0648,M065,30/08/2025,Troca de pneus,561.49,17294,Moto Center,2
+MT0649,M101,01/09/2025,Troca de óleo,118.0,62296,Speed Motos SP,1
+MT0650,M105,02/09/2025,Revisão geral,296.15,30328,Garagem do Zé,1
+MT0651,M009,03/09/2025,Troca de pneus,671.76,59667,Garagem do Zé,1
+MT0652,M106,05/09/2025,Freios,227.82,1856,Garagem do Zé,1
+MT0653,M010,06/09/2025,Revisão geral,530.5,36018,Não informado,1
+MT0654,M006,09/09/2025,Kit relação,310.14,56037,Garagem do Zé,2
+MT0655,M007,09/09/2025,Bateria,185.19,20276,Oficina Própria,1
+MT0656,M024,10/09/2025,Troca de óleo,145.74,8545,Moto Center,0
+MT0657,M037,11/09/2025,Troca de pneus,680.05,15285,Garagem do Zé,1
+MT0658,M116,14/09/2025,Troca de óleo,118.11,39318,Oficina Própria,1
+MT0659,M102,15/09/2025,Troca de óleo,109.76,20216,MotoFix,0
+MT0660,M115,15/09/2025,Reparo de acidente,2927.37,41359,Oficina Central JP,12
+MT0661,M044,15/09/2025,Bateria,297.7,48350,Speed Motos SP,0
+MT0662,M040,17/09/2025,Kit relação,330.25,44166,Garagem do Zé,2
+MT0663,M086,17/09/2025,Reparo de acidente,1604.87,49460,Oficina Própria,4
+MT0664,M041,17/09/2025,Bateria,244.66,51673,Speed Motos SP,1
+MT0665,M099,18/09/2025,Revisão geral,348.22,5903,Oficina Própria,3
+MT0666,M093,19/09/2025,Freios,177.89,56910,MotoFix,2
+MT0667,M058,20/09/2025,Elétrica,107.06,66473,Garagem do Zé,1
+MT0668,M113,20/09/2025,Revisão geral,526.25,67927,Moto Center,1
+MT0669,M118,20/09/2025,Troca de óleo,81.21,2051,Oficina Própria,1
+MT0670,M004,22/09/2025,Revisão geral,587.01,44492,Speed Motos SP,1
+MT0671,M098,22/09/2025,Troca de pneus,464.63,28790,Garagem do Zé,1
+MT0672,M071,22/09/2025,Troca de óleo,115.02,28667,Moto Center,0
+MT0673,M117,22/09/2025,Troca de pneus,509.62,18261,Garagem do Zé,2
+MT0674,M082,23/09/2025,Freios,134.64,43546,Garagem do Zé,1
+MT0675,M108,23/09/2025,Troca de pneus,620.83,62637,Oficina Própria,2
+MT0676,M084,23/09/2025,Troca de óleo,114.83,14267,Speed Motos SP,1
+MT0677,M013,24/09/2025,Troca de óleo,116.29,41474,MotoFix,0
+MT0678,M111,24/09/2025,Freios,218.06,38938,Oficina Central JP,2
+MT0679,M085,25/09/2025,Troca de pneus,683.75,1835,Oficina Própria,1
+MT0680,M080,27/09/2025,Troca de pneus,339.67,13167,Oficina Própria,2
+MT0681,M092,29/09/2025,Troca de óleo,130.83,40263,Oficina Central JP,0
+MT0682,M088,29/09/2025,Troca de óleo,107.19,6697,Garagem do Zé,0
+MT0683,M033,29/09/2025,Freios,259.43,45163,Oficina Própria,1
+MT0684,M061,29/09/2025,Troca de pneus,410.23,26820,Oficina Central JP,2
+MT0685,M008,29/09/2025,Freios,304.81,12549,Oficina Própria,1
+MT0686,M112,30/09/2025,Reparo de acidente,1550.17,52188,Moto Center,8
+MT0687,M048,30/09/2025,Reparo de acidente,3245.93,13100,Oficina Central JP,6
+MT0688,M003,02/10/2025,Freios,238.56,1529,Moto Center,3
+MT0689,M055,02/10/2025,Troca de pneus,515.86,70089,Oficina Central JP,1
+MT0690,M053,02/10/2025,Freios,182.23,7428,Garagem do Zé,1
+MT0691,M103,03/10/2025,Kit relação,269.15,12286,Oficina Própria,1
+MT0692,M074,03/10/2025,Troca de óleo,140.51,22546,Moto Center,1
+MT0693,M072,03/10/2025,Troca de óleo,94.7,23150,Garagem do Zé,1
+MT0694,M020,04/10/2025,Troca de óleo,85.69,27808,Moto Center,0
+MT0695,M049,04/10/2025,Troca de óleo,133.52,52445,MotoFix,1
+MT0696,M077,06/10/2025,Troca de óleo,129.71,36383,Oficina Central JP,1
+MT0697,M051,06/10/2025,Troca de óleo,137.58,67109,MotoFix,0
+MT0698,M045,07/10/2025,Troca de óleo,85.29,54514,Moto Center,1
+MT0699,M052,08/10/2025,Troca de óleo,111.56,66706,MotoFix,0
+MT0700,M090,08/10/2025,Troca de óleo,142.59,72614,Oficina Própria,0
+MT0701,M120,10/10/2025,Revisão geral,447.28,37722,Não informado,3
+MT0702,M056,10/10/2025,Troca de óleo,93.79,19693,Oficina Central JP,0
+MT0703,M042,10/10/2025,Troca de pneus,550.08,66248,Speed Motos SP,1
+MT0704,M069,10/10/2025,Troca de pneus,604.7,57559,MotoFix,1
+MT0705,M026,11/10/2025,Troca de pneus,416.34,,Oficina Central JP,1
+MT0706,M065,12/10/2025,Reparo de acidente,2281.38,21147,Garagem do Zé,9
+MT0707,M043,13/10/2025,Troca de óleo,87.17,41341,Oficina Própria,1
+MT0708,M076,13/10/2025,Troca de óleo,81.2,35646,Oficina Própria,0
+MT0709,M114,13/10/2025,Troca de óleo,85.82,61696,Garagem do Zé,0
+MT0710,M081,14/10/2025,Elétrica,146.55,21749,Moto Center,2
+MT0711,M068,14/10/2025,Troca de óleo,118.15,31803,Speed Motos SP,0
+MT0712,M001,15/10/2025,Revisão geral,322.54,23161,Moto Center,3
+MT0713,M110,15/10/2025,Bateria,209.02,54858,Moto Center,0
+MT0714,M023,16/10/2025,Kit relação,288.23,6355,Não informado,2
+MT0715,M046,16/10/2025,Troca de óleo,127.57,62293,Moto Center,1
+MT0716,M032,17/10/2025,Revisão geral,323.68,46728,Speed Motos SP,3
+MT0717,M087,18/10/2025,Kit relação,337.94,44119,Speed Motos SP,1
+MT0718,M030,18/10/2025,Troca de pneus,532.51,25321,Oficina Central JP,2
+MT0719,M005,19/10/2025,Troca de óleo,104.44,1602,Moto Center,0
+MT0720,M035,20/10/2025,Troca de óleo,114.1,9096,Garagem do Zé,1
+MT0721,M050,20/10/2025,Kit relação,331.19,7990,Garagem do Zé,1
+MT0722,M105,20/10/2025,Troca de pneus,327.81,34119,Oficina Central JP,2
+MT0723,M014,20/10/2025,Kit relação,396.14,16889,Speed Motos SP,2
+MT0724,M006,21/10/2025,Revisão geral,496.92,59845,Oficina Central JP,2
+MT0725,M036,22/10/2025,Freios,332.82,58611,Oficina Própria,3
+MT0726,M097,22/10/2025,Troca de pneus,346.22,2262,Moto Center,1
+MT0727,M083,23/10/2025,Revisão geral,569.99,23654,Oficina Central JP,3
+MT0728,M063,24/10/2025,Elétrica,221.89,32138,Moto Center,2
+MT0729,M091,05/08/2027,Freios,247.93,14941,Speed Motos SP,1
+MT0730,M027,25/10/2025,Troca de óleo,95.89,31228,MotoFix,1
+MT0731,M102,25/10/2025,Kit relação,339.16,23115,Moto Center,1
+MT0732,M062,10/06/2027,Freios,305.17,28194,Speed Motos SP,2
+MT0733,M012,26/10/2025,Reparo de acidente,1691.89,66440,Speed Motos SP,10
+MT0734,M109,28/10/2025,Troca de óleo,111.42,31521,Oficina Própria,0
+MT0735,M096,29/10/2025,Freios,310.08,27854,MotoFix,2
+MT0736,M095,30/10/2025,Reparo de acidente,2517.39,11171,Speed Motos SP,3
+MT0737,M038,30/10/2025,Reparo de acidente,1195.86,10996,Garagem do Zé,11
+MT0738,M089,30/10/2025,Troca de óleo,123.51,,Moto Center,1
+MT0739,M101,31/10/2025,Revisão geral,541.29,67361,Moto Center,2
+MT0740,M070,31/10/2025,Troca de óleo,134.83,7760,MotoFix,0
+MT0741,M054,31/10/2025,Troca de óleo,140.24,69203,Oficina Central JP,0
+MT0742,M075,31/10/2025,Revisão geral,268.1,25211,Oficina Própria,2
+MT0743,M060,01/11/2025,Troca de óleo,103.28,26351,Garagem do Zé,0
+MT0744,M015,01/11/2025,Reparo de acidente,1683.07,76727,Garagem do Zé,12
+MT0745,M034,02/11/2025,Bateria,206.53,1796,MotoFix,0
+MT0746,M025,02/11/2025,Troca de óleo,107.01,12647,Moto Center,1
+MT0747,M093,02/11/2025,Troca de pneus,456.25,60910,MotoFix,2
+MT0748,M116,03/11/2025,Troca de pneus,467.42,43630,Moto Center,2
+MT0749,M011,03/11/2025,Kit relação,237.4,53404,Moto Center,2
+MT0750,M016,03/11/2025,Freios,177.89,27098,Moto Center,1
+MT0751,M066,04/11/2025,Bateria,270.29,43851,Garagem do Zé,0
+MT0752,M119,05/11/2025,Troca de óleo,107.97,43947,MotoFix,1
+MT0753,M018,06/11/2025,Revisão geral,487.33,38082,MotoFix,2
+MT0754,M028,06/11/2025,Não informado,339.48,67415,Oficina Central JP,1
+MT0755,M039,08/11/2025,Revisão geral,275.88,71919,Speed Motos SP,1
+MT0756,M029,09/11/2025,Troca de óleo,132.41,59432,Moto Center,0
+MT0757,M092,10/11/2025,Troca de óleo,139.12,43939,Speed Motos SP,1
+MT0758,M031,10/11/2025,Kit relação,373.55,15586,Speed Motos SP,1
+MT0759,M079,12/11/2025,Bateria,160.64,,Speed Motos SP,1
+MT0760,M048,13/11/2025,Elétrica,235.21,16551,MotoFix,3
+MT0761,M037,13/11/2025,Troca de óleo,147.72,20490,Garagem do Zé,1
+MT0762,M117,13/11/2025,Troca de pneus,381.48,22337,Garagem do Zé,2
+MT0763,M073,14/11/2025,Troca de pneus,559.27,61807,Oficina Própria,1
+MT0765,M044,16/11/2025,Kit relação,280.02,53354,MotoFix,1
+MT0766,M115,17/11/2025,Elétrica,374.72,46732,Speed Motos SP,1
+MT0767,M045,18/11/2025,Troca de óleo,90.55,58102,Oficina Central JP,0
+MT0768,M057,18/11/2025,Troca de óleo,122.55,27639,Speed Motos SP,1
+MT0769,M072,19/11/2025,Troca de óleo,130.45,26729,Speed Motos SP,1
+MT0770,M071,19/11/2025,Troca de óleo,103.77,,Garagem do Zé,0
+MT0771,M111,19/11/2025,Troca de óleo,90.38,43107,Moto Center,0
+MT0772,M080,20/11/2025,Troca de óleo,114.21,17784,MotoFix,1
+MT0773,M052,20/11/2025,Revisão geral,579.15,70407,Garagem do Zé,2
+MT0774,M078,20/11/2025,Revisão geral,311.79,37911,Oficina Central JP,2
+MT0775,M100,21/11/2025,Bateria,247.1,59269,MotoFix,1
+MT0776,M084,21/11/2025,Kit relação,238.81,18768,Garagem do Zé,2
+MT0777,M021,22/11/2025,Troca de óleo,86.36,32459,MotoFix,1
+MT0778,M024,22/11/2025,Revisão geral,561.89,14375,Oficina Central JP,1
+MT0779,M019,24/11/2025,Troca de óleo,123.68,55526,Garagem do Zé,0
+MT0780,M064,24/11/2025,Troca de pneus,464.57,61585,Garagem do Zé,1
+MT0781,M088,25/11/2025,Kit relação,207.42,10266,Moto Center,2
+MT0782,M001,26/11/2025,Kit relação,195.68,27022,Speed Motos SP,1
+MT0783,M040,28/11/2025,Troca de óleo,122.64,50590,Speed Motos SP,1
+MT0784,M082,28/11/2025,Troca de óleo,135.52,48642,Oficina Própria,1
+MT0785,M026,28/11/2025,Freios,232.23,17080,Speed Motos SP,2
+MT0786,M107,29/11/2025,Freios,187.51,2560,Oficina Central JP,2
+MT0787,M106,29/11/2025,Não informado,439.45,9747,Oficina Central JP,3
+MT0788,M094,29/11/2025,Revisão geral,584.27,50638,Garagem do Zé,3
+MT0789,M114,30/11/2025,Reparo de acidente,1908.83,65720,Não informado,12
+MT0790,M112,01/12/2025,Troca de óleo,81.22,57501,Oficina Central JP,0
+MT0791,M090,01/12/2025,Troca de óleo,107.79,77356,Oficina Central JP,0
+MT0792,M008,01/12/2025,Troca de pneus,397.89,16733,Oficina Própria,1
+MT0793,M061,02/12/2025,Troca de óleo,112.55,32599,Speed Motos SP,1
+MT0794,M022,02/12/2025,Troca de pneus,308.1,1961,Garagem do Zé,1
+MT0795,M113,13/03/2027,Troca de pneus,584.13,74591,Oficina Central JP,2
+MT0796,M035,03/12/2025,Reparo de acidente,2139.56,13354,Oficina Própria,6
+MT0797,M118,03/12/2025,Freios,167.82,9640,Oficina Própria,1
+MT0798,M086,04/12/2025,Revisão geral,387.35,56205,MotoFix,1
+MT0799,M014,04/12/2025,Freios,267.47,20709,Moto Center,1
+MT0800,M013,05/12/2025,Troca de pneus,404.4,47423,Garagem do Zé,1
+MT0801,M077,05/12/2025,Bateria,172.35,42113,Oficina Central JP,0
+MT0802,M091,06/12/2025,Revisão geral,379.35,19342,Oficina Própria,3
+MT0803,M004,06/12/2025,Troca de óleo,116.54,51022,Oficina Central JP,1
+MT0804,M067,07/12/2025,Freios,240.11,2008,Oficina Própria,2
+MT0805,M009,07/12/2025,Revisão geral,278.55,67327,Garagem do Zé,3
+MT0806,M003,07/12/2025,Kit relação,264.03,6577,Oficina Central JP,2
+MT0807,M076,07/12/2025,Troca de pneus,604.89,39984,Garagem do Zé,2
+MT0808,M081,08/12/2025,Revisão geral,493.19,25832,Oficina Central JP,3
+MT0809,M096,08/12/2025,Bateria,220.56,31261,Oficina Central JP,0
+MT0810,M069,08/12/2025,Troca de pneus,599.72,62553,Moto Center,1
+MT0811,M005,09/12/2025,Troca de óleo,129.44,5687,Speed Motos SP,0
+MT0812,M043,09/12/2025,Troca de pneus,389.07,46220,Oficina Central JP,1
+MT0813,M042,10/12/2025,Troca de óleo,121.44,72261,MotoFix,1
+MT0814,M041,10/12/2025,Troca de óleo,94.96,58361,Garagem do Zé,1
+MT0815,M047,10/12/2025,Troca de óleo,85.24,1860,Garagem do Zé,0
+MT0816,M108,12/12/2025,Troca de pneus,684.7,69301,Speed Motos SP,1
+MT0817,M007,12/12/2025,Troca de pneus,474.97,28456,MotoFix,1
+MT0818,M010,12/12/2025,Troca de óleo,109.01,43887,Oficina Central JP,1
+MT0819,M089,12/12/2025,Revisão geral,356.08,54929,Garagem do Zé,1
+MT0820,M097,13/12/2025,Kit relação,285.66,,MotoFix,1
+MT0821,M020,13/12/2025,Kit relação,311.86,,Oficina Central JP,2
+MT0822,M102,15/12/2025,Troca de óleo,140.54,26810,Oficina Central JP,1
+MT0823,M056,15/12/2025,Revisão geral,490.87,26359,Garagem do Zé,2
+MT0824,M051,16/12/2025,Elétrica,183.59,72934,Garagem do Zé,2
+MT0825,M055,16/12/2025,Bateria,211.68,76881,Oficina Central JP,0
+MT0826,M016,16/12/2025,Troca de óleo,139.48,30555,Moto Center,1
+MT0827,M074,16/12/2025,Reparo de acidente,2097.54,28240,Garagem do Zé,8
+MT0828,M053,17/12/2025,Troca de óleo,114.94,14149,Moto Center,0
+MT0829,M099,17/12/2025,Troca de óleo,90.08,14204,Moto Center,1
+MT0830,M049,19/12/2025,Troca de óleo,146.59,57824,Speed Motos SP,1
+MT0831,M092,20/12/2025,Freios,235.44,47440,Oficina Própria,2
+MT0832,M023,21/12/2025,Troca de óleo,88.36,12023,MotoFix,0
+MT0833,M059,22/12/2025,Kit relação,274.74,1788,Garagem do Zé,2
+MT0834,M103,22/12/2025,Revisão geral,533.67,18882,Speed Motos SP,1
+MT0835,M046,23/12/2025,Elétrica,483.73,67682,Oficina Central JP,3
+MT0836,M002,24/12/2025,Troca de pneus,398.23,1647,MotoFix,2
+MT0837,M058,24/12/2025,Troca de óleo,102.23,75418,Oficina Própria,0
+MT0838,M065,26/12/2025,Freios,271.07,27868,Oficina Própria,1
+MT0839,M098,26/12/2025,Revisão geral,515.75,,Speed Motos SP,1
+MT0840,M110,26/12/2025,Troca de pneus,381.96,60641,Oficina Central JP,1
+MT0841,M006,27/12/2025,Freios,215.1,65921,Garagem do Zé,3
+MT0842,M101,28/12/2025,Elétrica,302.46,72257,Garagem do Zé,3
+MT0843,M070,28/12/2025,Revisão geral,461.08,12706,Garagem do Zé,3
+MT0844,M050,29/12/2025,Revisão geral,447.28,13757,MotoFix,2
+MT0845,M093,30/12/2025,Troca de óleo,143.72,66183,Moto Center,0
+MT0846,M104,31/12/2025,Troca de óleo,97.38,1960,Speed Motos SP,1
+MT0847,M030,31/12/2025,Troca de óleo,82.76,31365,Moto Center,0
+MT0848,M063,31/12/2025,Reparo de acidente,1336.31,37770,Garagem do Zé,9
+MT0849,M084,31/12/2025,Elétrica,244.41,21820,Garagem do Zé,2
+MT0850,M075,31/12/2025,Troca de pneus,370.52,30372,Speed Motos SP,1
+MT0851,M037,01/01/2026,Troca de pneus,309.18,24539,Speed Motos SP,2
+MT0852,M028,02/01/2026,Elétrica,361.42,72432,Não informado,4
+MT0853,M033,02/01/2026,Kit relação,223.69,53494,Oficina Central JP,2
+MT0854,M011,04/01/2026,Freios,323.48,59064,Moto Center,3
+MT0855,M034,05/01/2026,Bateria,299.75,7545,Oficina Central JP,0
+MT0856,M116,05/01/2026,Troca de óleo,81.7,49062,Oficina Própria,0
+MT0857,M079,06/01/2026,Bateria,290.59,7291,Moto Center,1
+MT0858,M017,06/01/2026,Troca de óleo,104.53,1327,Oficina Central JP,0
+MT0859,M039,07/01/2026,Freios,245.29,77094,Oficina Própria,3
+MT0860,M052,10/01/2026,Troca de óleo,135.43,74797,Speed Motos SP,0
+MT0861,M083,10/01/2026,Não informado,451.05,30425,Moto Center,1
+MT0862,M022,11/01/2026,Revisão geral,302.63,5884,MotoFix,3
+MT0863,M012,11/01/2026,Revisão geral,444.24,73477,Speed Motos SP,3
+MT0864,M060,11/01/2026,Elétrica,305.2,32847,Oficina Própria,4
+MT0865,M029,12/01/2026,Freios,122.08,64483,MotoFix,1
+MT0866,M015,12/01/2026,Troca de pneus,598.89,83107,MotoFix,2
+MT0867,M106,12/01/2026,Troca de pneus,568.2,13831,Garagem do Zé,2
+MT0868,M120,13/01/2026,Troca de óleo,112.04,46484,Oficina Central JP,0
+MT0869,M048,13/01/2026,Elétrica,396.75,21337,Speed Motos SP,3
+MT0870,M113,13/01/2026,Kit relação,236.24,78426,Oficina Central JP,2
+MT0871,M071,14/01/2026,Troca de óleo,120.46,38140,Speed Motos SP,1
+MT0872,M026,14/01/2026,Bateria,258.7,21515,Oficina Própria,0
+MT0873,M032,15/01/2026,Troca de óleo,143.07,54847,Oficina Própria,1
+MT0874,M024,15/01/2026,Revisão geral,497.55,18688,Oficina Central JP,3
+MT0875,M073,16/01/2026,Reparo de acidente,3106.27,67761,Oficina Central JP,7
+MT0876,M054,17/01/2026,Troca de óleo,81.58,75707,Garagem do Zé,0
+MT0877,M068,18/01/2026,Bateria,174.96,38664,Speed Motos SP,1
+MT0878,M061,18/01/2026,Revisão geral,519.52,36843,Moto Center,1
+MT0879,M036,18/01/2026,Troca de óleo,144.71,65937,Garagem do Zé,1
+MT0880,M038,20/01/2026,Troca de óleo,82.39,17987,Oficina Própria,0
+MT0881,M119,22/01/2026,Troca de óleo,117.94,50552,Oficina Própria,1
+MT0882,M013,23/01/2026,Troca de óleo,85.78,51471,Speed Motos SP,0
+MT0883,M076,23/01/2026,Troca de pneus,683.81,43691,Oficina Central JP,2
+MT0884,M087,24/01/2026,Elétrica,150.18,51460,Speed Motos SP,2
+MT0885,M027,25/01/2026,Troca de óleo,80.71,37152,Garagem do Zé,1
+MT0886,M072,25/01/2026,Freios,300.93,31832,Speed Motos SP,1
+MT0887,M105,25/01/2026,Revisão geral,298.89,41781,Moto Center,1
+MT0888,M062,25/01/2026,Kit relação,250.99,35380,MotoFix,2
+MT0889,M009,26/01/2026,Troca de óleo,129.24,71358,Speed Motos SP,0
+MT0890,M109,26/01/2026,Troca de óleo,149.21,39792,Moto Center,0
+MT0891,M100,27/01/2026,Freios,329.68,64433,MotoFix,3
+MT0892,M025,27/01/2026,Kit relação,292.6,18559,Oficina Própria,2
+MT0893,M115,27/01/2026,Troca de pneus,660.48,52786,Não informado,1
+MT0894,M066,28/01/2026,Troca de óleo,132.95,50116,Moto Center,1
+MT0895,M045,31/01/2026,Kit relação,238.34,64425,Oficina Central JP,2
+MT0896,M040,31/01/2026,Revisão geral,471.53,56301,Moto Center,3
+MT0897,M095,01/02/2026,Bateria,287.81,20303,Oficina Central JP,1
+MT0898,M088,01/02/2026,Bateria,268.35,14522,Oficina Própria,0
+MT0899,M019,02/02/2026,Revisão geral,490.14,61599,Oficina Própria,2
+MT0900,M080,03/02/2026,Troca de óleo,98.85,24196,Moto Center,0
+MT0901,M053,03/02/2026,Troca de óleo,125.23,18393,Speed Motos SP,0
+MT0902,M031,03/02/2026,Troca de pneus,649.53,23200,Oficina Própria,1
+MT0903,M081,05/02/2026,Revisão geral,577.42,30211,MotoFix,2
+MT0904,M018,05/02/2026,Freios,140.66,46031,Garagem do Zé,1
+MT0905,M103,05/02/2026,Freios,327.85,22593,Oficina Central JP,1
+MT0906,M102,06/02/2026,Freios,333.65,30651,MotoFix,2
+MT0907,M049,06/02/2026,Reparo de acidente,1264.07,61292,Oficina Própria,10
+MT0908,M114,06/02/2026,Troca de óleo,114.4,71420,Moto Center,0
+MT0909,M094,06/02/2026,Troca de pneus,660.78,56442,Garagem do Zé,2
+MT0910,M089,09/02/2026,Troca de óleo,120.68,60114,MotoFix,1
+MT0911,M063,13/02/2026,Troca de óleo,84.02,41415,Speed Motos SP,1
+MT0912,M033,13/02/2026,Freios,218.69,57178,Oficina Própria,2
+MT0913,M064,13/02/2026,Kit relação,188.99,67419,Moto Center,2
+MT0914,M058,13/02/2026,Troca de pneus,538.93,80220,Speed Motos SP,1
+MT0915,M010,14/02/2026,Revisão geral,269.53,49079,Moto Center,2
+MT0916,M085,14/02/2026,Revisão geral,370.68,14865,MotoFix,2
+MT0917,M008,14/02/2026,Kit relação,279.66,21713,MotoFix,1
+MT0918,M004,15/02/2026,Troca de óleo,97.33,57204,Speed Motos SP,0
+MT0919,M069,16/02/2026,Troca de óleo,140.82,68479,MotoFix,1
+MT0920,M055,17/02/2026,Troca de óleo,85.67,82586,Oficina Central JP,1
+MT0921,M117,17/02/2026,Troca de óleo,143.29,29861,Moto Center,1
+MT0922,M034,17/02/2026,Troca de óleo,112.37,11407,Oficina Central JP,1
+MT0923,M021,17/02/2026,Revisão geral,339.9,39663,Moto Center,1
+MT0924,M082,20/02/2026,Troca de óleo,88.18,55127,Oficina Própria,1
+MT0925,M044,20/02/2026,Troca de pneus,457.47,61103,Oficina Central JP,1
+MT0926,M042,20/02/2026,Elétrica,255.36,79359,Garagem do Zé,3
+MT0927,M111,20/02/2026,Reparo de acidente,2993.82,50031,Speed Motos SP,6
+MT0928,M097,20/02/2026,Troca de óleo,98.45,15949,Speed Motos SP,1
+MT0929,M056,21/02/2026,Troca de óleo,98.27,33226,Oficina Central JP,0
+MT0930,M020,21/02/2026,Reparo de acidente,1997.48,39395,Moto Center,11
+MT0931,M075,22/02/2026,Bateria,214.94,34856,Garagem do Zé,0
+MT0932,M084,22/02/2026,Troca de óleo,131.33,25863,Garagem do Zé,1
+MT0933,M037,,Troca de pneus,332.1,29001,Garagem do Zé,2
+MT0934,M057,24/02/2026,Bateria,238.82,35491,Moto Center,1
+MT0935,M116,25/02/2026,Troca de óleo,84.41,53459,MotoFix,1
+MT0936,M047,25/02/2026,Reparo de acidente,2435.91,9022,Não informado,11
+MT0937,M107,26/02/2026,Revisão geral,267.49,13954,Speed Motos SP,2
+MT0938,M078,26/02/2026,Reparo de acidente,2979.74,45098,Moto Center,9
+MT0939,M032,26/02/2026,Troca de pneus,624.01,58636,Speed Motos SP,2
+MT0940,M091,27/02/2026,Elétrica,178.86,27836,Speed Motos SP,4
+MT0941,M099,27/02/2026,Elétrica,366.81,20845,MotoFix,1
+MT0942,M038,01/03/2026,Troca de óleo,147.24,21397,Oficina Central JP,0
+MT0943,M118,01/03/2026,Revisão geral,267.21,18666,MotoFix,3
+MT0944,M043,02/03/2026,Revisão geral,470.36,53325,Não informado,1
+MT0945,M012,02/03/2026,Revisão geral,318.32,78046,Oficina Própria,1
+MT0946,M070,02/03/2026,Reparo de acidente,2913.92,18164,Moto Center,12
+MT0947,M067,03/03/2026,Freios,135.14,10644,Garagem do Zé,3
+MT0948,M003,03/03/2026,Revisão geral,332.92,13155,Oficina Central JP,2
+MT0949,M014,04/03/2026,Freios,270.54,28347,Moto Center,2
+MT0950,M017,04/03/2026,Troca de óleo,99.62,5111,Oficina Central JP,1
+MT0951,M059,04/03/2026,Troca de pneus,539.0,8229,Garagem do Zé,1
+MT0952,M077,05/03/2026,Troca de pneus,448.06,50707,Moto Center,2
+MT0953,M086,05/03/2026,Troca de óleo,134.2,64073,Moto Center,0
+MT0954,M001,05/03/2026,Troca de pneus,543.34,36121,Speed Motos SP,1
+MT0955,M011,06/03/2026,Troca de pneus,576.21,64632,Oficina Central JP,2
+MT0956,M035,07/03/2026,Kit relação,361.0,22450,Speed Motos SP,2
+MT0957,M039,07/03/2026,Troca de pneus,690.24,82181,Não informado,2
+MT0958,M023,08/03/2026,Revisão geral,338.8,18635,Moto Center,2
+MT0959,M093,08/03/2026,Troca de óleo,92.77,72365,Oficina Central JP,1
+MT0960,M013,09/03/2026,Reparo de acidente,1066.94,55189,Oficina Central JP,11
+MT0961,M112,09/03/2026,Revisão geral,331.35,65899,Oficina Central JP,3
+MT0962,M090,10/03/2026,Elétrica,445.44,86048,Oficina Central JP,3
+MT0963,M074,10/03/2026,Freios,202.81,34704,MotoFix,1
+MT0964,M009,10/03/2026,Kit relação,236.07,74825,Oficina Central JP,2
+MT0965,M051,12/03/2026,Troca de pneus,462.28,79990,MotoFix,1
+MT0966,M108,13/03/2026,Troca de óleo,130.97,76881,Moto Center,0
+MT0967,M096,13/03/2026,Elétrica,259.74,39353,Oficina Própria,4
+MT0968,M002,14/03/2026,Troca de pneus,337.93,8238,Speed Motos SP,2
+MT0969,M005,16/03/2026,Troca de óleo,115.53,13457,Oficina Própria,0
+MT0970,M060,16/03/2026,Troca de óleo,124.0,38703,Garagem do Zé,0
+MT0971,M092,16/03/2026,Bateria,269.33,54968,Oficina Própria,0
+MT0972,M046,16/03/2026,Troca de pneus,541.58,,MotoFix,2
+MT0973,M080,17/03/2026,Kit relação,333.85,,Oficina Central JP,2
+MT0974,M081,17/03/2026,Elétrica,303.41,33181,Oficina Própria,4
+MT0975,M006,17/03/2026,Troca de óleo,141.72,73175,Oficina Própria,1
+MT0976,M110,18/03/2026,Bateria,170.54,67227,Speed Motos SP,0
+MT0977,M041,18/03/2026,Revisão geral,572.03,66164,Oficina Central JP,2
+MT0978,M022,18/03/2026,Elétrica,286.22,12357,MotoFix,3
+MT0979,M045,19/03/2026,Revisão geral,335.01,68441,Moto Center,2
+MT0980,M079,20/03/2026,Troca de óleo,104.27,14389,Oficina Própria,0
+MT0981,M104,20/03/2026,Troca de óleo,105.82,9705,Garagem do Zé,1
+MT0982,M052,20/03/2026,Kit relação,180.97,80736,Garagem do Zé,1
+MT0983,M016,21/03/2026,Troca de pneus,698.79,38194,Garagem do Zé,2
+MT0984,M109,21/03/2026,Revisão geral,425.22,44755,Oficina Central JP,2
+MT0985,M007,21/03/2026,Troca de pneus,503.58,37071,Moto Center,1
+MT0986,M027,21/03/2026,Troca de óleo,147.65,40693,Speed Motos SP,1
+MT0987,M098,22/03/2026,Troca de óleo,95.39,47400,Moto Center,1
+MT0988,M065,23/03/2026,Troca de óleo,91.46,35664,Garagem do Zé,0
+MT0989,M025,24/03/2026,Troca de óleo,99.45,22408,Garagem do Zé,1
+MT0990,M026,24/03/2026,Bateria,279.38,28026,Moto Center,0
+MT0991,M102,26/03/2026,Troca de óleo,82.91,34129,Garagem do Zé,1
+MT0992,M120,26/03/2026,Freios,204.64,53125,Speed Motos SP,3
+MT0993,M101,26/03/2026,Bateria,254.28,79686,Oficina Central JP,0
+MT0994,M105,27/03/2026,Freios,340.18,46599,MotoFix,1
+MT0995,M010,28/03/2026,Kit relação,254.6,52486,Speed Motos SP,2
+MT0996,M008,28/03/2026,Kit relação,388.67,24502,Moto Center,2
+MT0997,M050,30/03/2026,Bateria,167.46,21253,MotoFix,0
+MT0998,M058,02/04/2026,Revisão geral,596.84,84739,Oficina Própria,1
 MT0999,M028,02/04/2026,Troca de óleo,90.53,80352,Oficina Própria,0
-MT0207,M089,09/09/2024, Troca de óleo  ,98.04,14589,Garagem do Zé,1
-MT0868,M120,2026-01-13,Troca de óleo,112.04,46484,Oficina Central JP,0
+MT1000,M030,03/04/2026,Elétrica,402.27,38962,Garagem do Zé,1
+MT1001,M024,04/04/2026,Troca de pneus,504.07,24997,Moto Center,2
+MT1002,M055,,Revisão geral,392.52,86932,Oficina Própria,3
+MT1003,M048,07/04/2026,Bateria,161.21,27926,MotoFix,0
+MT1004,M066,07/04/2026,Revisão geral,496.25,55201,Moto Center,1
+MT1005,M083,08/04/2026,Elétrica,302.46,37967,MotoFix,3
+MT1006,M032,08/04/2026,Troca de pneus,404.42,62334,Oficina Central JP,2
+MT1007,M069,09/04/2026,Troca de óleo,96.25,72880,Oficina Própria,1
+MT1008,M037,10/04/2026,Troca de óleo,138.46,32719,MotoFix,1
+MT1009,M021,10/04/2026,Troca de pneus,364.36,43969,MotoFix,2
+MT1010,M054,10/04/2026,Troca de óleo,122.06,82627,Moto Center,1
+MT1011,M061,13/04/2026,Revisão geral,590.98,44519,MotoFix,1
+MT1012,M049,13/04/2026,Troca de óleo,81.74,65964,Moto Center,1
+MT1013,M088,15/04/2026,Revisão geral,457.73,19092,Oficina Central JP,3
+MT1014,M115,15/04/2026,Revisão geral,482.03,59438,Oficina Própria,1
+MT1015,M056,16/04/2026,Elétrica,138.49,38680,Oficina Própria,3
+MT1016,M106,16/04/2026,Freios,260.85,22557,MotoFix,3
+MT1017,M029,16/04/2026,Troca de óleo,85.62,71902,Speed Motos SP,0
+MT1018,M097,17/04/2026,Troca de óleo,119.07,22283,Oficina Central JP,1
+MT1019,M053,18/04/2026,Revisão geral,475.91,24937,Speed Motos SP,3
+MT1020,M068,18/04/2026,Freios,142.67,,Oficina Central JP,1
+MT1021,M013,18/04/2026,Reparo de acidente,2799.89,58494,Garagem do Zé,5
+MT1022,M062,18/04/2026,Freios,292.83,41862,Oficina Central JP,1
+MT1023,M015,18/04/2026,Kit relação,254.25,91612,Garagem do Zé,1
+MT1024,M103,19/04/2026,Freios,150.53,28612,Oficina Própria,3
+MT1025,M073,20/04/2026,Kit relação,194.28,,Garagem do Zé,2
+MT1026,M084,21/04/2026,Reparo de acidente,1401.06,30288,Não informado,6
+MT1027,M094,22/04/2026,Revisão geral,447.28,62751,Oficina Própria,1
+MT1028,M113,22/04/2026,Revisão geral,412.77,87465,Oficina Central JP,2
+MT1029,M111,22/04/2026,Troca de pneus,337.84,54572,Moto Center,2
+MT1030,M042,23/04/2026,Revisão geral,496.47,85471,Moto Center,1
+MT1031,M071,23/04/2026,Revisão geral,480.11,46366,MotoFix,2
+MT1032,M036,23/04/2026,Troca de óleo,85.69,73847,Não informado,0
+MT1033,M096,25/04/2026,Freios,276.74,43016,Oficina Central JP,2
+MT1034,M119,26/04/2026,Troca de óleo,114.14,58511,Moto Center,1
+MT1035,M076,27/04/2026,Kit relação,242.44,51104,Oficina Própria,2
+MT1036,M072,28/04/2026,Revisão geral,430.65,38914,Oficina Própria,1
+MT1037,M095,28/04/2026,Troca de pneus,668.67,28657,Moto Center,1
+MT1038,M099,28/04/2026,Troca de pneus,374.51,26380,Oficina Central JP,1
+MT1039,M114,30/04/2026,Reparo de acidente,1555.78,78378,Oficina Própria,4
+MT1040,M007,30/04/2026,Troca de óleo,101.29,40552,Moto Center,1
+MT1041,M107,30/04/2026,Freios,299.12,22019,Speed Motos SP,2
+MT1042,M016,01/05/2026,Troca de óleo,140.59,41491,Garagem do Zé,1
+MT1043,M019,02/05/2026,Troca de pneus,380.86,69320,Speed Motos SP,1
+MT1044,M087,02/05/2026,Freios,222.06,58801,MotoFix,1
+MT1045,M100,02/05/2026,Troca de óleo,146.5,71755,Oficina Própria,1
+MT1046,M031,02/05/2026,Troca de óleo,129.63,31082,Speed Motos SP,1
+MT1047,M085,03/05/2026,Troca de pneus,432.55,22023,MotoFix,2
+MT1048,M001,03/05/2026,Troca de óleo,107.37,41544,Oficina Central JP,1
+MT1049,M086,03/05/2026,Troca de pneus,385.41,69175,Garagem do Zé,1
+MT1050,M039,04/05/2026,Revisão geral,597.98,87183,Oficina Própria,1
+MT1051,M077,05/05/2026,Troca de óleo,133.62,56532,Oficina Própria,0
+MT1052,M081,06/05/2026,Troca de óleo,142.92,36892,Moto Center,1
+MT1053,M065,06/05/2026,Revisão geral,360.66,39607,MotoFix,3
+MT1054,M004,06/05/2026,Kit relação,350.01,64169,Oficina Central JP,2
+MT1055,M040,07/05/2026,Troca de óleo,90.29,64866,Speed Motos SP,1
+MT1056,M060,08/05/2026,Troca de óleo,81.22,43552,MotoFix,1
+MT1057,M044,09/05/2026,Kit relação,225.52,67399,Speed Motos SP,1
+MT1058,M105,09/05/2026,Troca de óleo,120.18,49995,Moto Center,1
+MT1059,M017,09/05/2026,Revisão geral,280.84,9493,Oficina Própria,3
+MT1060,M005,09/05/2026,Elétrica,454.54,17783,Oficina Própria,4
+MT1061,M047,10/05/2026,Freios,218.76,15904,Oficina Própria,1
+MT1062,M063,11/05/2026,Troca de óleo,102.49,48621,Oficina Central JP,0
+MT1063,M082,11/05/2026,Revisão geral,395.96,61304,Oficina Central JP,3
+MT1064,M075,11/05/2026,Troca de óleo,135.75,41455,MotoFix,0
+MT1065,M093,12/05/2026,Elétrica,153.93,78274,Oficina Central JP,1
+MT1066,M112,12/05/2026,Troca de óleo,144.09,71383,Oficina Central JP,0
+MT1067,M091,13/05/2026,Troca de pneus,639.28,35512,Moto Center,1
+MT1068,M012,13/05/2026,Freios,252.13,84626,MotoFix,1
+MT1069,M089,13/05/2026,Reparo de acidente,3243.16,68288,Garagem do Zé,12
+MT1070,M116,13/05/2026,Reparo de acidente,765.79,60099,Garagem do Zé,10
+MT1071,M022,14/05/2026,Troca de pneus,341.61,17948,Speed Motos SP,2
+MT1072,M080,15/05/2026,Troca de óleo,88.08,32832,Oficina Própria,0
+MT1073,M034,15/05/2026,Troca de óleo,128.23,19222,MotoFix,0
+MT1074,M018,15/05/2026,Kit relação,356.42,54678,Moto Center,1
+MT1075,M058,15/05/2026,Bateria,299.92,88788,Oficina Central JP,1
+MT1076,M038,17/05/2026,Troca de óleo,84.92,27961,Oficina Central JP,1
+MT1077,M057,17/05/2026,Revisão geral,447.28,42060,Garagem do Zé,1
+MT1078,M120,17/05/2026,Troca de óleo,82.39,57921,Oficina Própria,1
+MT1079,M041,17/05/2026,Kit relação,315.97,70941,Moto Center,2
+MT1080,M002,17/05/2026,Bateria,195.54,13511,Speed Motos SP,1
+MT1081,M083,18/05/2026,Troca de pneus,488.26,41395,Speed Motos SP,2
+MT1082,M020,18/05/2026,Troca de óleo,103.0,46513,Moto Center,0
+MT1083,M011,19/05/2026,Freios,152.61,71388,Garagem do Zé,1
+MT1084,M108,19/05/2026,Revisão geral,417.1,82462,MotoFix,2
+MT1085,M014,19/05/2026,Troca de pneus,574.88,34798,Oficina Própria,1
+MT1086,M033,20/05/2026,Troca de pneus,615.74,65597,Oficina Própria,1
+MT1087,M104,21/05/2026,Troca de pneus,480.01,15784,Garagem do Zé,1
+MT1088,M117,21/05/2026,Kit relação,254.26,37150,Oficina Central JP,1
+MT1089,M043,21/05/2026,Troca de óleo,110.84,60172,Oficina Central JP,1
+MT1090,M064,22/05/2026,Elétrica,122.39,74478,MotoFix,1
+MT1091,M035,22/05/2026,Freios,178.98,29805,Moto Center,2
+MT1092,M008,23/05/2026,Freios,147.79,28220,Speed Motos SP,1
+MT1093,M045,25/05/2026,Reparo de acidente,2736.71,74166,Garagem do Zé,5
+MT1094,M092,26/05/2026,Kit relação,280.27,61182,Speed Motos SP,1
+MT1095,M025,26/05/2026,Troca de pneus,563.61,,Speed Motos SP,2
+MT1096,M059,27/05/2026,Troca de pneus,372.74,15742,Oficina Própria,1
+MT1097,M054,28/05/2026,Freios,175.46,86629,Garagem do Zé,1
+MT1098,M079,29/05/2026,Reparo de acidente,2139.56,21194,Oficina Própria,6
+MT1099,M078,30/05/2026,Bateria,282.88,51917,MotoFix,0
+MT1100,M118,30/05/2026,Troca de pneus,316.09,27896,Speed Motos SP,1
+MT1101,M055,31/05/2026,Troca de óleo,132.56,91913,Oficina Central JP,1
+MT1102,M049,31/05/2026,Revisão geral,453.07,69361,Moto Center,2
+MT1103,M067,01/06/2026,Troca de óleo,89.29,19682,Garagem do Zé,1
+MT1104,M023,02/06/2026,Troca de pneus,417.7,26021,Oficina Própria,1
+MT1105,M050,02/06/2026,Troca de pneus,582.14,26526,MotoFix,1
+MT1106,M062,02/06/2026,Elétrica,490.29,45377,Oficina Própria,1
+MT1107,M098,03/06/2026,Revisão geral,267.06,54906,Garagem do Zé,3
+MT1108,M084,04/06/2026,Troca de óleo,80.29,33645,Oficina Própria,1
+MT1109,M102,04/06/2026,Troca de pneus,303.07,39201,Moto Center,2
+MT1110,M003,04/06/2026,Troca de óleo,129.0,20268,Oficina Central JP,1
+MT1111,M094,05/06/2026,Troca de óleo,127.08,66452,Moto Center,1
+MT1112,M032,05/06/2026,Troca de óleo,90.84,67566,Speed Motos SP,0
+MT1113,M024,05/06/2026,Troca de óleo,91.05,29949,Garagem do Zé,0
+MT1114,M029,05/06/2026,Bateria,201.98,75848,Garagem do Zé,1
+MT1115,M101,05/06/2026,Revisão geral,447.28,85679,Oficina Central JP,3
+MT1116,M074,07/06/2026,Troca de óleo,116.76,41553,Garagem do Zé,0
+MT1117,M006,08/06/2026,Troca de óleo,82.64,80701,Garagem do Zé,1
+MT1118,M066,09/06/2026,Revisão geral,344.58,59844,Garagem do Zé,1
+MT1119,M070,09/06/2026,Revisão geral,593.46,26606,Oficina Própria,1
+MT1120,M068,10/06/2026,Troca de óleo,103.42,48884,Não informado,0
+MT1121,M027,11/06/2026,Troca de óleo,112.24,45973,Moto Center,1
+MT1122,M009,11/06/2026,Bateria,195.56,82324,Speed Motos SP,0
+MT1123,M110,11/06/2026,Revisão geral,458.05,74054,Oficina Própria,2
+MT1124,M090,12/06/2026,Freios,122.99,94302,Moto Center,3
+MT1125,M073,13/06/2026,Revisão geral,337.23,81748,Garagem do Zé,2
+MT1126,M021,13/06/2026,Troca de óleo,91.81,49268,Oficina Própria,1
+MT1127,M051,13/06/2026,Bateria,272.1,87620,Garagem do Zé,0
+MT1128,M048,15/06/2026,Elétrica,144.47,33339,Oficina Própria,3
+MT1129,M039,15/06/2026,Revisão geral,266.15,90805,Oficina Própria,1
+MT1130,M053,16/06/2026,Freios,214.33,30155,Oficina Central JP,3
+MT1131,M013,16/06/2026,Bateria,261.15,63368,MotoFix,0
+MT1132,M046,16/06/2026,Troca de óleo,87.06,81551,Oficina Central JP,0
+MT1133,M031,16/06/2026,Troca de óleo,115.16,35113,Garagem do Zé,0
+MT1134,M076,16/06/2026,Revisão geral,486.55,,Garagem do Zé,1
+MT1135,M060,17/06/2026,Reparo de acidente,3023.41,47212,Moto Center,9
+MT1136,M030,17/06/2026,Troca de óleo,143.1,45088,Oficina Central JP,0
+MT1137,M019,20/06/2026,Troca de óleo,144.28,73572,Garagem do Zé,1
+MT1138,M075,20/06/2026,Troca de óleo,103.6,44839,MotoFix,1
+MT1139,M026,21/06/2026,Troca de óleo,124.72,36425,Oficina Central JP,1
+MT1140,M085,22/06/2026,Troca de óleo,148.19,26611,Oficina Central JP,0
+MT1141,M010,22/06/2026,Freios,237.16,59462,Oficina Central JP,3
+MT1142,M012,24/06/2026,Kit relação,212.28,88465,Garagem do Zé,1
+MT1143,M077,24/06/2026,Elétrica,166.58,61307,Oficina Própria,2
+MT1144,M052,25/06/2026,Troca de pneus,603.78,89085,Oficina Própria,2
+MT1145,M105,25/06/2026,Troca de óleo,132.08,53707,Oficina Própria,1
+MT1146,M069,25/06/2026,Kit relação,284.34,79398,MotoFix,1
+MT1147,M028,26/06/2026,Revisão geral,425.0,87833,MotoFix,1
+MT1148,M109,26/06/2026,Freios,253.64,,Moto Center,3
+MT1149,M063,27/06/2026,Bateria,279.5,52514,Oficina Central JP,1
+MT1150,M065,28/06/2026,Troca de pneus,662.13,44356,Garagem do Zé,2
+MT1151,M072,28/06/2026,Elétrica,338.86,43559,Speed Motos SP,4
+MT1152,M007,29/06/2026,Revisão geral,594.05,45773,Oficina Própria,2
+MT1153,M113,29/06/2026,Troca de óleo,117.04,93673,Garagem do Zé,0
+MT1154,M036,29/06/2026,Revisão geral,447.28,79425,Oficina Própria,2
+MT1155,M108,29/06/2026,Bateria,292.2,85877,MotoFix,0
+MT1156,M115,30/06/2026,Revisão geral,491.26,65919,Oficina Própria,2
+MT1157,M103,30/06/2026,Troca de óleo,132.75,34549,Garagem do Zé,1
+MT1158,M011,01/07/2026,Troca de óleo,113.36,75313,Speed Motos SP,1
+MT1159,M112,01/07/2026,Kit relação,358.58,75668,Moto Center,2
+MT1160,M018,04/07/2026,Revisão geral,298.93,59045,Speed Motos SP,2
+MT1161,M004,04/07/2026,Troca de pneus,431.27,69306,Garagem do Zé,1
+MT1162,M037,05/07/2026,Revisão geral,402.75,39824,Oficina Central JP,2
+MT1163,M093,07/07/2026,Elétrica,302.46,83365,Garagem do Zé,1
+MT1164,M040,07/07/2026,Freios,265.86,70309,Speed Motos SP,2
+MT1165,M119,07/07/2026,Revisão geral,353.46,,Moto Center,2
+MT1166,M008,07/07/2026,Troca de óleo,119.46,31208,Moto Center,1
+MT1167,M086,08/07/2026,Troca de pneus,502.11,74882,Oficina Própria,1
+MT1168,M118,09/07/2026,Troca de pneus,651.51,31999,Oficina Central JP,2
+MT1169,M089,09/07/2026,Kit relação,205.59,73297,MotoFix,2
+MT1170,M044,10/07/2026,Troca de óleo,119.01,72404,Speed Motos SP,1
+MT1171,M038,11/07/2026,Troca de óleo,138.92,32649,Moto Center,1
+MT1172,M055,11/07/2026,Freios,291.94,95626,Speed Motos SP,2
+MT1173,M002,12/07/2026,Revisão geral,367.97,18124,Moto Center,1
+MT1174,M061,12/07/2026,Reparo de acidente,2261.58,52646,MotoFix,10
+MT1175,M056,13/07/2026,Revisão geral,504.46,47567,Moto Center,1
+MT1176,M117,13/07/2026,Revisão geral,573.38,41304,Oficina Central JP,2
+MT1177,M057,13/07/2026,Troca de pneus,350.72,46627,Speed Motos SP,2
+MT1178,M005,14/07/2026,Kit relação,292.49,23070,Oficina Central JP,2
+MT1179,M082,14/07/2026,Freios,133.86,66245,Oficina Central JP,2
+MT1180,M088,15/07/2026,Troca de pneus,406.33,24788,MotoFix,2
+MT1181,M015,15/07/2026,Troca de óleo,81.51,99409,Garagem do Zé,1
+MT1182,M081,15/07/2026,Freios,158.3,42088,Moto Center,2
+MT1183,M097,16/07/2026,Revisão geral,476.06,32464,Oficina Própria,2
+MT1184,M016,18/07/2026,Freios,286.39,47763,MotoFix,2
+MT1185,M099,18/07/2026,Bateria,191.85,33851,MotoFix,0
+MT1186,M023,21/07/2026,Troca de óleo,130.41,30229,Não informado,0
+MT1187,M110,22/07/2026,Troca de pneus,337.37,77347,Speed Motos SP,1
+MT1188,M106,23/07/2026,Elétrica,149.95,31655,MotoFix,4
+MT1189,M070,23/07/2026,Elétrica,138.31,30358,MotoFix,4
+MT1190,M021,24/07/2026,Freios,326.67,52663,Garagem do Zé,1
+MT1191,M096,24/07/2026,Troca de pneus,396.23,50682,MotoFix,1
+MT1192,M116,24/07/2026,Troca de óleo,145.53,66307,Oficina Central JP,0
+MT1193,M120,24/07/2026,Revisão geral,408.33,64192,Oficina Central JP,1
+MT1194,M092,25/07/2026,Revisão geral,422.62,66434,Garagem do Zé,1
+MT1195,M111,25/07/2026,Kit relação,394.2,61571,Oficina Própria,2
+MT1196,M067,26/07/2026,Troca de pneus,449.1,25205,Garagem do Zé,2
+MT1197,M043,27/07/2026,Reparo de acidente,2608.91,65907,Garagem do Zé,11
+MT1198,M107,27/07/2026,Troca de óleo,80.13,33285,Não informado,0
+MT1199,M041,27/07/2026,Revisão geral,413.25,76594,MotoFix,3
+MT1200,M114,27/07/2026,Reparo de acidente,3407.1,85754,Oficina Central JP,10
+MT1201,M084,28/07/2026,Troca de óleo,133.2,37765,Oficina Própria,1
+MT1202,M104,28/07/2026,Kit relação,325.87,22451,Moto Center,1
+MT1203,M080,29/07/2026,Kit relação,358.39,39244,Speed Motos SP,2
+MT1204,M071,29/07/2026,Troca de pneus,611.66,54427,Speed Motos SP,2
+MT1205,M042,29/07/2026,Kit relação,302.05,95034,Garagem do Zé,2
+MT1206,M083,30/07/2026,Kit relação,322.44,47651,Oficina Central JP,1
+MT1207,M076,30/07/2026,Elétrica,394.34,58517,Speed Motos SP,4
+MT1208,M047,01/08/2026,Troca de óleo,148.05,23624,Oficina Central JP,1
+MT1209,M087,01/08/2026,Freios,205.23,65617,Speed Motos SP,1
+MT1210,M034,01/08/2026,Troca de pneus,537.54,26228,Oficina Central JP,1
+MT1212,M073,02/08/2026,Troca de óleo,88.48,86473,Oficina Central JP,1
+MT1213,M062,02/08/2026,Troca de pneus,432.33,50141,Moto Center,2
+MT1214,M100,02/08/2026,Freios,170.65,78846,Moto Center,3
+MT1215,M017,02/08/2026,Freios,120.54,15136,Speed Motos SP,3
+MT1216,M101,02/08/2026,Troca de óleo,82.71,90575,MotoFix,0
+MT1217,M075,03/08/2026,Revisão geral,525.62,48561,Speed Motos SP,1
+MT1218,M009,03/08/2026,Kit relação,383.86,86598,MotoFix,1
+MT1219,M022,03/08/2026,Troca de óleo,133.15,25892,Speed Motos SP,1
+MT1220,M030,04/08/2026,Elétrica,491.16,49009,MotoFix,2
+MT1221,M095,04/08/2026,Elétrica,276.44,38178,Speed Motos SP,4
+MT1222,M048,05/08/2026,Kit relação,216.79,37339,MotoFix,1
+MT1223,M058,05/08/2026,Troca de óleo,104.56,96509,Speed Motos SP,0
+MT1224,M059,07/08/2026,Troca de pneus,537.27,22182,Não informado,2
+MT1225,M094,07/08/2026,Troca de óleo,102.89,71751,Oficina Própria,0
+MT1226,M001,07/08/2026,Kit relação,399.83,50367,Speed Motos SP,2
+MT1227,M105,08/08/2026,Troca de pneus,596.95,57182,Moto Center,1
+MT1228,M045,11/08/2026,Freios,224.46,80831,MotoFix,1
+MT1229,M108,11/08/2026,Freios,188.3,89458,Moto Center,2
+MT1230,M025,11/08/2026,Freios,340.95,32031,Não informado,3
+MT1231,M102,14/08/2026,Elétrica,390.37,44346,Oficina Central JP,2
+MT1232,M051,14/08/2026,Freios,242.33,92706,MotoFix,3
+MT1233,M091,15/08/2026,Revisão geral,536.61,45132,Oficina Própria,3
+MT1234,M033,16/08/2026,Revisão geral,250.29,73314,Speed Motos SP,3
+MT1235,M046,17/08/2026,Kit relação,374.81,86465,Moto Center,1
+MT1236,M027,19/08/2026,Troca de pneus,466.8,50416,Speed Motos SP,1
+MT1237,M037,19/08/2026,Bateria,204.44,43542,Speed Motos SP,1
+MT1238,M032,19/08/2026,Elétrica,365.38,74332,Oficina Própria,2
+MT1239,M029,20/08/2026,Revisão geral,282.79,81847,Oficina Própria,2
+MT1240,M008,21/08/2026,Revisão geral,378.18,34197,MotoFix,1
+MT1241,M069,21/08/2026,Revisão geral,570.68,84223,MotoFix,3
+MT1242,M035,21/08/2026,Troca de pneus,370.33,38611,Speed Motos SP,1
+MT1243,M079,21/08/2026,Bateria,274.53,29361,Oficina Central JP,0
+MT1244,M064,23/08/2026,Troca de óleo,103.68,81176,Oficina Central JP,0
+MT1245,M109,23/08/2026,Revisão geral,518.87,58999,Moto Center,3
+MT1246,M011,23/08/2026,Troca de óleo,98.64,80151,Oficina Central JP,1
+MT1247,M061,24/08/2026,Elétrica,274.78,56530,Garagem do Zé,1
+MT1248,M020,25/08/2026,Elétrica,279.44,54707,Garagem do Zé,4
+MT1249,M054,25/08/2026,Troca de óleo,121.34,94050,Oficina Própria,1
+MT1250,M003,26/08/2026,Troca de óleo,91.54,26616,Moto Center,0
+MT1251,M072,27/08/2026,Revisão geral,525.47,48128,Moto Center,1
+MT1252,M078,27/08/2026,Elétrica,374.38,58444,Speed Motos SP,1
+MT1253,M056,27/08/2026,Revisão geral,512.77,52112,Garagem do Zé,2
+MT1254,M024,03/02/2027,Kit relação,267.01,36577,Garagem do Zé,1
+MT1255,M119,28/08/2026,Troca de óleo,113.05,69011,Moto Center,1
+MT1256,M031,28/08/2026,Kit relação,301.06,41652,Moto Center,1
+MT1257,M019,29/08/2026,Kit relação,381.18,79645,MotoFix,1
+MT1258,M002,29/08/2026,Revisão geral,503.27,22079,Moto Center,2
+MT1259,M013,30/08/2026,Troca de pneus,687.56,69565,Speed Motos SP,1
+MT1260,M007,30/08/2026,Reparo de acidente,3330.25,51168,Oficina Própria,9
+MT1261,M065,30/08/2026,Bateria,291.83,50001,Moto Center,0
+MT1262,M088,31/08/2026,Bateria,153.56,27730,Garagem do Zé,0
+MT1263,M005,01/09/2026,Freios,133.97,26995,MotoFix,2
+MT1264,M098,01/09/2026,Reparo de acidente,2921.3,64160,Speed Motos SP,4
+MT1265,M096,03/09/2026,Troca de pneus,442.55,54175,Garagem do Zé,1
+MT1266,M040,03/09/2026,Kit relação,201.05,75484,Garagem do Zé,1
+MT1267,M055,04/09/2026,Troca de óleo,149.59,100606,Moto Center,1
+MT1268,M066,04/09/2026,Freios,239.49,66256,Oficina Própria,3
+MT1269,M053,04/09/2026,Bateria,247.93,37229,MotoFix,0
+MT1270,M115,05/09/2026,Freios,126.14,71633,Moto Center,1
+MT1271,M049,06/09/2026,Troca de óleo,127.35,76297,Oficina Própria,0
+MT1272,M081,06/09/2026,Elétrica,260.71,46023,Moto Center,1
+MT1273,M028,08/09/2026,Troca de óleo,114.94,94346,Garagem do Zé,1
+MT1274,M041,08/09/2026,Troca de óleo,80.42,80018,Oficina Central JP,1
+MT1275,M052,08/09/2026,Troca de óleo,118.86,95541,MotoFix,1
+MT1276,M060,08/09/2026,Revisão geral,275.06,54807,Moto Center,3
+MT1277,M050,08/09/2026,Freios,135.51,34599,Speed Motos SP,3
+MT1278,M074,08/09/2026,Elétrica,449.55,48709,MotoFix,2
+MT1279,M018,08/09/2026,Reparo de acidente,1727.26,64810,Garagem do Zé,11
+MT1280,M039,08/09/2026,Troca de óleo,142.44,98135,Moto Center,0
+MT1281,M067,09/09/2026,Freios,278.49,29724,Moto Center,1
+MT1282,M044,11/09/2026,Troca de óleo,88.38,77489,MotoFix,1
+MT1283,M120,11/09/2026,Troca de óleo,131.37,68712,Oficina Central JP,1
+MT1284,M068,12/09/2026,Troca de óleo,144.87,55602,MotoFix,1
+MT1285,M112,12/09/2026,Revisão geral,541.98,81924,Garagem do Zé,3
+MT1286,M077,13/09/2026,Troca de pneus,513.32,69042,Oficina Própria,1
+MT1287,M009,,Troca de pneus,406.66,89904,Speed Motos SP,1
+MT1288,M006,13/09/2026,Elétrica,370.19,89496,Oficina Própria,3
+MT1289,M021,14/09/2026,Troca de óleo,98.22,56969,Moto Center,1
+MT1290,M089,15/09/2026,Revisão geral,385.43,79274,Speed Motos SP,1
+MT1291,M090,15/09/2026,Revisão geral,506.37,102644,Speed Motos SP,1
+MT1292,M004,16/09/2026,Kit relação,253.45,75749,Oficina Própria,2
+MT1293,M094,16/09/2026,Revisão geral,576.97,75116,Oficina Própria,1
+MT1294,M092,16/09/2026,Troca de óleo,85.06,71073,Moto Center,0
+MT1295,M110,16/09/2026,Revisão geral,450.21,81845,Oficina Central JP,1
+MT1296,M084,18/09/2026,Troca de pneus,545.1,41733,Garagem do Zé,2
+MT1297,M099,18/09/2026,Reparo de acidente,1736.76,39570,Oficina Própria,6
+MT1298,M101,19/09/2026,Troca de óleo,114.94,94627,Moto Center,1
+MT1299,M105,19/09/2026,Freios,185.83,60499,Garagem do Zé,2
+MT1300,M080,19/09/2026,Bateria,264.27,43690,Oficina Própria,0
+MT1301,M010,19/09/2026,Troca de óleo,118.58,66682,Speed Motos SP,1
+MT1302,M015,20/09/2026,Revisão geral,283.35,105345,Speed Motos SP,3
+MT1303,M083,20/09/2026,Revisão geral,480.68,52108,Oficina Central JP,2
+MT1304,M103,22/09/2026,Kit relação,341.0,41475,Garagem do Zé,2
+MT1306,M058,24/09/2026,Troca de pneus,676.84,101217,Garagem do Zé,1
+MT1307,M036,24/09/2026,Troca de óleo,147.23,86668,MotoFix,1
+MT1308,M048,24/09/2026,Bateria,181.37,41262,Moto Center,0
+MT1309,M095,25/09/2026,Freios,219.25,43229,Garagem do Zé,3
+MT1310,M026,25/09/2026,Troca de óleo,114.81,45484,Garagem do Zé,0
+MT1311,M042,25/09/2026,Freios,237.16,100752,Garagem do Zé,2
+MT1312,M012,25/09/2026,Troca de pneus,616.46,96964,Speed Motos SP,1
+MT1313,M085,26/09/2026,Elétrica,481.63,35420,Oficina Central JP,3
+MT1314,M022,26/09/2026,Kit relação,268.4,31189,Speed Motos SP,2
+MT1315,M034,26/09/2026,Revisão geral,373.9,31258,Oficina Própria,3
+MT1316,M086,27/09/2026,Freios,166.02,81886,Speed Motos SP,1
+MT1317,M063,27/09/2026,Troca de óleo,148.33,60134,Garagem do Zé,1
+MT1318,M117,27/09/2026,Troca de pneus,463.85,47260,Moto Center,1
+MT1319,M030,29/09/2026,Troca de óleo,124.01,53583,Speed Motos SP,1
+MT1320,M016,30/09/2026,Troca de óleo,143.56,53713,MotoFix,1
+MT1321,M118,01/10/2026,Freios,237.16,40614,Oficina Central JP,2
+MT1322,M082,03/10/2026,Troca de pneus,590.76,72499,Garagem do Zé,2
+MT1323,M113,04/10/2026,Troca de óleo,142.63,102529,Oficina Central JP,1
+MT1324,M100,04/10/2026,Freios,128.61,83701,MotoFix,2
+MT1325,M025,06/10/2026,Troca de pneus,588.39,35880,Oficina Própria,2
+MT1326,M102,07/10/2026,Troca de óleo,115.24,48259,Oficina Central JP,1
+MT1327,M091,07/10/2026,Revisão geral,521.69,50556,Moto Center,3
+MT1328,M073,08/10/2026,Revisão geral,287.11,92805,MotoFix,3
+MT1329,M097,09/10/2026,Troca de pneus,418.23,42079,MotoFix,2
+MT1330,M071,09/10/2026,Troca de óleo,93.52,60409,Speed Motos SP,0
+MT1331,M043,09/10/2026,Troca de pneus,496.78,72241,Oficina Central JP,1
+MT1332,M111,09/10/2026,Revisão geral,541.97,67229,Garagem do Zé,2
+MT1333,M106,11/10/2026,Revisão geral,395.06,39081,Oficina Central JP,2
+MT1334,M027,12/10/2026,Freios,155.38,53893,Garagem do Zé,3
+MT1335,M093,12/10/2026,Troca de óleo,129.39,92183,Speed Motos SP,1
+MT1336,M035,12/10/2026,Troca de pneus,331.03,43643,Moto Center,1
+MT1337,M116,14/10/2026,Troca de pneus,365.86,73377,Speed Motos SP,2
+MT1338,M029,14/10/2026,Troca de óleo,143.67,86188,MotoFix,1
+MT1339,M070,14/10/2026,Freios,299.99,37436,Speed Motos SP,1
+MT1340,M114,14/10/2026,Revisão geral,454.35,92377,MotoFix,1
+MT1341,M056,15/10/2026,Revisão geral,434.99,57061,Garagem do Zé,2
+MT1342,M104,16/10/2026,Troca de óleo,149.43,30294,Oficina Central JP,0
+MT1343,M008,18/10/2026,Troca de pneus,623.57,38048,Oficina Própria,2
+MT1344,M072,20/10/2026,Reparo de acidente,2514.23,52241,Moto Center,11
+MT1345,M057,20/10/2026,Troca de óleo,126.2,54558,Speed Motos SP,1
+MT1346,M001,20/10/2026,Freios,267.51,57169,Oficina Central JP,3
+MT1347,M050,21/10/2026,Freios,293.78,38141,Oficina Central JP,1
+MT1348,M018,21/10/2026,Troca de pneus,662.87,68566,Oficina Central JP,1
+MT1349,M066,21/10/2026,Revisão geral,460.05,69720,Oficina Central JP,3
+MT1350,M003,21/10/2026,Não informado,117.33,30899,Garagem do Zé,2
+MT1351,M044,22/10/2026,Elétrica,305.15,80798,MotoFix,1
+MT1352,M047,24/10/2026,Freios,314.22,31437,Moto Center,2
+MT1353,M046,24/10/2026,Troca de pneus,489.02,91854,Oficina Própria,2
+MT1354,M033,24/10/2026,Troca de pneus,346.25,79365,Oficina Central JP,2
+MT1355,M005,25/10/2026,Kit relação,184.32,31321,MotoFix,2
+MT1356,M020,26/10/2026,Troca de pneus,364.74,59838,Moto Center,1
+MT1357,M014,28/10/2026,Revisão geral,517.44,48547,Oficina Central JP,3
+MT1358,M081,28/10/2026,Bateria,274.94,49883,Oficina Própria,0
+MT1359,M099,28/10/2026,Revisão geral,377.27,43260,Moto Center,3
+MT1360,M023,28/10/2026,Reparo de acidente,3262.05,38731,Garagem do Zé,8
+MT1361,M019,29/10/2026,Freios,210.05,,Moto Center,3
+MT1362,M119,30/10/2026,Revisão geral,250.08,74346,Speed Motos SP,3
+MT1363,M075,30/10/2026,Troca de pneus,503.15,56006,Moto Center,2
+MT1364,M017,30/10/2026,Troca de óleo,101.07,21045,Moto Center,0
+MT1365,M007,31/10/2026,Bateria,198.59,56563,Oficina Própria,0
+MT1366,M069,31/10/2026,Freios,148.74,90233,MotoFix,1
+MT1367,M032,31/10/2026,Kit relação,341.22,80917,MotoFix,2

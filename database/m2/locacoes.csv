@@ -1,0 +1,16 @@
+id_locacao,id_moto,id_cliente,data_retirada,data_devolucao_prevista,data_devolucao_real,plano,valor_diaria,valor_total,forma_pagamento,status_pagamento,km_retirada,km_devolucao,filial_retirada,status_locacao
+L00001,M002,C0001,15/05/2025,15/09/2027,,Minha Moto 28 meses,64.14,34892.16,Pix,Atrasado,,,São Paulo,Em andamento
+L00002,M001,C0002,26/05/2025,26/09/2027,12/06/2025,Minha Moto 28 meses,64.14,1090.38,Pix,Atrasado,,,São Paulo,Interrompida (furto/roubo)
+L00003,M003,C0003,27/05/2025,27/09/2027,22/10/2025,Minha Moto 28 meses,64.14,9492.72,Pix,Pago,,,São Paulo,Finalizada
+L00004,M004,C0004,28/05/2025,28/09/2027,21/08/2025,Minha Moto 28 meses,64.14,5451.9,Pix,Pago,,,São Paulo,Finalizada
+L00005,M005,C0005,31/05/2025,30/09/2027,13/06/2025,Minha Moto 28 meses,64.14,833.82,Pix,Pago,,,São Paulo,Interrompida (furto/roubo)
+L00006,M008,C0006,06/06/2025,06/10/2027,11/07/2025,Minha Moto 28 meses,64.14,2244.9,Pix,Pago,,,São Paulo,Interrompida (furto/roubo)
+L00007,M006,C0007,07/06/2025,07/10/2027,14/06/2025,Minha Moto 28 meses,64.14,448.98,Pix,Atrasado,,,São Paulo,Finalizada
+L00008,M010,C0008,09/06/2025,09/10/2027,,Minha Moto 28 meses,64.14,33288.66,Pix,Pago,,,São Paulo,Em andamento
+L00009,M009,C0009,17/06/2025,17/10/2027,17/09/2025,Minha Moto 28 meses,64.14,5900.88,Pix,Atrasado,,,São Paulo,Interrompida (furto/roubo)
+L00010,M007,C0010,18/06/2025,18/10/2027,05/10/2026,Minha Moto 28 meses,64.14,30402.36,Pix,Pago,,,São Paulo,Interrompida (furto/roubo)
+L00011,M006,C0011,26/06/2025,26/10/2027,,Minha Moto 28 meses,64.14,32198.28,Boleto,Pago,,,São Paulo,Em andamento
+L00012,M004,C0012,17/09/2025,17/01/2028,15/02/2026,Minha Moto 28 meses,64.14,9685.14,Pix,Pago,,,São Paulo,Finalizada
+L00013,M003,C0013,25/03/2026,25/07/2028,04/08/2026,Minha Moto 28 meses,64.14,8466.48,Pix,Não informado,,,São Paulo,Finalizada
+L00014,M003,C0014,04/08/2026,02/11/2026,08/10/2026,Start 90 dias,54.14,3519.1,Não informado,Não informado,,,São Paulo,Finalizada
+L00015,M003,C0015,08/10/2026,08/02/2029,,Minha Moto 28 meses,64.14,2116.62,Não informado,Não informado,,,São Paulo,Em andamento
